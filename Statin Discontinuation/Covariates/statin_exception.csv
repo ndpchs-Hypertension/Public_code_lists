@@ -1,0 +1,28 @@
+medcode,readcode,clinicalevents,immunisationevents,referralevents,testevents,readterm,databaserelease
+103638,8I27000,199,0,0,0,Simvastatin contraindicated,January 2012
+10808,8I27.00,14676,0,6,0,Statins contraindicated,February 2009
+11529,8I76.00,35533,0,30,0,Statin not tolerated,February 2009
+13034,TJC2500,2025,0,0,0,Adverse reaction to pravastatin,February 2009
+10681,8I63.00,56189,0,3,0,Statin not indicated,February 2009
+10813,8I3C.00,166684,0,15,0,Statin declined,February 2009
+13031,TJC2400,15904,0,2,0,Adverse reaction to simvastatin,February 2009
+56401,U60C615,1150,0,0,0,[X] Adverse reaction to simvastatin,February 2009
+73855,U60C616,62,0,0,0,[X] Adverse reaction to pravastatin,February 2009
+11416,U60CA00,34199,0,13,0,[X]Statin causing adverse effect in therapeutic use,February 2009
+30749,9hH0.00,9481,0,1,0,Excepted heart failure quality indicators: Patient unsuitabl,February 2009
+115384,9hH2.00,4,0,0,0,Excepted from heart failure quality indicators: Service Unav,February 2021
+11348,9h42.00,192859,0,14,0,Excepted from diabetes quality indicators: Informed dissent,February 2009
+11041,9h41.00,120341,0,5,0,Excepted from diabetes qual indicators: Patient unsuitable,February 2009
+97270,9hJ0.00,7879,0,0,0,Excepted CVD quality indicators: patient unsuitabl,August 2009
+11613,9h11.00,6342,0,1,0,Excepted from LVD quality indicators: Patient unsuitable,February 2009
+11038,9h01.00,98720,0,4,0,Excepted from CHD quality indicators: Patient unsuitable,February 2009
+11039,9h21.00,76614,0,2,0,Excepted from stroke quality indicators: Patient unsuitable,February 2009
+64062,9hH1.00,2253,0,0,0,Excepted heart failure quality indicators: Informed dissent,February 2009
+101834,9h43.00,572,0,0,0,Excepted from diabetes qual indicators: service unavailable,March 2011
+97428,9hJ1.00,7901,0,0,0,Excepted CVD quality indicators: informed dissent,August 2009
+10961,9h31.00,107863,0,11,0,Excepted from hypertension qual indicators: Patient unsuit,February 2009
+28649,9h12.00,962,0,3,0,Excepted from LVD quality indicators: Informed dissent,February 2009
+10910,9h02.00,88988,0,2,0,Excepted from CHD quality indicators: Informed dissent,February 2009
+10976,9h32.00,204767,0,8,0,Excepted from hypertension qual indicators: Informed dissent,February 2009
+104394,9hS0.00,4820,0,0,0,Excepted frm peripheral arterial dis qual ind: pt unsuitable,June 2012
+11074,9h22.00,34989,0,1,0,Excepted from stroke quality indicators: Informed dissent,February 2009

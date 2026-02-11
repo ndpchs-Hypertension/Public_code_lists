@@ -1,0 +1,116 @@
+medcode,readcode,clinicalevents,immunisationevents,referralevents,testevents,readterm,databaserelease,,Anna review 
+63333,F390000,44,0,1,0,Benign congenital myopathy,Feb-09,,0
+41904,F391600,49,0,1,0,Ocular muscular dystrophy,Feb-09,,0
+70192,N230E00,35,0,0,0,Muscle abscess-arm,Feb-09,,0
+105209,K045.00,104,0,0,0,Acute renal failure due to non-traumatic rhabdomyolysis,Nov-12,,1
+42940,H57y100,102,0,4,0,Lung disease with polymyositis,Feb-09,,0
+57888,F396300,22,0,0,0,Myopathy due to polyarteritis nodosa,Feb-09,,0
+51416,F395300,25,0,0,0,Myopathy due to myxoedema,Feb-09,,0
+1338,N241000,217707,0,7703,18,Myalgia unspecified,Feb-09,,1
+4908,N003.00,3984,0,169,9,Dermatomyositis,Feb-09,,0
+67444,N230000,2,0,0,0,Infective myositis-neck,Feb-09,,0
+70208,N230F00,12,0,0,0,Muscle abscess-forearm,Feb-09,,0
+105267,K04B.00,34,0,0,0,Acute renal failure due to traumatic rhabdomyolysis,Nov-12,,0
+97444,Fyu8200,10,0,0,0,[X]Other specified myopathies,Aug-09,,1
+27512,N241.00,4341,0,7,0,Myalgia and myositis unspecified,Feb-09,,1
+43201,N23z.11,124,0,2,0,Muscle damage NOS,Feb-09,,1
+17392,F397.00,2553,0,168,0,Proximal myopathy,Feb-09,,1
+717,N248.00,137484,0,5096,2,Fibromyalgia,Feb-09,,0
+17007,F4G1200,554,0,19,0,Orbital myositis,Feb-09,,0
+93312,N230800,7,0,0,0,Infective myositis-leg,Feb-09,,0
+100876,N230C00,21,0,0,0,Muscle abscess-back,Nov-10,,0
+48036,F391100,120,0,2,0,Erb's muscular dystrophy,Feb-09,,0
+47718,N233200,14,0,1,0,Myositis in sarcoidosis,Feb-09,,0
+68118,F391.00,17,0,0,0,Hereditary progressive muscular dystrophy,Feb-09,,0
+42713,N233.00,170,0,3,0,Other specific muscle disorder,Feb-09,,0
+32649,N003000,172,0,3,0,Juvenile dermatomyositis,Feb-09,,0
+28316,N003X00,516,0,0,0,"Dermatopolymyositis, unspecified",Feb-09,,0
+2919,N241300,7569,0,86,0,Viral myalgia,Feb-09,,0
+43126,Nyu8000,82,0,2,0,[X]Other myositis,Feb-09,,1
+3649,N241z00,6185,0,65,1,Myalgia or myositis NOS,Feb-09,,1
+18307,F39X.00,533,0,16,0,"Mitochondrial myopathy, not elsewhere classified",Feb-09,,0
+36866,N230.00,282,0,2,0,Infective myositis,Feb-09,,0
+34425,N232200,1377,0,146,0,Muscle wasting NEC,Feb-09,,0
+73806,N230B00,10,0,0,0,Muscle abscess-neck,Feb-09,,0
+94568,N230K00,49,0,0,0,Muscle abscess-leg,Feb-09,,0
+95831,N233300,2694,0,21,0,Rhabdomyolysis,Feb-09,,1
+41539,Nyu8B00,40,0,0,0,"[X]Disorder of muscle, unspecified",Feb-09,,1
+38448,F391700,98,0,3,0,Oculopharyngeal muscular dystrophy,Feb-09,,0
+37418,N241200,185,0,5,0,Fibromyositis NOS,Feb-09,,0
+45473,PGyy400,13,0,1,0,Aplasia of muscle,Feb-09,,0
+52519,F396500,16,0,2,0,Myopathy due to sarcoidosis,Feb-09,,0
+36079,F394000,163,0,0,0,Drug-induced myopathy,Feb-09,,1
+12620,N23..00,3029,0,59,0,"Muscle, ligament and fascia disorders",Feb-09,,1
+22174,F390z00,18,0,1,0,Congenital hereditary muscular dystrophy NOS,Feb-09,,0
+57638,F396z00,12,0,1,0,Symptomatic inflammatory myopathy in disease NOS,Feb-09,,0
+94601,N230L00,11,0,0,0,Muscle abscess-foot,Feb-09,,0
+109111,N23yF00,6,0,0,0,Muscle crush syndrome,Jan-15,,0
+64690,F390.00,56,0,1,0,Congenital hereditary muscular dystrophy,Feb-09,,0
+32016,F39y.00,124,0,4,0,Other myopathies and muscular dystrophies,Feb-09,,1
+70190,N230D00,7,0,0,0,Muscle abscess-shoulder,Feb-09,,0
+11919,N233z00,114,0,1,0,Other specific muscle disorder NOS,Feb-09,,1
+23628,N230.11,17,0,0,0,Purulent myositis,Feb-09,,0
+94583,N230.12,1,0,0,0,Suppurative myositis,Feb-09,,0
+44708,F395.00,11,0,0,0,Myopathy due to endocrine disease EC,Feb-09,,0
+39725,F395z00,8,0,0,0,Myopathy due to endocrine disease NOS,Feb-09,,0
+71128,F391y00,9,0,2,0,Other specified hereditary progressive muscular dystrophy,Feb-09,,0
+53862,Nyu4400,3,0,0,0,[X]Other dermatomyositis,Feb-09,,0
+103053,7H56B00,75,0,0,0,Decompress thoracic outlet myotomy scalenus anticus muscle,Oct-11,,0
+94730,N230J00,68,0,0,0,Muscle abscess-thigh,Feb-09,,0
+94459,N230500,4,0,0,0,Infective myositis-hand,Feb-09,,0
+5492,N241100,6705,0,309,5,Myositis unspecified,Feb-09,,1
+55601,F396600,21,0,1,0,Myopathy due to scleroderma,Feb-09,,0
+48167,F395400,34,0,1,0,Myopathy due to thyrotoxicosis,Feb-09,,0
+104026,F38..11,90,0,11,0,Neuromuscular disease,May-12,,0
+69430,PGy0211,7,0,0,0,Muscle agenesis,Feb-09,,0
+31742,F394100,206,0,2,0,Alcoholic myopathy,Feb-09,,1
+4981,N23y200,1230,0,122,1,Nontraumatic muscle rupture,Feb-09,,0
+69198,F395000,3,0,1,0,Myopathy due to Addison's disease,Feb-09,,0
+64405,Nyu8500,15,0,0,0,[X]Other specified disorders of muscle,Feb-09,,1
+29472,N200.00,881,0,17,1,Giant cell arteritis with polymyalgia rheumatica,Feb-09,,0
+17085,N240200,6141,0,191,4,Muscular rheumatism,Feb-09,,0
+41395,Nyu8.00,81,0,4,0,[X]Disorders of muscles,Feb-09,,1
+50192,Nyu8300,22,0,1,0,[X]Other rupture of muscle (nontraumatic),Feb-09,,0
+21425,F391z00,10,0,0,0,Hereditary progressive muscular dystrophy NOS,Feb-09,,0
+103648,7H52100,2,0,0,0,Destruction of lesion of muscle,Jan-12,,0
+53868,Fyu8A00,6,0,0,0,"[X]Mitochondrial myopathy, not elsewhere classified",Feb-09,,0
+62297,F396000,12,0,1,0,Myopathy due to amyloid,Feb-09,,0
+21022,F396700,143,0,5,0,Myopathy due to Sjogren's disease,Feb-09,,0
+93228,Fyu1300,12,0,0,0,[X]Paraneoplastic neuromyopathy and neuropathy,Feb-09,,0
+39740,N23y000,25,0,2,0,Interstitial myositis,Feb-09,,0
+103722,F390500,157,0,1,0,Congenital myopathy,Feb-12,,0
+95043,N230H00,3,0,0,0,Muscle abscess-pelvis,Feb-09,,0
+3042,N20..11,14791,0,1729,82,Polymyalgia,Feb-09,,0
+60690,F395100,11,0,0,0,Myopathy due to Cushing's syndrome,Feb-09,,0
+98866,N230G00,17,0,0,0,Muscle abscess-hand,Apr-10,,0
+36671,F391400,385,0,15,0,Facioscapulohumeral muscular dystrophy,Feb-09,,0
+28262,F39W.00,212,0,7,0,"Inflammatory myopathy, not elsewhere classified",Feb-09,,0
+111255,Fyu8B00,7,0,0,0,"[X]Inflammatory myopathy, not elsewhere classified",Aug-16,,0
+5964,F39B.00,2138,0,146,2,Muscular dystrophy,Feb-09,,0
+1408,N20..00,393981,0,7973,43,Polymyalgia rheumatica,Feb-09,,0
+15511,N004.00,3860,0,190,1,Polymyositis,Feb-09,,0
+32916,F394.00,33,0,0,0,Toxic myopathy,Feb-09,,0
+63541,F396.00,8,0,0,0,Symptomatic inflammatory myopathy in disease EC,Feb-09,,0
+44925,F398.00,63,0,4,0,Myopathy in metabolic diseases,Feb-09,,0
+91559,N003100,3,0,0,0,Dermatopolymyositis in neoplastic disease,Feb-09,,0
+91544,F391200,16,0,0,0,Pelvic muscular dystrophy,Feb-09,,0
+40887,N23yB00,116,0,2,0,Ischaemic infarction of muscle,Feb-09,,0
+25429,F390300,50,0,0,0,Myotubular myopathy,Feb-09,,0
+108795,Fyu8900,3,0,0,0,[X]Myopathy in other diseases classified elsewhere,Nov-14,,0
+5440,N241012,190364,0,4957,19,Muscle pain,Feb-09,,1
+14969,N241011,16330,0,207,0,Intercostal myalgia,Feb-09,,0
+40387,N003.11,21,0,0,0,Poikilodermatomyositis,Feb-09,,0
+73103,N230A00,28,0,0,0,Muscle abscess,Feb-09,,0
+31209,F396400,37,0,1,0,Myopathy due to rheumatoid arthritis,Feb-09,,0
+6599,F39..00,3322,0,312,1,Muscular dystrophies and other myopathies,Feb-09,,0
+28210,F391300,54,0,2,0,Other limb-girdle muscular dystrophy,Feb-09,,0
+1632,F39z.00,2053,0,222,0,Myopathy or muscular dystrophy NOS,Feb-09,,0
+102652,N230100,2,0,0,0,Infective myositis-back,Jul-11,,0
+14676,N23z.00,5182,0,935,2,"Muscle, ligament or fascia disorder NOS",Feb-09,,1
+100916,N230700,3,0,0,0,Infective myositis-thigh,Nov-10,,0
+95437,Nyu4E00,5,0,0,0,"[X]Dermatopolymyositis, unspecified",Feb-09,,0
+103446,Fyu8100,3,0,0,0,[X]Other primary disorders of muscles,Dec-11,,0
+4657,N239.00,35840,0,1582,7,Fibromyalgia,Feb-09,,0
+108072,F396100,2,0,0,0,Myopathy due to disseminated lupus erythematosus,May-14,,0
+49482,F396200,3,0,0,0,Myopathy due to malignant disease,Feb-09,,0
+110680,Nyu8A00,3,0,0,0,[X]Other disorders of muscle in diseases CE,Mar-16,,0
