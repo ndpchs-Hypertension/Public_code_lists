@@ -1,0 +1,96 @@
+prodcode,therapyevents,gemscriptcode,productname,drugsubstancename,substancestrength,formulation,routeofadministration,bnfcode,bnfheader,databasebuild
+55316,1,20945020,Warfarin 3mg/5ml oral suspension,Warfarin sodium,600microgram/1ml,Oral suspension,Oral,2080200,Oral Anticoagulants,May 2013
+43655,1,91752020,Warfarin sodium oral solution,Warfarin Sodium,,Oral Liquid,Oral,2080200,Oral Anticoagulants,October 2010
+59400,1,2311020,Warfarin 500microgram tablets (Sigma Pharmaceuticals Plc),Warfarin sodium,500microgram,Tablet,Oral,2080200,Oral Anticoagulants,April 2014
+69128,1,33709020,Warfarin 500micrograms/5ml oral solution,Warfarin sodium,100microgram/1ml,Oral solution,Oral,2080200,Oral Anticoagulants,April 2017
+56314,1,63429020,Warfarin 3mg tablets (Kent Pharmaceuticals Ltd),Warfarin sodium,3mg,Tablet,Oral,2080200,Oral Anticoagulants,August 2013
+68667,1,69465021,Warfarin 5mg capsules,Warfarin sodium,5mg,Capsule,Oral,2080200,Oral Anticoagulants,January 2017
+63071,1,9950020,Warfarin 4mg tablets,Warfarin sodium,4mg,Tablet,Oral,2080200,Oral Anticoagulants,May 2015
+51509,1,38963020,Warfarin 1mg tablets (APC Pharmaceuticals & Chemicals (Europe) Ltd),Warfarin sodium,1mg,Tablet,Oral,2080200,Oral Anticoagulants,January 2013
+53752,1,2297020,Warfarin 1mg tablets (Alliance Healthcare (Distribution) Ltd),Warfarin sodium,1mg,Tablet,Oral,2080200,Oral Anticoagulants,February 2013
+57032,1,77754020,Warfarin 1mg/ml oral suspension sugar free (Rosemont Pharmaceuticals Ltd),Warfarin sodium,1mg/1ml,Oral suspension,Oral,2080200,Oral Anticoagulants,September 2013
+58787,1,2305020,Warfarin 5mg tablets (Alliance Healthcare (Distribution) Ltd),Warfarin sodium,5mg,Tablet,Oral,2080200,Oral Anticoagulants,February 2014
+71196,1,33697020,Warfarin 1.5mg/5ml oral solution,Warfarin sodium,300microgram/1ml,Oral solution,Oral,2080200,Oral Anticoagulants,December 2017
+66286,1,33701020,Warfarin 2.5mg/5ml oral solution,Warfarin sodium,500microgram/1ml,Oral solution,Oral,2080200,Oral Anticoagulants,June 2016
+68795,2,69461021,Warfarin 1mg capsules,Warfarin sodium,1mg,Capsule,Oral,2080200,Oral Anticoagulants,February 2017
+51484,2,2298020,Warfarin 1mg tablets (Bristol Laboratories Ltd),Warfarin sodium,1mg,Tablet,Oral,2080200,Oral Anticoagulants,January 2013
+71386,4,20938020,Warfarin 1mg/5ml oral solution (Special Order),Warfarin sodium,200microgram/1ml,Oral solution,Oral,2080200,Oral Anticoagulants,January 2018
+59578,2,2303020,Warfarin 3mg tablets (Phoenix Healthcare Distribution Ltd),Warfarin sodium,3mg,Tablet,Oral,2080200,Oral Anticoagulants,April 2014
+51496,4,2299020,Warfarin 1mg tablets (Phoenix Healthcare Distribution Ltd),Warfarin sodium,1mg,Tablet,Oral,2080200,Oral Anticoagulants,January 2013
+62310,6,41332020,Warfarin 500microgram tablets (AMCo),Warfarin sodium,500microgram,Tablet,Oral,2080200,Oral Anticoagulants,February 2015
+34691,12,62856020,Warfarin 5mg Tablet (Regent Laboratories Ltd),Warfarin sodium,5mg,Tablet,Oral,2080200,Oral Anticoagulants,February 2009
+54946,8,57162020,Warfarin 3mg tablets (Actavis UK Ltd),Warfarin sodium,3mg,Tablet,Oral,2080200,Oral Anticoagulants,May 2013
+34918,22,57163020,Warfarin 5mg tablets (Actavis UK Ltd),Warfarin sodium,5mg,Tablet,Oral,2080200,Oral Anticoagulants,February 2009
+60589,27,72795020,Warfarin 500microgram tablets (Actavis UK Ltd),Warfarin sodium,500microgram,Tablet,Oral,2080200,Oral Anticoagulants,July 2014
+47944,31,57161020,Warfarin 1mg tablets (Actavis UK Ltd),Warfarin sodium,1mg,Tablet,Oral,2080200,Oral Anticoagulants,October 2012
+34576,31,59540020,Warfarin 1mg Tablet (Lagap),Warfarin sodium,1mg,Tablet,Oral,2080200,Oral Anticoagulants,February 2009
+34416,48,63426020,Warfarin 1mg tablets (Kent Pharmaceuticals Ltd),Warfarin sodium,1mg,Tablet,Oral,2080200,Oral Anticoagulants,February 2009
+34517,56,62803020,Warfarin 1mg tablets (Mylan),Warfarin sodium,1mg,Tablet,Oral,2080200,Oral Anticoagulants,February 2009
+39866,57,68098020,Warfarin 1mg tablets (Almus Pharmaceuticals Ltd),Warfarin sodium,1mg,Tablet,Oral,2080200,Oral Anticoagulants,August 2009
+34418,62,62805020,Warfarin 5mg tablets (Mylan),Warfarin sodium,5mg,Tablet,Oral,2080200,Oral Anticoagulants,February 2009
+34526,70,62804020,Warfarin 3mg tablets (Mylan),Warfarin sodium,3mg,Tablet,Oral,2080200,Oral Anticoagulants,February 2009
+38044,82,94825020,Warfarin 5mg/5ml oral solution,Warfarin sodium,1mg/1ml,Oral solution,Oral,2080200,Oral Anticoagulants,February 2009
+38041,86,94827020,Warfarin sodium 5mg/ml oral suspension,Warfarin Sodium,5mg/5ml,Oral Suspension,Oral,2080200,Oral Anticoagulants,February 2009
+60949,107,20948020,Warfarin 5mg/5ml oral suspension,Warfarin sodium,1mg/1ml,Oral suspension,Oral,2080200,Oral Anticoagulants,August 2014
+34088,191,50812020,Warfarin 5mg Tablet (Celltech Pharma Europe Ltd),Warfarin sodium,5mg,Tablet,Oral,2080200,Oral Anticoagulants,February 2009
+43409,286,56202020,Warfarin 5mg tablets (A A H Pharmaceuticals Ltd),Warfarin sodium,5mg,Tablet,Oral,2080200,Oral Anticoagulants,September 2010
+44866,323,99253020,Warfarin sodium 1mg/ml oral supension SF,Warfarin Sodium,1mg/ml,Oral Suspension Sugar-free,Oral,2080200,Oral Anticoagulants,March 2011
+34086,328,50811020,Warfarin 3mg Tablet (Celltech Pharma Europe Ltd),Warfarin sodium,3mg,Tablet,Oral,2080200,Oral Anticoagulants,February 2009
+36099,336,93666020,Warfarin 1mg/5ml oral suspension,Warfarin sodium,200microgram/1ml,Oral suspension,Oral,2080200,Oral Anticoagulants,February 2009
+833,362,89966020,Warfarin 3mg/5ml oral solution,Warfarin sodium,600microgram/1ml,Oral solution,Oral,2080200,Oral Anticoagulants,February 2009
+43407,468,56201020,Warfarin 3mg tablets (A A H Pharmaceuticals Ltd),Warfarin sodium,3mg,Tablet,Oral,2080200,Oral Anticoagulants,September 2010
+34087,718,50810020,Warfarin 1mg Tablet (Celltech Pharma Europe Ltd),Warfarin sodium,1mg,Tablet,Oral,2080200,Oral Anticoagulants,February 2009
+43408,766,56200020,Warfarin 1mg tablets (A A H Pharmaceuticals Ltd),Warfarin sodium,1mg,Tablet,Oral,2080200,Oral Anticoagulants,September 2010
+40143,1279,65390020,Warfarin 500microgram tablets (A A H Pharmaceuticals Ltd),Warfarin sodium,500microgram,Tablet,Oral,2080200,Oral Anticoagulants,August 2009
+34095,1336,52502020,Warfarin wbp 5mg Tablet (Boehringer Ingelheim Ltd),Warfarin sodium,5mg,Tablet,Oral,2080200,Oral Anticoagulants,February 2009
+48869,1522,37790020,Warfarin 1mg/ml oral suspension sugar free,Warfarin sodium,1mg/1ml,Oral suspension,Oral,2080200,Oral Anticoagulants,January 2013
+34864,1576,55897020,Warfarin 5mg tablets (IVAX Pharmaceuticals UK Ltd),Warfarin sodium,5mg,Tablet,Oral,2080200,Oral Anticoagulants,February 2009
+34417,1992,55825020,Warfarin 3mg tablets (Teva UK Ltd),Warfarin sodium,3mg,Tablet,Oral,2080200,Oral Anticoagulants,February 2009
+34758,2542,55896020,Warfarin 3mg tablets (IVAX Pharmaceuticals UK Ltd),Warfarin sodium,3mg,Tablet,Oral,2080200,Oral Anticoagulants,February 2009
+34019,2704,55895020,Warfarin 1mg tablets (IVAX Pharmaceuticals UK Ltd),Warfarin sodium,1mg,Tablet,Oral,2080200,Oral Anticoagulants,February 2009
+30203,2905,52501020,Warfarin wbp 3mg Tablet (Boehringer Ingelheim Ltd),Warfarin sodium,3mg,Tablet,Oral,2080200,Oral Anticoagulants,February 2009
+31937,3307,55826020,Warfarin 5mg tablets (Teva UK Ltd),Warfarin sodium,5mg,Tablet,Oral,2080200,Oral Anticoagulants,February 2009
+34299,3416,55824020,Warfarin 1mg tablets (Teva UK Ltd),Warfarin sodium,1mg,Tablet,Oral,2080200,Oral Anticoagulants,February 2009
+30202,3736,52500020,Warfarin wbp 1mg Tablet (Boehringer Ingelheim Ltd),Warfarin sodium,1mg,Tablet,Oral,2080200,Oral Anticoagulants,February 2009
+33711,5490,51986020,Warfarin 5mg Tablet (WB Pharmaceuticals Ltd),Warfarin sodium,5mg,Tablet,Oral,2080200,Oral Anticoagulants,February 2009
+17965,8875,77096020,Marevan 500microgram tablets (AMCo),Warfarin sodium,500microgram,Tablet,Oral,2080200,Oral Anticoagulants,February 2009
+31511,17134,51985020,Warfarin 3mg Tablet (WB Pharmaceuticals Ltd),Warfarin sodium,3mg,Tablet,Oral,2080200,Oral Anticoagulants,February 2009
+23078,18701,51984020,Warfarin 1mg Tablet (WB Pharmaceuticals Ltd),Warfarin sodium,1mg,Tablet,Oral,2080200,Oral Anticoagulants,February 2009
+13348,21864,54868020,Marevan 5mg tablets (AMCo),Warfarin sodium,5mg,Tablet,Oral,2080200,Oral Anticoagulants,February 2009
+8467,40658,54867020,Marevan 3mg tablets (AMCo),Warfarin sodium,3mg,Tablet,Oral,2080200,Oral Anticoagulants,February 2009
+8466,49293,54866020,Marevan 1mg tablets (AMCo),Warfarin sodium,1mg,Tablet,Oral,2080200,Oral Anticoagulants,February 2009
+6262,663497,84736020,Warfarin 500microgram tablets,Warfarin sodium,500microgram,Tablet,Oral,2080200,Oral Anticoagulants,February 2009
+1781,2077895,65439020,Warfarin 5mg tablets,Warfarin sodium,5mg,Tablet,Oral,2080200,Oral Anticoagulants,February 2009
+61,5135707,65438020,Warfarin 3mg tablets,Warfarin sodium,3mg,Tablet,Oral,2080200,Oral Anticoagulants,February 2009
+45,6694577,65437020,Warfarin 1mg tablets,Warfarin sodium,1mg,Tablet,Oral,2080200,Oral Anticoagulants,February 2009
+4446,28726,60995020,Acenocoumarol 1mg tablets,Acenocoumarol,1mg,Tablet,Oral,2080200,Oral Anticoagulants,February 2009
+15376,239,60996020,Acenocoumarol 4mg tablets,Acenocoumarol,4mg,Tablets,Oral,2080200,Oral Anticoagulants,February 2009
+5305,39547,51558020,Sinthrome 1mg tablets (Merus Labs Luxco S.a R.L.),Acenocoumarol,1mg,Tablet,Oral,2080200,Oral Anticoagulants,February 2009
+15006,753,51559020,Sinthrome 4mg Tablet (Alliance Pharmaceuticals Ltd),Acenocoumarol,4mg,Tablet,Oral,2080200,Oral Anticoagulants,February 2009
+58594,322,46753020,Eliquis 5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Apixaban,5mg,Tablet,Oral,2080200,Oral Anticoagulants,January 2014
+47566,91019,345021,Apixaban 2.5mg tablets,Apixaban,2.5mg,Tablet,Oral,2080200,Oral Anticoagulants,August 2012
+53740,259,347021,Eliquis 2.5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Apixaban,2.5mg,Tablet,Oral,2080200,Oral Anticoagulants,February 2013
+54066,142953,46752020,Apixaban 5mg tablets,Apixaban,5mg,Tablet,Oral,2080200,Oral Anticoagulants,March 2013
+42474,255,94835020,Pradaxa 75mg capsules (Boehringer Ingelheim Ltd),Dabigatran etexilate mesilate,75mg,Capsule,Oral,2080200,Oral Anticoagulants,June 2010
+39444,51407,94831020,Dabigatran etexilate 110mg capsules,Dabigatran etexilate mesilate,110mg,Capsule,Oral,2080200,Oral Anticoagulants,April 2009
+46678,1685,253021,Pradaxa 150mg capsules (Boehringer Ingelheim Ltd),Dabigatran etexilate mesilate,150mg,Capsule,Oral,2080200,Oral Anticoagulants,January 2012
+39755,2171,94837020,Pradaxa 110mg capsules (Boehringer Ingelheim Ltd),Dabigatran etexilate mesilate,110mg,Capsule,Oral,2080200,Oral Anticoagulants,June 2009
+46632,38372,251021,Dabigatran etexilate 150mg capsules,Dabigatran etexilate mesilate,150mg,Capsule,Oral,2080200,Oral Anticoagulants,January 2012
+39503,2312,94833020,Dabigatran etexilate 75mg capsules,Dabigatran etexilate mesilate,75mg,Capsule,Oral,2080200,Oral Anticoagulants,April 2009
+64678,1608,53104021,Edoxaban 60mg tablets,Edoxaban tosilate,60mg,Tablet,Oral,2080200,Oral Anticoagulants,November 2015
+65247,1259,53102021,Edoxaban 30mg tablets,Edoxaban tosilate,30mg,Tablet,Oral,2080200,Oral Anticoagulants,January 2016
+65876,1,53100021,Edoxaban 15mg tablets,Edoxaban tosilate,15mg,Tablet,Oral,2080200,Oral Anticoagulants,April 2016
+65850,38,53105021,Lixiana 60mg tablets (Daiichi Sankyo UK Ltd),Edoxaban tosilate,60mg,Tablet,Oral,2080200,Oral Anticoagulants,April 2016
+66529,13,53103021,Lixiana 30mg tablets (Daiichi Sankyo UK Ltd),Edoxaban tosilate,30mg,Tablet,Oral,2080200,Oral Anticoagulants,June 2016
+47353,1883,756021,Rivaroxaban 15mg tablets,Rivaroxaban,15mg,Tablet,Oral,0,Unknown,June 2012
+56640,464,39230020,Xarelto 15mg tablets (Bayer Plc),Rivaroxaban,15mg,Tablet,Oral,2080200,Oral Anticoagulants,August 2013
+48134,59,758021,Xarelto 15mg tablets (Bayer Plc),Rivaroxaban,15mg,Tablet,Oral,0,Unknown,December 2012
+56289,1658,39232020,Xarelto 20mg tablets (Bayer Plc),Rivaroxaban,20mg,Tablet,Oral,2080200,Oral Anticoagulants,August 2013
+47925,84,762021,Xarelto 20mg tablets (Bayer Plc),Rivaroxaban,20mg,Tablet,Oral,0,Unknown,October 2012
+54451,311081,39231020,Rivaroxaban 20mg tablets,Rivaroxaban,20mg,Tablet,Oral,2080200,Oral Anticoagulants,April 2013
+48966,94375,39229020,Rivaroxaban 15mg tablets,Rivaroxaban,15mg,Tablet,Oral,2080200,Oral Anticoagulants,January 2013
+47207,5048,760021,Rivaroxaban 20mg tablets,Rivaroxaban,20mg,Tablet,Oral,0,Unknown,May 2012
+39639,68,95937020,Xarelto 10mg tablets (Bayer Plc),Rivaroxaban,10mg,Tablet,Oral,2080200,Oral Anticoagulants,May 2009
+39119,9688,95923020,Rivaroxaban 10mg tablets,Rivaroxaban,10mg,Tablet,Oral,2080200,Oral Anticoagulants,April 2009
+64500,8,40546021,Xarelto 2.5mg tablets (Bayer Plc),Rivaroxaban,2.5mg,Tablet,Oral,2080200,Oral Anticoagulants,October 2015
+62150,767,40545021,Rivaroxaban 2.5mg tablets,Rivaroxaban,2.5mg,Tablet,Oral,2080200,Oral Anticoagulants,January 2015

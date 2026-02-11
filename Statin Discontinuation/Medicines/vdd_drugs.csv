@@ -1,0 +1,471 @@
+prodcode,dmdcode,gemscriptcode,therapyevents,productname,ingredient,strength,formulation,routeofadministration,bnfchapter,bnftext,databasebuild,vdd_code
+61745,26395511000001104,31243021,352348,TheiCal-D3 1000mg/880unit chewable tablets (Stirling Anglian Pharmaceuticals Ltd),Calcium carbonate/Colecalciferol,2.5gram + 880unit,Chewable tablet,Oral,09060400,Vitamin D,December 2014,1
+60525,23661911000001104,21611021,27,Colecalciferol 500unit orodispersible tablets sugar free,Colecalciferol,500unit,Orodispersible tablet,Oral,09060400,Vitamin D,July 2014,1
+71829,22197711000001108,15398021,1,E-D3 600unit capsules (Ennogen Healthcare Ltd),Colecalciferol,600unit,Capsule,Oral,09060400,Vitamin D,April 2018,1
+72267,34872711000001100,78894021,214,"SunVit-D3 25,000unit tablets (SunVit-D3 Ltd)",Colecalciferol,25000unit,Tablet,Oral,09060400,Vitamin D,May 2018,1
+81841,37286611000001104,87844021,0,Adcal-D3 chewable tablets tutti frutti (Mawdsley-Brooks & Company Ltd),Calcium carbonate/Colecalciferol,1.5gram + 400unit,Chewable tablet,Oral,09060400,Vitamin D,September 2020,1
+67410,24641711000001104,26877021,1,"D-Max 5,000unit capsules (Nutraconcepts Ltd)",Colecalciferol,5000unit,Capsule,Oral,09060400,Vitamin D,September 2016,1
+31791,9380911000001108,82176020,2,Seven Seas Simply Timeless Cod Liver Oil syrup orange (Seven Seas Ltd),Retinol/Colecalciferol/Cod liver oil, +  + 1ml/1ml,Liquid,Oral,09040251,Nutritional Supplements,February 2009,1
+68517,32451611000001104,65861021,94,Aviticol 800unit capsules (Colonis Pharma Ltd),Colecalciferol,800unit,Capsule,Oral,09060400,Vitamin D,January 2017,1
+70436,34606511000001108,77354021,2752,Colecalciferol 400units/ml oral drops sugar free,Colecalciferol,400unit/1ml,Oral drops,Oral,09060400,Vitamin D,October 2017,1
+88461,41481111000001104,05413022,2,Life On Vitokid-D3 400unit oral drops sugar free (Life On Healthcare Ltd),Colecalciferol,400unit/1ml,Oral drops,Oral,09060400,Vitamin D,July 2023,1
+62749,28415211000001104,44804021,282,"Colecalciferol 10,000units/ml oral solution sugar free",Colecalciferol,10000unit/1ml,Oral solution,Oral,09060400,Vitamin D,April 2015,1
+80982,38056011000001104,91048021,40,"ColeDose D3 3,200unit capsules (TriOn Pharma Ltd)",Colecalciferol,3200unit,Capsule,Oral,09060400,Vitamin D,June 2020,1
+79475,32846211000001104,69725021,3,Natures Aid Vitamin D3 400unit tablets (Natures Aid Ltd),Colecalciferol,400unit,Tablet,Oral,09060400,Vitamin D,December 2019,1
+70721,24662711000001100,27088021,21,"D-Max 1,000unit capsules (Nutraconcepts Ltd)",Colecalciferol,1000unit,Capsule,Oral,09060400,Vitamin D,November 2017,1
+75955,266065001000027100,00398021,53,Colecalciferol 500 units tablets,Colecalciferol,,,,09060400,Vitamin D,April 2019,1
+67013,32471811000001104,67734021,2120,"Colecalciferol 4,000unit capsules",Colecalciferol,4000unit,Capsule,Oral,09060400,Vitamin D,August 2016,1
+88299,41189411000001104,04179022,1,"ColeKal-D3 20,000unit capsules (Essential-Healthcare Ltd)",Colecalciferol,20000unit,Capsule,Oral,09060400,Vitamin D,June 2023,1
+84009,38058311000001104,91283021,73,ColeDose D3 400unit capsules (TriOn Pharma Ltd),Colecalciferol,400unit,Capsule,Oral,09060400,Vitamin D,June 2021,1
+50373,20281411000001104,41231020,135,"Pro D3 2,000units/ml liquid (Synergy Biologics Ltd)",Colecalciferol,2000unit/1ml,Oral solution,Oral,09060400,Vitamin D,January 2013,1
+57336,21611211000001108,46632020,22,"Cubicole D3 2,200unit capsules (Cubic Pharmaceuticals Ltd)",Colecalciferol,2200unit,Capsule,Oral,09060400,Vitamin D,October 2013,1
+59927,23293811000001100,19977021,81,"D-Vit3 20,000unit capsules (IPS Specials)",Colecalciferol,20000unit,Capsule,Oral,09060400,Vitamin D,May 2014,1
+61170,19981011000001108,39775020,4,"Vitamin D3 Streuli 300,000units/1ml solution for injection ampoules (Imported (Switzerland))",Colecalciferol,300000unit/1ml,Solution for injection,Intramuscular,09060400,Vitamin D,September 2014,1
+53212,21172311000001104,44943020,985,"Aciferol D3 10,000unit tablets (Rhodes Pharma Ltd)",Colecalciferol,10000unit,Tablet,Oral,09060400,Vitamin D,January 2013,1
+51902,20509511000001104,41644020,39,"SynerVit-D3 20,000unit capsules (Synergy Pharmaceuticals)",Colecalciferol,20000unit,Capsule,Oral,09060400,Vitamin D,January 2013,1
+78590,37142211000001104,87596021,11,"Pro D3 2,000units/ml Vegan liquid (Synergy Biologics Ltd)",Colecalciferol,2000unit/1ml,Oral solution,Oral,09060400,Vitamin D,November 2019,1
+82086,38055611000001104,91374021,36,"ColeDose D3 1,000unit tablets (TriOn Pharma Ltd)",Colecalciferol,1000unit,Tablet,Oral,09060400,Vitamin D,November 2020,1
+70661,34491711000001104,77028021,47,"SunVit-D3 2,000units/ml oral solution (SunVit-D3 Ltd)",Colecalciferol,2000unit/1ml,Oral solution,Oral,09060400,Vitamin D,November 2017,1
+63104,28415111000001108,44802021,1004,"Colecalciferol 10,000units/ml oral drops sugar free",Colecalciferol,10000unit/1ml,Oral drops,Oral,09060400,Vitamin D,May 2015,1
+83113,39077311000001104,95762021,11,"Colecalciferol 2,500units/ml oral drops sugar free",Colecalciferol,2500unit/1ml,Oral drops,Oral,09060400,Vitamin D,February 2021,1
+52279,20457811000001100,41643020,648,"D-Pearls 20,000unit capsules (Pharma Nord (UK) Ltd)",Colecalciferol,20000unit,Capsule,Oral,09060400,Vitamin D,January 2013,1
+77931,34580611000001100,77335021,8,"Urgent-D 2,000unit chewable tablets (Vega Nutritionals Ltd)",Colecalciferol,2000unit,Chewable tablet,Oral,09060400,Vitamin D,September 2019,1
+47637,19887211000001100,00896021,0,"ColeVit D3 20,000units/ml oral solution (Sterling Pharmaceuticals Ltd)",Colecalciferol,20000unit/1ml,Oral solution,Oral,00000000,Unknown,August 2012,1
+71828,21015211000001104,44100020,6,E-D3 400unit capsules (Ennogen Healthcare Ltd),Colecalciferol,400unit,Capsule,Oral,09060400,Vitamin D,April 2018,1
+60114,23665411000001100,21558021,2143,"OsteoCaps D3 1,000unit capsules (Rhodes Pharma Ltd)",Colecalciferol,1000unit,Capsule,Oral,09060400,Vitamin D,June 2014,1
+68150,32876111000001108,69787021,66,"Colecalciferol 5,000units/ml oral drops sugar free",Colecalciferol,5000unit/1ml,Oral drops,Oral,09060400,Vitamin D,November 2016,1
+68958,33664511000001100,71532021,309,"Fultium daily D3 2,740units/ml drops (Internis Pharmaceuticals Ltd)",Colecalciferol,2740unit/1ml,Oral drops,Oral,09060400,Vitamin D,March 2017,1
+41463,16197311000001104,97710020,124456,"Colecalciferol 20,000unit capsules",Colecalciferol,20000unit,Capsule,Oral,09060400,Vitamin D,March 2010,1
+58087,21612111000001108,46629020,34,"Cubicole D3 20,000unit capsules (Cubic Pharmaceuticals Ltd)",Colecalciferol,20000unit,Capsule,Oral,09060400,Vitamin D,December 2013,1
+53987,21257811000001108,44935020,2,"ColeVit D3 3,000units/ml oral solution (Sterling Pharmaceuticals Ltd)",Colecalciferol,3000unit/1ml,Oral solution,Oral,09060400,Vitamin D,March 2013,1
+71801,34873511000001104,78893021,138,"SunVit-D3 40,000unit capsules (SunVit-D3 Ltd)",Colecalciferol,40000unit,Capsule,Oral,09060400,Vitamin D,April 2018,1
+69502,33657611000001100,71123021,26,Colecalciferol 400unit / Calcium carbonate 1.5g chewable tablets (Alliance Healthcare (Distribution) Ltd),Calcium carbonate/Colecalciferol,1.5gram + 400unit,Chewable tablet,Oral,09060400,Vitamin D,May 2017,1
+67199,32469711000001100,67763021,1638,"Desunin 4,000unit tablets (Viatris UK Healthcare Ltd)",Colecalciferol,4000unit,Tablet,Oral,09060400,Vitamin D,August 2016,1
+36979,13398611000001100,94212020,380997,Adcal-D3 Dissolve 1500mg/400unit effervescent tablets (Kyowa Kirin International UK NewCo Ltd),Calcium carbonate/Colecalciferol,1.5gram + 400unit,Effervescent tablet,Oral,09060400,Vitamin D,February 2009,1
+70879,10694211000001104,77026021,114,"Colecalciferol 10,000units/5ml oral solution sugar free",Colecalciferol,2000unit/1ml,Oral solution,Oral,09060400,Vitamin D,December 2017,1
+74204,22195811000001108,15396021,1,"E-D3 10,000unit capsules (Ennogen Healthcare Ltd)",Colecalciferol,10000unit,Capsule,Oral,09060400,Vitamin D,December 2018,1
+83271,39153011000001104,96175021,13,"ColeDose D3 20,000unit capsules (TriOn Pharma Ltd)",Colecalciferol,20000unit,Capsule,Oral,09060400,Vitamin D,March 2021,1
+68874,33664011000001108,71519021,5018,Fultium daily D3 400unit capsules (Internis Pharmaceuticals Ltd),Colecalciferol,400unit,Capsule,Oral,09060400,Vitamin D,February 2017,1
+28402,9380511000001100,82174020,40,Seven Seas Simply Timeless Traditional Cod Liver Oil liquid (Seven Seas Ltd),Retinol/Colecalciferol/Cod liver oil, +  + 1ml/1ml,Liquid,Oral,09040251,Nutritional Supplements,February 2009,1
+70527,34173811000001104,75904021,150,"SunVit-D3 3,200unit capsules (SunVit-D3 Ltd)",Colecalciferol,3200unit,Capsule,Oral,09060400,Vitamin D,October 2017,1
+59566,23295211000001104,19983021,19,D-Vit3 400unit capsules (IPS Specials),Colecalciferol,400unit,Capsule,Oral,09060400,Vitamin D,April 2014,1
+55235,21171711000001104,44946020,1548,"Aciferol D3 3,000unit tablets (Rhodes Pharma Ltd)",Colecalciferol,3000unit,Tablet,Oral,09060400,Vitamin D,May 2013,1
+59794,22480111000001104,16360021,99,"Colecalciferol 1,000unit / Folic acid 400microgram capsules",Folic acid/Colecalciferol,400microgram + 1000unit,Capsule,Oral,09010200/09060400,Drugs Used In Megaloblastic Anaemias/Vitamin D,May 2014,1
+62385,19916411000001108,39456020,2,Seven Seas Calcium and Vitamin D chewable tablets (Seven Seas Ltd),Calcium carbonate/Colecalciferol,400mg + 100unit,Chewable tablet,Oral,09060400,Vitamin D,February 2015,1
+54561,18496011000001100,37847020,10,"Colecalciferol 6,000units/5ml oral suspension",Colecalciferol,1200unit/1ml,Oral suspension,Oral,09060400,Vitamin D,April 2013,1
+48993,17326611000001100,37373020,243,"Solgar Vitamin D3 1,000unit capsules (Solgar Vitamin and Herb)",Colecalciferol,1000unit,Capsule,Oral,09060400,Vitamin D,January 2013,1
+57070,22196611000001100,15413021,1,"E-D3 20,000unit tablets (Ennogen Healthcare Ltd)",Colecalciferol,20000unit,Tablet,Oral,09060400,Vitamin D,September 2013,1
+63343,4933311000001104,14664020,0,Generic Crampex tablets,Colecalciferol/Calcium gluconate/Nicotinic acid,20microgram + 200mg + 20mg,Tablet,Oral,10020202,Other Muscle Relaxants,June 2015,1
+70635,34585211000001108,77336021,879,Colecalciferol 400unit chewable tablets,Colecalciferol,400unit,Chewable tablet,Oral,09060400,Vitamin D,November 2017,1
+21076,80535001000027100,58265020,26,Octovit Tablet (Goldshield Pharmaceuticals Ltd),Thiamine Nitrate/Vitamin A/Ascorbic Acid/Alpha Tocopheryl Acetate/Colecalciferol,,Tablet,Oral,09010101/09060700,Oral Iron/Multivitamin And Multimineral Preparations,February 2009,1
+85989,39151711000001104,96322021,11,"ColeDose D3 5,000unit tablets (TriOn Pharma Ltd)",Colecalciferol,5000unit,Tablet,Oral,09060400,Vitamin D,April 2022,1
+58181,21257211000001108,44933020,3,"ColeVit D3 30,000unit capsules (Sterling Pharmaceuticals Ltd)",Colecalciferol,30000unit,Capsule,Oral,09060400,Vitamin D,December 2013,1
+61130,23656211000001100,21612021,2,D3 Lemon Melts 500unit tablets (Nutri Advanced Ltd),Colecalciferol,500unit,Orodispersible tablet,Oral,09060400,Vitamin D,September 2014,1
+87901,40105811000001104,00467022,1,"Aactive D3 3,000unit tablets (TriOn Pharma Ltd)",Colecalciferol,3000unit,Tablet,Oral,09060400,Vitamin D,April 2023,1
+45774,17527711000001104,99763020,57712,Colecalciferol 400unit capsules,Colecalciferol,400unit,Capsule,Oral,09060400,Vitamin D,August 2011,1
+47079,16210911000001108,00651021,7293,"Colecalciferol 10,000unit capsules",Colecalciferol,10000unit,Capsule,Oral,09060400,Vitamin D,May 2012,1
+66917,32400711000001108,65973021,147252,"Calci-D 1000mg/1,000unit chewable tablets (Forum Health Products Ltd)",Colecalciferol/Calcium carbonate,1000iu + 2.5gram,Chewable tablet,Oral,09060400,Vitamin D,July 2016,1
+50213,19903611000001104,39405020,3432,"SunVit-D3 1,000unit tablets (SunVit-D3 Ltd)",Colecalciferol,1000unit,Tablet,Oral,09060400,Vitamin D,January 2013,1
+78070,36446211000001104,83157021,214,ColeKal-D3 400unit capsules (Essential-Healthcare Ltd),Colecalciferol,400unit,Capsule,Oral,09060400,Vitamin D,October 2019,1
+53678,20092711000001104,40230020,1,Neo-D 800units/ml oral drops (Neoceuticals Ltd),Colecalciferol,800unit/1ml,Oral drops,Oral,09060400,Vitamin D,February 2013,1
+62600,27942311000001104,40474021,6693,"Plenachol D3 40,000unit capsules (Accord-UK Ltd)",Colecalciferol,40000unit,Capsule,Oral,09060400,Vitamin D,March 2015,1
+7224,9526611000001108,89628020,25777,Alendronic acid 70mg / Colecalciferol 70microgram tablets,Colecalciferol/Alendronate sodium,70microgram + 70mg,Tablet,Oral,06060200,Bisphosphonates And Other Drugs Affecting Bone Metabolism,February 2009,1
+69409,33581511000001108,71248021,365,SunVit-D3 800unit tablets (SunVit-D3 Ltd),Colecalciferol,800unit,Tablet,Oral,09060400,Vitamin D,May 2017,1
+59043,23559611000001100,20677021,2433,Colecalciferol 200units/drop oral drops sugar free,Colecalciferol,200unit/1drop,Oral drops,Oral,09060400,Vitamin D,March 2014,1
+59882,23649011000001104,21571021,214,"Vitamin D3 High Strength 5,000unit tablets (Nutri Advanced Ltd)",Colecalciferol,5000unit,Tablet,Oral,09060400,Vitamin D,May 2014,1
+74353,35243711000001104,80258021,5,"Pro D3 3,200unit Vegan capsules (Synergy Biologics Ltd)",Colecalciferol,3200unit,Capsule,Oral,09060400,Vitamin D,January 2019,1
+56944,22193011000001104,15407021,35,Vita-D3 400unit tablets (Forum Health Products Ltd),Colecalciferol,400unit,Tablet,Oral,09060400,Vitamin D,August 2013,1
+51586,21215611000001108,45083020,182441,Desunin 800unit tablets (Viatris UK Healthcare Ltd),Colecalciferol,800unit,Tablet,Oral,09060400,Vitamin D,January 2013,1
+62263,27942511000001108,40471021,2163,"Plenachol D3 20,000unit capsules (Accord-UK Ltd)",Colecalciferol,20000unit,Capsule,Oral,09060400,Vitamin D,January 2015,1
+51645,13801511000001106,35168020,257,Colecalciferol 100unit / Calcium carbonate 400mg tablets,Calcium carbonate/Colecalciferol,400mg + 100unit,Tablet,Oral,09060400,Vitamin D,January 2013,1
+48840,19372611000001108,38088020,9918,Colecalciferol 400unit tablets,Colecalciferol,400unit,Tablet,Oral,09060400,Vitamin D,January 2013,1
+72064,34873211000001100,78887021,34,"SunVit-D3 2,500unit capsules (SunVit-D3 Ltd)",Colecalciferol,2500unit,Capsule,Oral,09060400,Vitamin D,April 2018,1
+47188,19200011000001104,00657021,1543,"Colecalciferol 30,000unit capsules",Colecalciferol,30000unit,Capsule,Oral,09060400,Vitamin D,May 2012,1
+69300,32410011000001104,65864021,46,"SunVit-D3 3,000unit tablets (SunVit-D3 Ltd)",Colecalciferol,3000unit,Tablet,Oral,09060400,Vitamin D,April 2017,1
+54981,21256511000001108,44923020,21,"ColeVit D3 10,000unit capsules (Sterling Pharmaceuticals Ltd)",Colecalciferol,10000unit,Capsule,Oral,09060400,Vitamin D,May 2013,1
+57351,22259711000001108,16251021,377,"Aciferol D3 2,000units/ml liquid (Rhodes Pharma Ltd)",Colecalciferol,2000unit/1ml,Oral solution,Oral,09060400,Vitamin D,October 2013,1
+60526,24469411000001104,26608021,55995,"Fultium-D3 3,200unit capsules (Internis Pharmaceuticals Ltd)",Colecalciferol,3200unit,Capsule,Oral,09060400,Vitamin D,July 2014,1
+74476,35437411000001108,81621021,254,"SunVit-D3 20,000unit capsules (SunVit-D3 Ltd)",Colecalciferol,20000unit,Capsule,Oral,09060400,Vitamin D,January 2019,1
+55373,20091911000001104,40228020,75,DLux 400 oral spray (BetterYou Ltd),Colecalciferol,400unit/1dose,Not applicable,Route of administration not applicable,09060400,Vitamin D,May 2013,1
+80901,38086711000001104,91527021,76,ColeKal-D3 Dissolve 400unit/1500mg effervescent tablets (Essential-Healthcare Ltd),Calcium carbonate/Colecalciferol,1.5gram + 400unit,Effervescent tablet,Oral,09060400,Vitamin D,June 2020,1
+74501,35243511000001100,80247021,51,Pro D3 800unit Vegan capsules (Synergy Biologics Ltd),Colecalciferol,800unit,Capsule,Oral,09060400,Vitamin D,January 2019,1
+9885,39697611000001104,60075020,54868,Colecalciferol 440unit / Calcium carbonate 1.25g effervescent granules sachets,Calcium carbonate/Colecalciferol,1.25gram + 440unit,Effervescent granules,Oral,09060400,Vitamin D,February 2009,1
+69960,34261411000001104,75891021,6885,InVita D3 400unit capsules (Forum Health Products Ltd),Colecalciferol,400unit,Capsule,Oral,09060400,Vitamin D,July 2017,1
+66128,23756311000001104,22906021,13,Kora LiquiD 3000units/ml oral solution (Kora Healthcare),Colecalciferol,3000unit/1ml,Oral solution,Oral,09060400,Vitamin D,May 2016,1
+56541,22402711000001108,16249021,745,"Colecalciferol 10,000units/5ml oral solution",Colecalciferol,2000unit/1ml,Oral solution,Oral,09060400,Vitamin D,August 2013,1
+63034,27707611000001108,40477021,431,"SunVit-D3 2,000unit tablets (SunVit-D3 Ltd)",Colecalciferol,2000unit,Tablet,Oral,09060400,Vitamin D,April 2015,1
+85943,40328311000001104,00793022,1,"Healthmarque D3 1,000unit oral drops (Kinerva Ltd)",Colecalciferol,1000unit/1drop,Oral drops,Oral,09060400,Vitamin D,April 2022,1
+52447,20457011000001108,41653020,375,D-Pearls 800unit capsules (Pharma Nord (UK) Ltd),Colecalciferol,800unit,Capsule,Oral,09060400,Vitamin D,January 2013,1
+72927,30759311000001104,60060021,1,Colecalciferol 400unit capsules (AM Distributions (Yorkshire) Ltd),Colecalciferol,400unit,Capsule,Oral,09060400,Vitamin D,August 2018,1
+83336,39152711000001104,96218021,2,"ColeDose D3 25,000unit tablets (TriOn Pharma Ltd)",Colecalciferol,25000unit,Tablet,Oral,09060400,Vitamin D,March 2021,1
+66764,16073111000001104,36798020,801,"Colecalciferol 2,000unit capsules",Colecalciferol,2000unit,Capsule,Oral,09060400,Vitamin D,July 2016,1
+49993,18781011000001100,37997020,147,"Colecalciferol 1,000units/ml oral solution",Colecalciferol,1000unit/1ml,Oral solution,Oral,09060400,Vitamin D,January 2013,1
+62885,28003611000001108,42975021,466293,"Stexerol-D3 1,000unit tablets (Kyowa Kirin International UK NewCo Ltd)",Colecalciferol,1000unit,Tablet,Oral,09060400,Vitamin D,April 2015,1
+40276,15219311000001100,96828020,827,Sandocal+D 600 effervescent tablets (Novartis Consumer Health UK Ltd),Calcium lactate gluconate/Calcium carbonate/Colecalciferol,1.358gram + 1.05gram + 400unit,Effervescent tablet,Oral,09060400,Vitamin D,September 2009,1
+53349,18548311000001104,08001020,1537,Calcichew D3 chewable tablets (DE Pharmaceuticals),Calcium carbonate/Colecalciferol,1.25gram + 200unit,Chewable tablet,Oral,09060400,Vitamin D,January 2013,1
+79539,37232911000001104,88101021,7,"Colecalciferol 3,000units/ml oral solution (DE Pharmaceuticals)",Colecalciferol,3000unit/1ml,Oral solution,Oral,09060400,Vitamin D,January 2020,1
+70927,34741911000001104,78385021,0,Alendronic acid 70mg / Colecalciferol 70microgram tablets (Zentiva Pharma UK Ltd),Colecalciferol/Alendronate sodium,70microgram + 70mg,Tablet,Oral,06060200,Bisphosphonates And Other Drugs Affecting Bone Metabolism,December 2017,1
+52096,19946611000001100,39455020,170,Colecalciferol 100unit / Calcium carbonate 400mg chewable tablets,Calcium carbonate/Colecalciferol,400mg + 100unit,Chewable tablet,Oral,09060400,Vitamin D,January 2013,1
+64265,29714011000001104,51988021,71,"Colecalciferol 3,000units/ml oral solution (A A H Pharmaceuticals Ltd)",Colecalciferol,3000unit/1ml,Oral solution,Oral,09060400,Vitamin D,September 2015,1
+19084,4761211000001109,82542020,59,Pharmaton Vitality capsules (Sanofi),Ginseng standardised extract/Colecalciferol/Alpha tocopheryl acetate/Thiamine nitrate/Riboflavin/Pyridoxine hydrochloride/Cyanocobalamin/Biotin/Nicotinamide/Ascorbic acid/Folic acid/Copper sulfate anhydrous/Sodium selenite/Magnesium sulfate dried/Ferrous sulfate dried/Zinc sulfate monohydrate/Calcium hydrogen phosphate anhydrous/Lecithin/Vitamin A palmitate,40mg + 200unit + 10mg + 1.4mg + 1.6mg + 2mg + 1microgram + 150microgram + 18mg + 60mg + 100microgram + 2mg + 50microgram + 10mg + 10mg + 1mg + 100mg + 100mg + 2667unit,Capsule,Oral,09040251,Nutritional Supplements,February 2009,1
+59864,21374511000001108,45283020,19,"Colecalciferol 1,000unit capsules (A A H Pharmaceuticals Ltd)",Colecalciferol,1000unit,Capsule,Oral,09060400,Vitamin D,May 2014,1
+2669,442811000001108,53261020,1294365,Calcichew D3 chewable tablets (Forum Health Products Ltd),Calcium carbonate/Colecalciferol,1.25gram + 200unit,Chewable tablet,Oral,09060400,Vitamin D,February 2009,1
+78886,30805311000001104,60059021,1,"RoyalVit D3 1,000unit tablets (Regence Healthcare Ltd)",Colecalciferol,1000unit,Tablet,Oral,09060400,Vitamin D,November 2019,1
+67357,9155611000001106,08004020,1,Colecalciferol 400unit / Calcium carbonate 1.25g chewable tablets (Kent Pharma (UK) Ltd),Calcium carbonate/Colecalciferol,1.25gram + 400unit,Chewable tablet,Oral,09050101/09060400,Calcium Supplements/Vitamin D,August 2016,1
+47075,19183011000001108,00753021,34101,"Pro D3 20,000unit capsules (Synergy Biologics Ltd)",Colecalciferol,20000unit,Capsule,Oral,09060400,Vitamin D,May 2012,1
+87446,37142611000001104,87587021,3,"Pro D3 2,000units/ml Vegan liquid drops (Synergy Biologics Ltd)",Colecalciferol,2000unit/1ml,Oral drops,Oral,09060400,Vitamin D,January 2023,1
+51490,20457611000001100,41650020,178,"D-Pearls 5,000unit capsules (Pharma Nord (UK) Ltd)",Colecalciferol,5000unit,Capsule,Oral,09060400,Vitamin D,January 2013,1
+47186,19182411000001108,00649021,6935,"Pro D3 2,500unit capsules (Synergy Biologics Ltd)",Colecalciferol,2500unit,Capsule,Oral,09060400,Vitamin D,May 2012,1
+53534,8428411000001100,19583020,69,"Colecalciferol 15,000units/5ml oral suspension",Colecalciferol,3000unit/1ml,Oral suspension,Oral,09060400,Vitamin D,January 2013,1
+80734,38058511000001104,91285021,389,ColeDose D3 800unit capsules (TriOn Pharma Ltd),Colecalciferol,800unit,Capsule,Oral,09060400,Vitamin D,May 2020,1
+49912,20932911000001104,43755020,15483,"Colecalciferol 20,000unit tablets",Colecalciferol,20000unit,Tablet,Oral,09060400,Vitamin D,January 2013,1
+76182,22330711000001104,15400021,2,"BioLife Vitamin D3 1,000unit tablets (Lifestyle Natural Health Ltd)",Colecalciferol,1000unit,Tablet,Oral,09060400,Vitamin D,May 2019,1
+57364,21610311000001104,46637020,41,Cubicole D3 400unit capsules (Cubic Pharmaceuticals Ltd),Colecalciferol,400unit,Capsule,Oral,09060400,Vitamin D,October 2013,1
+64195,21613511000001104,46647020,2,"Cubicole D3 20,000unit tablets (Cubic Pharmaceuticals Ltd)",Colecalciferol,20000unit,Tablet,Oral,09060400,Vitamin D,September 2015,1
+51402,21172811000001104,44945020,1175,"Aciferol D3 20,000unit tablets (Rhodes Pharma Ltd)",Colecalciferol,20000unit,Tablet,Oral,09060400,Vitamin D,January 2013,1
+56562,21611011000001104,46634020,8,"Cubicole D3 1,000unit capsules (Cubic Pharmaceuticals Ltd)",Colecalciferol,1000unit,Capsule,Oral,09060400,Vitamin D,August 2013,1
+46748,19525711000001104,98044020,34948,Colecalciferol 400unit / Calcium carbonate 1.5g tablets,Calcium carbonate/Colecalciferol,1.5gram + 400unit,Tablet,Oral,09050101/09060400,Calcium Supplements/Vitamin D,February 2012,1
+63188,28794111000001104,46622021,7938,"InVita D3 2,400units/ml oral drops (Consilient Health Ltd)",Colecalciferol,2400unit/1ml,Oral drops,Oral,09060400,Vitamin D,May 2015,1
+83247,38063111000001104,91500021,47,ColeKal-D3 400unit tablets (Essential-Healthcare Ltd),Colecalciferol,400unit,Tablet,Oral,09060400,Vitamin D,March 2021,1
+86696,39148511000001104,96201021,3,"BabyD 1,440units/ml oral solution (Kora Healthcare)",Colecalciferol,1440unit/1ml,Oral solution,Oral,09060400,Vitamin D,September 2022,1
+69833,34240111000001104,75926021,28002,"InVita D3 25,000unit capsules (Consilient Health Ltd)",Colecalciferol,25000unit,Capsule,Oral,09060400,Vitamin D,July 2017,1
+57309,22555111000001100,16606021,1902,"Colecalciferol 50,000unit tablets",Colecalciferol,50000unit,Tablet,Oral,09060400,Vitamin D,September 2013,1
+50245,21173311000001108,44920020,650,"Aciferol D3 50,000unit capsules (Rhodes Pharma Ltd)",Colecalciferol,50000unit,Capsule,Oral,09060400,Vitamin D,January 2013,1
+53257,19625811000001104,38407020,1466,"Pro D3 2,000units/ml liquid drops (Synergy Biologics Ltd)",Colecalciferol,2000unit/1ml,Oral drops,Oral,09060400,Vitamin D,January 2013,1
+56043,18519511000001108,37883020,3076,"Colecalciferol 5,000unit capsules",Colecalciferol,5000unit,Capsule,Oral,09060400,Vitamin D,August 2013,1
+80681,27440211000001108,31293021,2,"Colecalciferol 6,000units/5ml oral solution",Colecalciferol,1200unit/1ml,Oral solution,Oral,09060400,Vitamin D,May 2020,1
+28401,9254811000001108,82173020,59,Seven Seas Pure Cod Liver Oil capsules (Seven Seas Ltd),Cod liver oil/Retinol/Colecalciferol,294mg +  + ,Capsule,Oral,09040251,Nutritional Supplements,February 2009,1
+70307,15977311000001104,08007020,0,Colecalciferol 400unit / Calcium carbonate 1.25g chewable tablets (Zanza Specials International Ltd),Calcium carbonate/Colecalciferol,1.25gram + 400unit,Chewable tablet,Oral,09050101/09060400,Calcium Supplements/Vitamin D,September 2017,1
+63001,27708111000001104,40472021,74,"SunVit-D3 5,000unit tablets (SunVit-D3 Ltd)",Colecalciferol,5000unit,Tablet,Oral,09060400,Vitamin D,April 2015,1
+86592,34215811000001104,75793021,5,Haliborange Mr.Men Little Miss Calcium & Vitamin D softies chewable tablets (Seven Seas Ltd),Colecalciferol/Calcium phosphate,200unit + 250mg,Chewable tablet,Oral,09040251/09060400,Nutritional Supplements/Vitamin D,August 2022,1
+45617,18764211000001104,99388020,9971,Colecalciferol 800unit / Calcium carbonate 1.25g chewable tablets,Calcium carbonate/Colecalciferol,1.25gram + 800unit,Chewable tablet,Oral,09060400,Vitamin D,July 2011,1
+70142,22779511000001104,17276021,1,"E-D3 2,000units/ml oral drops (Ennogen Healthcare Ltd)",Colecalciferol,2000unit/1ml,Oral drops,Oral,09060400,Vitamin D,September 2017,1
+61536,22523211000001108,16530021,111,"SunVit-D3 10,000unit tablets (SunVit-D3 Ltd)",Colecalciferol,10000unit,Tablet,Oral,09060400,Vitamin D,October 2014,1
+57461,10496711000001100,07997020,2108,Calcichew D3 chewable tablets (Waymade Healthcare Plc),Calcium carbonate/Colecalciferol,1.25gram + 200unit,Chewable tablet,Oral,09060400,Vitamin D,October 2013,1
+88061,41074111000001104,04050022,1,"AceCal D3 10,000unit tablets (Essential-Healthcare Ltd)",Colecalciferol,10000unit,Tablet,Oral,09060400,Vitamin D,May 2023,1
+71508,34782611000001104,78248021,30,Colecalciferol 400unit / Calcium carbonate 1.25g chewable tablets (A A H Pharmaceuticals Ltd),Calcium carbonate/Colecalciferol,1.25gram + 400unit,Chewable tablet,Oral,09050101/09060400,Calcium Supplements/Vitamin D,January 2018,1
+73782,35243911000001108,80244021,53,"Pro D3 20,000unit Vegan capsules (Synergy Biologics Ltd)",Colecalciferol,20000unit,Capsule,Oral,09060400,Vitamin D,November 2018,1
+61004,23653311000001104,21554021,0,"Colecalciferol 20,000unit capsules (Phoenix Healthcare Distribution Ltd)",Colecalciferol,20000unit,Capsule,Oral,09060400,Vitamin D,August 2014,1
+87601,40377411000001104,01213022,12,A1-Cal D3 500mg/400unit chewable tablets (TriOn Pharma Ltd),Calcium carbonate/Colecalciferol,1.25gram + 400unit,Chewable tablet,Oral,09050101/09060400,Calcium Supplements/Vitamin D,February 2023,1
+64478,29748511000001108,52535021,4369,"Fultium-D3 2,740units/ml oral drops (Internis Pharmaceuticals Ltd)",Colecalciferol,2740unit/1ml,Oral drops,Oral,09060400,Vitamin D,October 2015,1
+63878,28109511000001100,42974021,1,"Colecalciferol 1,000unit tablets (Colorama Pharmaceuticals Ltd)",Colecalciferol,1000unit,Tablet,Oral,09060400,Vitamin D,July 2015,1
+81888,37038311000001104,87058021,608,SunVit-D3 400unit with Calcium 600mg chewable tablets lemon (SunVit-D3 Ltd),Calcium carbonate/Colecalciferol,1.5gram + 400unit,Chewable tablet,Oral,09060400,Vitamin D,October 2020,1
+71220,34477311000001108,77030021,5,"SunVit-D3 15,000units/5ml oral solution (SunVit-D3 Ltd)",Colecalciferol,3000unit/1ml,Oral solution,Oral,09060400,Vitamin D,January 2018,1
+63379,28881211000001108,46621021,2569,"Colecalciferol 2,400units/ml oral drops sugar free",Colecalciferol,2400unit/1ml,Oral drops,Oral,09060400,Vitamin D,June 2015,1
+69724,32848211000001100,70261021,111,ColeKal-D3 800unit tablets (Essential-Healthcare Ltd),Colecalciferol,800unit,Tablet,Oral,09060400,Vitamin D,June 2017,1
+54908,21716211000001108,46907020,133,"NphD3 3,000units/ml oral solution (Northwick Park Hospital Specials)",Colecalciferol,3000unit/1ml,Oral solution,Oral,09060400,Vitamin D,May 2013,1
+71617,34878111000001104,78703021,886,"Colecalciferol 1,000units/ml oral drops sugar free",Colecalciferol,1000unit/1ml,Oral drops,Oral,09060400,Vitamin D,February 2018,1
+70718,34604311000001108,77355021,74,Natures Aid Vitamin D3 400units/ml for infants and children oral drops (Natures Aid Ltd),Colecalciferol,400unit/1ml,Oral drops,Oral,09060400,Vitamin D,November 2017,1
+85901,40209711000001104,00238022,16,Prohealth Vitamin D3 10micrograms/ml (400units/ml) oral drops (Pro Health Solutions Ltd),Colecalciferol,400unit/1ml,Oral drops,Oral,09060400,Vitamin D,April 2022,1
+60582,11815911000001108,30082020,5,"Colecalciferol 20,000units/5ml oral suspension",Colecalciferol,4000unit/1ml,Oral suspension,Oral,09060400,Vitamin D,July 2014,1
+65856,4349711000001105,13990020,4,Generic Minadex tonic,Vitamin A/Manganese sulfate/Colecalciferol/Copper sulfate/Calcium glycerophosphate/Potassium glycerophosphate/Iron,130unit/1ml + 76microgram/1ml + 13unit/1ml + 100microgram/1ml + 2.25mg/1ml + 225microgram/1ml + 2.4mg/1ml,Oral emulsion,Oral,09040251,Nutritional Supplements,April 2016,1
+71827,21015611000001100,44098020,3,"E-D3 1,000unit capsules (Ennogen Healthcare Ltd)",Colecalciferol,1000unit,Capsule,Oral,09060400,Vitamin D,April 2018,1
+66485,16182011000001108,21620020,0,Fosavance tablets (Lexon (UK) Ltd),Colecalciferol/Alendronate sodium,70microgram + 70mg,Tablet,Oral,06060200,Bisphosphonates And Other Drugs Affecting Bone Metabolism,June 2016,1
+69404,34022411000001108,73997021,150938,InVita D3 800unit capsules (Forum Health Products Ltd),Colecalciferol,800unit,Capsule,Oral,09060400,Vitamin D,May 2017,1
+70354,32850111000001108,70264021,28,"ColeKal-D3 3,200unit capsules (Essential-Healthcare Ltd)",Colecalciferol,3200unit,Capsule,Oral,09060400,Vitamin D,October 2017,1
+6843,4253011000001104,60245020,34125,Colecalciferol 800unit / Calcium phosphate 3.1g oral powder sachets,Colecalciferol/Calcium phosphate,800unit + 3.1gram,Powder,Oral,06060000/09060400,Products Affecting Bone Metabolism/Vitamin D,February 2009,1
+49935,17313011000001104,37356020,1436,Colecalciferol 600unit capsules,Colecalciferol,600unit,Capsule,Oral,09060400,Vitamin D,January 2013,1
+69868,34239711000001100,75886021,12165,"InVita D3 50,000unit capsules (Consilient Health Ltd)",Colecalciferol,50000unit,Capsule,Oral,09060400,Vitamin D,July 2017,1
+54612,21254811000001104,45109020,3,"Aciferol D3 2,000units/ml liquid (Fontus Health Ltd)",Colecalciferol,2000unit/1ml,Oral solution,Oral,09060400,Vitamin D,April 2013,1
+58999,23637711000001108,21279021,3532,"Colecalciferol 2,000unit tablets",Colecalciferol,2000unit,Tablet,Oral,09060400,Vitamin D,March 2014,1
+44901,16073211000001104,99287020,9883,"Colecalciferol 50,000unit capsules",Colecalciferol,50000unit,Capsule,Oral,09060400,Vitamin D,April 2011,1
+55504,21939411000001104,47925020,4451,"Colecalciferol 40,000unit capsules",Colecalciferol,40000unit,Capsule,Oral,09060400,Vitamin D,June 2013,1
+15209,4917911000001100,81338020,148,Crampex tablets (Thornton & Ross Ltd),Colecalciferol/Calcium gluconate/Nicotinic acid,20microgram + 200mg + 20mg,Tablet,Oral,10020202,Other Muscle Relaxants,February 2009,1
+66627,528811000001101,08002020,1017,Calceos chewable tablets (Provalis Healthcare Ltd),Calcium carbonate/Colecalciferol,1.25gram + 400unit,Chewable tablet,Oral,09050101/09060400,Calcium Supplements/Vitamin D,July 2016,1
+58101,22490711000001108,15927021,21,"Nature's Remedy Vitamin D3 5,000unit tablets (Nature's Remedy Ltd)",Colecalciferol,5000unit,Tablet,Oral,09060400,Vitamin D,December 2013,1
+78309,13604411000001100,21386020,1,Natures Aid High Strength Cod Liver Oil 1000mg softgels capsules (Natures Aid Ltd),Cod liver oil/Retinol/Colecalciferol,1gram +  + ,Capsule,Oral,09040251,Nutritional Supplements,November 2019,1
+14077,4170711000001105,84594020,23190,Vivioptal capsules (Bausch & Lomb UK Ltd),Adenosine/Sodium molybdate anhydrous/Biotin/Colecalciferol/Choline hydrogen tartrate/Cobaltous sulfate monohydrate/Copper sulfate monohydrate/Cyanocobalamin/Dexpanthenol/L-Lysine monohydrochloride/Calcium hydrogen phosphate anhydrous/Ferrous sulfate dried/Folic acid/Magnesium glycerophosphate/Inositol/Lecithin/Ethyl linoleate/Manganese sulfate monohydrate/Nicotinamide/Orotic acid anhydrous/Potassium sulfate/Pyridoxine hydrochloride/Riboflavin/Rutoside/Thiamine nitrate/Vitamin A palmitate/Calcium ascorbate/Alpha tocopheryl acetate/Zinc oxide,750microgram + 80microgram + 50microgram + 400unit + 50mg + 100microgram + 500microgram + 3microgram + 10mg + 25mg + 35mg + 10mg + 400microgram + 40mg + 30mg + 60mg + 28mg + 500microgram + 25mg + 30mg + 8mg + 6.08mg + 3mg + 20mg + 5mg + 5000unit + 60mg + 10mg + 500microgram,Capsule,Oral,09060700,Multivitamin And Multimineral Preparations,February 2009,1
+47182,19199911000001108,00647021,2761,"Colecalciferol 2,500unit capsules",Colecalciferol,2500unit,Capsule,Oral,09060400,Vitamin D,May 2012,1
+56660,15646611000001106,21399020,86,Valupak Cod Liver Oil High Strength 550mg capsules (BR Pharmaceuticals Ltd),Cod liver oil/Retinol/Colecalciferol,550mg +  + ,Capsule,Oral,09040251,Nutritional Supplements,August 2013,1
+55528,22013511000001100,47984020,1630,Kalcipos-D 500mg/800unit tablets (Meda Pharmaceuticals Ltd),Colecalciferol/Calcium carbonate,800unit + 1.25gram,Tablet,Oral,09060400,Vitamin D,June 2013,1
+2112,41925001000027104,53262020,1728528,Calcichew-d3 Chewable tablet (Shire Pharmaceuticals Ltd),Calcium carbonate/Colecalciferol,1.25gram + 400unit,Chewable tablet,Oral,09050101/09060400,Calcium Supplements/Vitamin D,February 2009,1
+78040,22778911000001108,17275021,17,"E-D3 10,000units/ml oral solution (Ennogen Healthcare Ltd)",Colecalciferol,10000unit/1ml,Oral solution,Oral,09060400,Vitamin D,September 2019,1
+54995,21716911000001104,46909020,44,"ColeVit D3 3,000units/ml oral solution (Sterling Pharmaceuticals Ltd)",Colecalciferol,3000unit/1ml,Oral solution,Oral,09060400,Vitamin D,May 2013,1
+62857,23524211000001100,20678021,223,HealthAid Vitamin D3 200units/drop oral drops (HealthAid Ltd),Colecalciferol,200unit/1drop,Oral drops,Oral,09060400,Vitamin D,April 2015,1
+56123,21905011000001104,47926020,435,"Plenachol 40,000unit capsules (D3 Pharma)",Colecalciferol,40000unit,Capsule,Oral,09060400,Vitamin D,August 2013,1
+73576,10694311000001108,77029021,52,"Colecalciferol 15,000units/5ml oral solution sugar free",Colecalciferol,3000unit/1ml,Oral solution,Oral,09060400,Vitamin D,November 2018,1
+84158,39411211000001104,97612021,66,"SunVit-D3 25,000unit capsules (SunVit-D3 Ltd)",Colecalciferol,25000unit,Capsule,Oral,09060400,Vitamin D,July 2021,1
+63225,23629111000001104,21280021,9,"Vitamin D3 + Isoflavones 2,000unit tablets (Nutri Advanced Ltd)",Colecalciferol,2000unit,Tablet,Oral,09060400,Vitamin D,May 2015,1
+4753,41983711000001104,60073020,326655,Colecalciferol 200unit / Calcium carbonate 1.25g chewable tablets,Calcium carbonate/Colecalciferol,1.25gram + 200unit,Chewable tablet,Oral,09060400,Vitamin D,February 2009,1
+74152,35437011000001100,81629021,1955,"SunVit-D3 1,000unit capsules (SunVit-D3 Ltd)",Colecalciferol,1000unit,Capsule,Oral,09060400,Vitamin D,December 2018,1
+69731,33581211000001104,71247021,332,SunVit-D3 400unit tablets (SunVit-D3 Ltd),Colecalciferol,400unit,Tablet,Oral,09060400,Vitamin D,June 2017,1
+68652,32686111000001104,69356021,151785,Strivit-D3 800unit capsules (Strides Pharma UK Ltd),Colecalciferol,800unit,Capsule,Oral,09060400,Vitamin D,January 2017,1
+70809,34174411000001108,75885021,198,"SunVit-D3 50,000unit capsules (SunVit-D3 Ltd)",Colecalciferol,50000unit,Capsule,Oral,09060400,Vitamin D,December 2017,1
+62085,24655711000001104,26987021,3867,"Colecalciferol 25,000units/1ml oral solution unit dose ampoules sugar free",Colecalciferol,25000unit/1ml,Oral solution,Oral,09060400,Vitamin D,January 2015,1
+70474,34608211000001108,77477021,231661,Accrete D3 One a Day 1000mg/880unit chewable tablets (Internis Pharmaceuticals Ltd),Calcium carbonate/Colecalciferol,2.5gram + 880unit,Chewable tablet,Oral,09060400,Vitamin D,October 2017,1
+56948,22193211000001108,15399021,51,"Vita-D3 1,000unit tablets (Forum Health Products Ltd)",Colecalciferol,1000unit,Tablet,Oral,09060400,Vitamin D,September 2013,1
+74195,32846411000001104,69722021,2,"Natures Aid Vitamin D3 1,000unit tablets (Natures Aid Ltd)",Colecalciferol,1000unit,Tablet,Oral,09060400,Vitamin D,December 2018,1
+47168,19181811000001100,00641021,17416,Pro D3 400unit capsules (Synergy Biologics Ltd),Colecalciferol,400unit,Capsule,Oral,09060400,Vitamin D,May 2012,1
+74471,34448711000001108,76913021,14,"Sapvit-D3 14,400units/ml oral drops (Stirling Anglian Pharmaceuticals Ltd)",Colecalciferol,14400unit/1ml,Oral drops,Oral,09060400,Vitamin D,January 2019,1
+62793,26655211000001104,31242021,36389,Colecalciferol 880unit / Calcium carbonate 2.5g chewable tablets,Calcium carbonate/Colecalciferol,2.5gram + 880unit,Chewable tablet,Oral,09060400,Vitamin D,April 2015,1
+67358,16442011000001104,08012020,115,Colecalciferol 400unit / Calcium carbonate 1.5g chewable tablets (A A H Pharmaceuticals Ltd),Calcium carbonate/Colecalciferol,1.5gram + 400unit,Chewable tablet,Oral,09060400,Vitamin D,August 2016,1
+51605,16398111000001102,07999020,2510,Calcichew D3 chewable tablets (Mawdsley-Brooks & Company Ltd),Calcium carbonate/Colecalciferol,1.25gram + 200unit,Chewable tablet,Oral,09060400,Vitamin D,January 2013,1
+86649,39096711000001104,95589021,1,Colecalciferol 200units/dose oral spray sugar free,Colecalciferol,200unit/1dose,Not applicable,Route of administration not applicable,09060400,Vitamin D,August 2022,1
+53806,21256311000001104,44931020,4,"ColeVit D3 5,000unit capsules (Sterling Pharmaceuticals Ltd)",Colecalciferol,5000unit,Capsule,Oral,09060400,Vitamin D,February 2013,1
+83432,32882911000001104,69731021,1,"SunVit-D3 2,000units/ml oral solution (SunVit-D3 Ltd)",Colecalciferol,2000unit/1ml,Oral solution,Oral,09060400,Vitamin D,April 2021,1
+49974,9262011000001100,21388020,708,Cod liver oil 294mg capsules,Cod liver oil/Retinol/Colecalciferol,294mg +  + ,Capsule,Oral,09040251,Nutritional Supplements,January 2013,1
+67010,24448211000001104,26401021,116,Valupak Calcium & Vitamin D tablets (BR Pharmaceuticals Ltd),Calcium carbonate/Colecalciferol,400mg + 100unit,Tablet,Oral,09060400,Vitamin D,August 2016,1
+46387,19973811000001108,00028021,625804,Colecalciferol 800unit capsules,Colecalciferol,800unit,Capsule,Oral,09060400,Vitamin D,November 2011,1
+71953,32846611000001100,69727021,7,"Natures Aid Vitamin D3 5,000unit tablets (Natures Aid Ltd)",Colecalciferol,5000unit,Tablet,Oral,09060400,Vitamin D,April 2018,1
+59167,11816011000001100,30084020,12,Colecalciferol 400units/5ml oral suspension,Colecalciferol,80unit/1ml,Oral suspension,Oral,09060400,Vitamin D,March 2014,1
+65241,28396411000001104,44805021,2262,"Thorens 25,000units/2.5ml oral solution (Galen Ltd)",Colecalciferol,10000unit/1ml,Oral solution,Oral,09060400,Vitamin D,January 2016,1
+79519,37215411000001104,87591021,1023,"Strivit-D3 3,200unit capsules (Strides Pharma UK Ltd)",Colecalciferol,3200unit,Capsule,Oral,09060400,Vitamin D,January 2020,1
+71767,34808011000001104,78623021,1065,Paravit-CF liquid (Parapharm Development Ltd),Colecalciferol/Alpha tocopheryl acetate/Phytomenadione/Retinol palmitate, +  +  + ,Liquid,Oral,09060700,Multivitamin And Multimineral Preparations,April 2018,1
+79724,37215811000001104,87193021,1614,"Strivit-D3 20,000unit capsules (Strides Pharma UK Ltd)",Colecalciferol,20000unit,Capsule,Oral,09060400,Vitamin D,January 2020,1
+86305,40529311000001110,01452022,182,Colecalciferol 400units/drop oral drops sugar free,Colecalciferol,400unit/1drop,Oral drops,Oral,09060400,Vitamin D,June 2022,1
+45767,264015001000027100,99556020,188,Colecalciferol 10000units/ml oral solution,Colecalciferol,10000 units/ml,Oral Solution,Oral,09060400,Vitamin D,August 2011,1
+83019,39153211000001104,96356021,38,"ColeDose D3 25,000unit capsules (TriOn Pharma Ltd)",Colecalciferol,25000unit,Capsule,Oral,09060400,Vitamin D,February 2021,1
+72463,24103911000001108,23192021,98,Valupak Cod Liver Oil 1000mg capsules (BR Pharmaceuticals Ltd),Cod liver oil/Retinol/Colecalciferol,1gram +  + ,Capsule,Oral,09040251,Nutritional Supplements,July 2018,1
+53596,21256811000001104,44922020,23,"ColeVit D3 20,000unit capsules (Sterling Pharmaceuticals Ltd)",Colecalciferol,20000unit,Capsule,Oral,09060400,Vitamin D,January 2013,1
+81244,35435811000001100,80973021,68,SunVit-D3 400unit Vegan tablets (SunVit-D3 Ltd),Colecalciferol,400unit,Tablet,Oral,09060400,Vitamin D,July 2020,1
+57071,22259911000001104,16252021,956,"Pro D3 2,000units/ml liquid (Synergy Biologics Ltd)",Colecalciferol,2000unit/1ml,Oral solution,Oral,09060400,Vitamin D,September 2013,1
+88660,39090711000001104,95711021,2,DailyD Vitamin D3 400units oral spray (Kora Healthcare),Colecalciferol,400unit/1dose,Not applicable,Route of administration not applicable,09060400,Vitamin D,September 2023,1
+82565,4171611000001106,13752020,100,Generic Vivioptal capsules,Adenosine/Sodium molybdate anhydrous/Biotin/Colecalciferol/Choline hydrogen tartrate/Cobaltous sulfate monohydrate/Copper sulfate monohydrate/Cyanocobalamin/Dexpanthenol/L-Lysine monohydrochloride/Calcium hydrogen phosphate anhydrous/Ferrous sulfate dried/Folic acid/Magnesium glycerophosphate/Inositol/Lecithin/Ethyl linoleate/Manganese sulfate monohydrate/Nicotinamide/Orotic acid anhydrous/Potassium sulfate/Pyridoxine hydrochloride/Riboflavin/Rutoside/Thiamine nitrate/Vitamin A palmitate/Calcium ascorbate/Alpha tocopheryl acetate/Zinc oxide,750microgram + 80microgram + 50microgram + 400unit + 50mg + 100microgram + 500microgram + 3microgram + 10mg + 25mg + 35mg + 10mg + 400microgram + 40mg + 30mg + 60mg + 28mg + 500microgram + 25mg + 30mg + 8mg + 6.08mg + 3mg + 20mg + 5mg + 5000unit + 60mg + 10mg + 500microgram,Capsule,Oral,09060700,Multivitamin And Multimineral Preparations,January 2021,1
+84569,39152411000001104,96323021,5,"ColeDose D3 20,000unit tablets (TriOn Pharma Ltd)",Colecalciferol,20000unit,Tablet,Oral,09060400,Vitamin D,September 2021,1
+64083,22624711000001108,16782021,0,Colecalciferol 400unit / Calcium carbonate 1.5g chewable tablets (DE Pharmaceuticals),Calcium carbonate/Colecalciferol,1.5gram + 400unit,Chewable tablet,Oral,09060400,Vitamin D,August 2015,1
+60437,22779311000001100,17260021,1,"E-D3 3,000units/ml oral solution (Ennogen Healthcare Ltd)",Colecalciferol,3000unit/1ml,Oral solution,Oral,09060400,Vitamin D,July 2014,1
+70027,32847111000001104,70257021,735,ColeKal-D3 800unit capsules (Essential-Healthcare Ltd),Colecalciferol,800unit,Capsule,Oral,09060400,Vitamin D,September 2017,1
+40268,257225001000027100,96826020,16,Calcium lactate gluconate with calcium carbonate and colecalciferol 600mg calcium with 400iu effervescent tablets,Calcium Carbonate/Calcium Lactate Gluconate/Colecalciferol,600mg calcium + 400IU vitamin D3,Effervescent Tablet,Oral,09050101/09060400,Calcium Supplements/Vitamin D,August 2009,1
+88732,41503311000001104,05777022,1,"Aactive D3 2,000units/ml oral drops (TriOn Pharma Ltd)",Colecalciferol,2000unit/1ml,Oral drops,Oral,09060400,Vitamin D,September 2023,1
+59386,21611711000001104,46642020,4,"Cubicole D3 5,000unit capsules (Cubic Pharmaceuticals Ltd)",Colecalciferol,5000unit,Capsule,Oral,09060400,Vitamin D,April 2014,1
+64532,28393711000001104,44803021,1775,"Thorens 10,000units/ml oral drops (Galen Ltd)",Colecalciferol,10000unit/1ml,Oral drops,Oral,09060400,Vitamin D,October 2015,1
+80030,34967311000001104,79162021,859,SunVit-D3 400unit with Calcium 500mg chewable tablets (SunVit-D3 Ltd),Calcium carbonate/Colecalciferol,1.25gram + 400unit,Chewable tablet,Oral,09050101/09060400,Calcium Supplements/Vitamin D,February 2020,1
+59841,23661811000001100,21609021,315,"Colecalciferol 2,000unit orodispersible tablets sugar free",Colecalciferol,2000unit,Orodispersible tablet,Oral,09060400,Vitamin D,May 2014,1
+57218,21611511000001108,46641020,20,"Cubicole D3 3,000unit capsules (Cubic Pharmaceuticals Ltd)",Colecalciferol,3000unit,Capsule,Oral,09060400,Vitamin D,September 2013,1
+46419,19368411000001104,00146021,2267972,Adcal-D3 750mg/200unit caplets (Kyowa Kirin International UK NewCo Ltd),Calcium carbonate/Colecalciferol,750mg + 200unit,Tablet,Oral,09060400,Vitamin D,November 2011,1
+41427,11930411000001104,97770020,1964552,Adcal-D3 Lemon chewable tablets (Kyowa Kirin International UK NewCo Ltd),Calcium carbonate/Colecalciferol,1.5gram + 400unit,Chewable tablet,Oral,09060400,Vitamin D,March 2010,1
+50387,20907211000001108,43686020,2267,"Aciferol D3 1,000unit tablets (Rhodes Pharma Ltd)",Colecalciferol,1000unit,Tablet,Oral,09060400,Vitamin D,January 2013,1
+38928,45611000001108,95933020,2776891,Calcichew D3 Forte chewable tablets (Forum Health Products Ltd),Calcium carbonate/Colecalciferol,1.25gram + 400unit,Chewable tablet,Oral,09050101/09060400,Calcium Supplements/Vitamin D,February 2009,1
+52315,21301511000001100,45361020,1423,Colecalciferol 500unit capsules,Colecalciferol,500unit,Capsule,Oral,09060400,Vitamin D,January 2013,1
+72254,34941211000001108,78956021,63,"Colecalciferol 2,500unit tablets",Colecalciferol,2500unit,Tablet,Oral,09060400,Vitamin D,May 2018,1
+45607,11815811000001104,99450020,197,"Colecalciferol 10,000units/5ml oral suspension",Colecalciferol,2000unit/1ml,Oral suspension,Oral,09060400,Vitamin D,June 2011,1
+76864,36508211000001104,85065021,9,Alendronic acid 70mg / Colecalciferol 140microgram tablets,Colecalciferol/Alendronate sodium,140microgram + 70mg,Tablet,Oral,06060200,Bisphosphonates And Other Drugs Affecting Bone Metabolism,July 2019,1
+53010,21301711000001104,45362020,2704,Vitamin D3 500IU capsules (Nature's Remedy Ltd),Colecalciferol,500unit,Capsule,Oral,09060400,Vitamin D,January 2013,1
+62496,28002011000001104,43052021,19354,Calcichew D3 1000mg/800unit Once Daily chewable tablets (Forum Health Products Ltd),Calcium carbonate/Colecalciferol,2.5gram + 800iu,Chewable tablet,Oral,09060400,Vitamin D,March 2015,1
+71195,34478811000001100,77027021,44,"SunVit-D3 10,000units/5ml oral solution (SunVit-D3 Ltd)",Colecalciferol,2000unit/1ml,Oral solution,Oral,09060400,Vitamin D,December 2017,1
+60675,24495811000001100,26607021,18851,"Colecalciferol 3,200unit capsules",Colecalciferol,3200unit,Capsule,Oral,09060400,Vitamin D,August 2014,1
+49149,21244711000001108,45082020,91191,Colecalciferol 800unit tablets,Colecalciferol,800unit,Tablet,Oral,09060400,Vitamin D,January 2013,1
+48908,20547611000001108,42034020,63863,"Hux D3 20,000unit capsules (Huxley Europe Ltd)",Colecalciferol,20000unit,Capsule,Oral,09060400,Vitamin D,January 2013,1
+59659,23270511000001104,20039021,7,Lamberts Vitamin D3 280unit chewable tablets (Lamberts Healthcare Ltd),Colecalciferol,280unit,Chewable tablet,Oral,09060400,Vitamin D,April 2014,1
+49679,19504011000001100,37377020,29987,"Valupak Vitamin D3 1,000unit tablets (BR Pharmaceuticals Ltd)",Colecalciferol,1000unit,Tablet,Oral,09060400,Vitamin D,January 2013,1
+62099,23292311000001100,19981021,14,"D-Vit3 1,000unit tablets (IPS Specials)",Colecalciferol,1000unit,Tablet,Oral,09060400,Vitamin D,January 2015,1
+65942,24662511000001104,27089021,11,D-Max 400unit capsules (Nutraconcepts Ltd),Colecalciferol,400unit,Capsule,Oral,09060400,Vitamin D,April 2016,1
+56906,21611911000001100,46631020,18,"Cubicole D3 10,000unit capsules (Cubic Pharmaceuticals Ltd)",Colecalciferol,10000unit,Capsule,Oral,09060400,Vitamin D,August 2013,1
+85029,39096611000001104,95591021,50,"Colecalciferol 1,000units/dose oral spray sugar free",Colecalciferol,1000unit/1dose,Not applicable,Route of administration not applicable,09060400,Vitamin D,December 2021,1
+69168,247945001000027100,93439020,11,Colecalciferol oral liquid,Colecalciferol,,,,09060400,Vitamin D,April 2017,1
+47078,19182711000001104,00653021,9912,"Pro D3 10,000unit capsules (Synergy Biologics Ltd)",Colecalciferol,10000unit,Capsule,Oral,09060400,Vitamin D,May 2012,1
+85739,38231811000001104,91819021,3,"RestorD3 40,000unit capsules (TriOn Pharma Ltd)",Colecalciferol,40000unit,Capsule,Oral,09060400,Vitamin D,March 2022,1
+45667,17334511000001108,99473020,152762,"Colecalciferol 1,000unit tablets",Colecalciferol,1000unit,Tablet,Oral,09060400,Vitamin D,July 2011,1
+58599,22454811000001104,16361021,3,Pro D3 folic capsules (Synergy Biologics Ltd),Folic acid/Colecalciferol,400microgram + 1000unit,Capsule,Oral,09010200/09060400,Drugs Used In Megaloblastic Anaemias/Vitamin D,January 2014,1
+54259,17514311000001108,37463020,39,Solgar Vitamin D3 400unit capsules (Solgar Vitamin and Herb),Colecalciferol,400unit,Capsule,Oral,09060400,Vitamin D,March 2013,1
+7320,4248711000001106,80198020,259580,Calfovit D3 oral powder sachets (A. Menarini Farmaceutica Internazionale SRL),Colecalciferol/Calcium phosphate,800unit + 3.1gram,Powder,Oral,06060000/09060400,Products Affecting Bone Metabolism/Vitamin D,February 2009,1
+72608,34581011000001104,77337021,135,EveryDay-D 400unit chewable tablets (Vega Nutritionals Ltd),Colecalciferol,400unit,Chewable tablet,Oral,09060400,Vitamin D,July 2018,1
+36981,13401111000001106,94210020,62296,Colecalciferol 400unit / Calcium carbonate 1.5g effervescent tablets,Calcium carbonate/Colecalciferol,1.5gram + 400unit,Effervescent tablet,Oral,09060400,Vitamin D,February 2009,1
+23296,242775001000027100,90859020,17822,Calcium carbonate 1.25g with Colecalciferol 10micrograms sugar free chewable tablets,Calcium Carbonate/Colecalciferol,1.25g + 10micrograms,Chewable Tablets Sugar-Free,Oral,09050101/09060400,Calcium Supplements/Vitamin D,February 2009,1
+37610,205615001000027100,77767020,43,Omega 3 fish oils with other ingredients Capsule,Ascorbic Acid/Cyanocobalamin/Copper Sulphate/Folic Acid/Manganese Sulphate/Pyridoxine Hydrochloride/Riboflavin/Alpha Tocopherol/Zinc Sulphate/Lecithin/Colecalciferol/Thiamine Nitrate/Marine Fish Oil/Sodium Selenite/Garlic Oil/Chromic Chloride/C,,Capsule,Oral,09060750,-,February 2009,1
+59827,23905311000001108,21573021,2,"Cubicole D3 2,200unit tablets (Cubic Pharmaceuticals Ltd)",Colecalciferol,2200unit,Tablet,Oral,09060400,Vitamin D,May 2014,1
+65398,30994211000001104,60644021,827,"Colecalciferol 50,000units/1ml oral solution unit dose ampoules sugar free",Colecalciferol,50000unit/1ml,Oral solution,Oral,09060400,Vitamin D,February 2016,1
+50181,18024111000001108,37675020,135,"Colecalciferol 20,000units/ml oral drops",Colecalciferol,20000unit/1ml,Oral drops,Oral,09060400,Vitamin D,January 2013,1
+63868,21949511000001100,47852020,1,"Colecalciferol 1,000unit tablets (Waymade Healthcare Plc)",Colecalciferol,1000unit,Tablet,Oral,09060400,Vitamin D,July 2015,1
+53862,21256011000001100,44925020,9,"ColeVit D3 2,200unit capsules (Sterling Pharmaceuticals Ltd)",Colecalciferol,2200unit,Capsule,Oral,09060400,Vitamin D,February 2013,1
+39852,4345611000001104,96453020,357,Minadex tonic (Seven Seas Ltd),Vitamin A/Manganese sulfate/Colecalciferol/Copper sulfate/Calcium glycerophosphate/Potassium glycerophosphate/Iron,130unit/1ml + 76microgram/1ml + 13unit/1ml + 100microgram/1ml + 2.25mg/1ml + 225microgram/1ml + 2.4mg/1ml,Oral emulsion,Oral,09060700,Multivitamin And Multimineral Preparations,August 2009,1
+47076,19183311000001104,00663021,1994,"Pro D3 30,000unit capsules (Synergy Biologics Ltd)",Colecalciferol,30000unit,Capsule,Oral,09060400,Vitamin D,May 2012,1
+76446,15214511000001108,36021020,5,Generic Sandocal+D 600 effervescent tablets,Calcium lactate gluconate/Calcium carbonate/Colecalciferol,1.358gram + 1.05gram + 400unit,Effervescent tablet,Oral,09060400,Vitamin D,May 2019,1
+63949,29294111000001108,48981021,44,"Colecalciferol 3,000units/ml oral solution (Alliance Healthcare (Distribution) Ltd)",Colecalciferol,3000unit/1ml,Oral solution,Oral,09060400,Vitamin D,August 2015,1
+83626,34966811000001108,79161021,111,SunVit-D3 200unit with Calcium 500mg chewable tablets (SunVit-D3 Ltd),Calcium carbonate/Colecalciferol,1.25gram + 200unit,Chewable tablet,Oral,09050101/09060400,Calcium Supplements/Vitamin D,April 2021,1
+83297,39121911000001104,96355021,42,"Thorens 25,000unit capsules (Galen Ltd)",Colecalciferol,25000unit,Capsule,Oral,09060400,Vitamin D,March 2021,1
+48846,18539611000001104,37911020,409,"Colecalciferol 10,000units/ml oral solution",Colecalciferol,10000unit/1ml,Oral solution,Oral,09060400,Vitamin D,January 2013,1
+43922,17545811000001108,98304020,114624,Calcichew D3 500mg/400unit caplets (Takeda UK Ltd),Calcium carbonate/Colecalciferol,1.25gram + 400unit,Tablet,Oral,09060400,Vitamin D,November 2010,1
+49447,20282011000001100,41217020,84,"Pro D3 forte 3,000units/ml liquid (Synergy Biologics Ltd)",Colecalciferol,3000unit/1ml,Oral solution,Oral,09060400,Vitamin D,January 2013,1
+71671,34873711000001108,78890021,5942,SunVit-D3 800unit capsules (SunVit-D3 Ltd),Colecalciferol,800unit,Capsule,Oral,09060400,Vitamin D,February 2018,1
+66293,28913311000001108,48526021,7,Natures Aid Vitamin D3 200units/drop for infants and children oral drops (Natures Aid Ltd),Colecalciferol,200unit/1drop,Oral drops,Oral,09060400,Vitamin D,June 2016,1
+59454,22852811000001100,17453021,283330,Evacal D3 1500mg/400unit chewable tablets (Teva UK Ltd),Calcium carbonate/Colecalciferol,1.5gram + 400unit,Chewable tablet,Oral,09060400,Vitamin D,April 2014,1
+88599,41495711000001104,05572022,1,"Colecalciferol 3,000units/dose oral spray sugar free",Colecalciferol,3000unit/1dose,Not applicable,Route of administration not applicable,09060400,Vitamin D,August 2023,1
+50600,20932711000001108,43751020,1853,"Colecalciferol 10,000unit tablets",Colecalciferol,10000unit,Tablet,Oral,09060400,Vitamin D,January 2013,1
+53861,20932811000001100,43753020,757,"Colecalciferol 2,200unit tablets",Colecalciferol,2200unit,Tablet,Oral,09060400,Vitamin D,February 2013,1
+70202,34173211000001104,75890021,654,SunVit-D3 400unit capsules (SunVit-D3 Ltd),Colecalciferol,400unit,Capsule,Oral,09060400,Vitamin D,September 2017,1
+63957,29317511000001100,48982021,54,"Colecalciferol 3,000units/ml oral solution (Thame Laboratories Ltd)",Colecalciferol,3000unit/1ml,Oral solution,Oral,09060400,Vitamin D,August 2015,1
+57508,16143911000001104,08008020,1836,Calcichew D3 Forte chewable tablets (Lexon (UK) Ltd),Calcium carbonate/Colecalciferol,1.25gram + 400unit,Chewable tablet,Oral,09050101/09060400,Calcium Supplements/Vitamin D,October 2013,1
+55194,21677211000001108,46630020,2,"Colecalciferol 20,000unit capsules (A A H Pharmaceuticals Ltd)",Colecalciferol,20000unit,Capsule,Oral,09060400,Vitamin D,May 2013,1
+47183,18519511000001108,00525021,302,"Colecalciferol 5,000unit capsules",Colecalciferol,5000unit,Capsule,Oral,00000000,Unknown,May 2012,1
+88553,40109011000001104,99950021,1,Aactive D3 600unit capsules (TriOn Pharma Ltd),Colecalciferol,600unit,Capsule,Oral,09060400,Vitamin D,August 2023,1
+47166,19920511000001104,00764021,1157694,Fultium-D3 800unit capsules (Internis Pharmaceuticals Ltd),Colecalciferol,800unit,Capsule,Oral,09060400,Vitamin D,May 2012,1
+85598,39151411000001104,96219021,31,"ColeDose D3 2,000unit tablets (TriOn Pharma Ltd)",Colecalciferol,2000unit,Tablet,Oral,09060400,Vitamin D,February 2022,1
+85618,39391811000001104,97494021,19,"SunVit-D3 4,000unit tablets (SunVit-D3 Ltd)",Colecalciferol,4000unit,Tablet,Oral,09060400,Vitamin D,February 2022,1
+63099,22564211000001100,16519021,105,Colecalciferol 800unit capsules (A A H Pharmaceuticals Ltd),Colecalciferol,800unit,Capsule,Oral,09060400,Vitamin D,May 2015,1
+49150,20113611000001104,40227020,355,Colecalciferol 400units/dose oral spray sugar free,Colecalciferol,400unit/1dose,Not applicable,Route of administration not applicable,09060400,Vitamin D,January 2013,1
+73997,5529011000001101,08003020,1157,Calcichew D3 Forte chewable tablets (Dowelhurst Ltd),Calcium carbonate/Colecalciferol,1.25gram + 400unit,Chewable tablet,Oral,09060400,Vitamin D,December 2018,1
+87862,39149211000001104,96200021,2,"Colecalciferol 1,440units/ml oral solution sugar free",Colecalciferol,1440unit/1ml,Oral solution,Oral,09060400,Vitamin D,March 2023,1
+88749,37591011000001104,89393021,1,"Colecalciferol 1,000unit capsules (Colonis Pharma Ltd)",Colecalciferol,1000unit,Capsule,Oral,09060400,Vitamin D,September 2023,1
+62642,11549311000001100,29351020,59,Seven Seas Extra High Strength Pure Cod Liver Oil 1050mg capsules (Seven Seas Ltd),Cod liver oil/Colecalciferol/Retinol,1.05gram +  + ,Capsule,Oral,09040251,Nutritional Supplements,March 2015,1
+53368,20350611000001104,40749020,10,Lloydspharmacy Cod Liver Oil 500mg capsules (Lloyds Pharmacy Ltd),Cod liver oil/Retinol/Colecalciferol,500mg +  + ,Capsule,Oral,09040251,Nutritional Supplements,January 2013,1
+51082,19626311000001108,38406020,2128,"Colecalciferol 2,000units/ml oral drops sugar free",Colecalciferol,2000unit/1ml,Oral drops,Oral,09060400,Vitamin D,January 2013,1
+86749,40472211000001104,01702022,24,"SunVit-D3 2,740units/ml oral drops (SunVit-D3 Ltd)",Colecalciferol,2740unit/1ml,Oral drops,Oral,09060400,Vitamin D,September 2022,1
+77969,34939011000001100,78885021,1,"Premier Vitamin D3 1,000unit tablets (Premier Health Products Ltd)",Colecalciferol,1000unit,Tablet,Oral,09060400,Vitamin D,September 2019,1
+88129,40209911000001104,00103022,2,Prohealth Vitamin D3 10micrograms (400units) tablets (Pro Health Solutions Ltd),Colecalciferol,400unit,Tablet,Oral,09060400,Vitamin D,May 2023,1
+72481,34865311000001104,78704021,92,"Vitamin D3 1,000unit oral drops (Nutri Advanced Ltd)",Colecalciferol,1000unit/1ml,Oral drops,Oral,09060400,Vitamin D,July 2018,1
+86158,39086111000001104,95612021,2,DailyD Vitamin D3 400unit capsules (Kora Healthcare),Colecalciferol,400unit,Capsule,Oral,09060400,Vitamin D,May 2022,1
+87468,39114211000001104,95467021,9,SunVit-D3 800unit Vegan tablets (SunVit-D3 Ltd),Colecalciferol,800unit,Tablet,Oral,09060400,Vitamin D,January 2023,1
+88146,17617411000001104,08000020,1,Calcichew D3 chewable tablets (Necessity Supplies Ltd),Calcium carbonate/Colecalciferol,1.25gram + 200unit,Chewable tablet,Oral,09060400,Vitamin D,May 2023,1
+75759,34943211000001108,79111021,32,"ColeKal-D3 4,000unit tablets (Essential-Healthcare Ltd)",Colecalciferol,4000unit,Tablet,Oral,09060400,Vitamin D,April 2019,1
+71511,34173511000001108,75889021,154,"SunVit-D3 2,200unit capsules (SunVit-D3 Ltd)",Colecalciferol,2200unit,Capsule,Oral,09060400,Vitamin D,January 2018,1
+83225,39153811000001104,96174021,18,"ColeDose D3 50,000unit capsules (TriOn Pharma Ltd)",Colecalciferol,50000unit,Capsule,Oral,09060400,Vitamin D,March 2021,1
+75956,32827311000001104,69724021,17,"HealthAid Vitamin D3 5,000unit capsules (HealthAid Ltd)",Colecalciferol,5000unit,Capsule,Oral,09060400,Vitamin D,April 2019,1
+81687,38056711000001104,91030021,44,ColeDose D3 800unit tablets (TriOn Pharma Ltd),Colecalciferol,800unit,Tablet,Oral,09060400,Vitamin D,September 2020,1
+63163,28784211000001108,46535021,16060,"Fultium-D3 20,000unit capsules (Internis Pharmaceuticals Ltd)",Colecalciferol,20000unit,Capsule,Oral,09060400,Vitamin D,May 2015,1
+49543,19366311000001104,38089020,1357,Lamberts Vitamin D3 400unit tablets (Lamberts Healthcare Ltd),Colecalciferol,400unit,Tablet,Oral,09060400,Vitamin D,January 2013,1
+60290,19487811000001108,37013020,5,"Colecalciferol 20,000unit capsules (Huxley Europe Ltd)",Colecalciferol,20000unit,Capsule,Oral,09060400,Vitamin D,July 2014,1
+54657,21172011000001100,44939020,343,"Aciferol D3 5,000unit tablets (Rhodes Pharma Ltd)",Colecalciferol,5000unit,Tablet,Oral,09060400,Vitamin D,April 2013,1
+37575,249915001000027100,94358020,1687,Risedronate sodium 35mg with calcium carbonate 2500mg & colecalciferol 22micrograms tablets and granules,Calcium Carbonate/Colecalciferol/Risedronate Sodium,35mg + (2500mg + 22micrograms),Tablets + Granules,Oral,06060200/09050101,Bisphosphonates And Other Drugs Affecting Bone Metabolism/Calcium Supplements,February 2009,1
+56294,19677711000001104,38436020,2,"Colecalciferol 30,000units/5ml oral solution",Colecalciferol,6000unit/1ml,Oral solution,Oral,09060400,Vitamin D,August 2013,1
+62876,28546011000001104,44742021,780,"Aviticol 20,000unit capsules (Colonis Pharma Ltd)",Colecalciferol,20000unit,Capsule,Oral,09060400,Vitamin D,April 2015,1
+81439,38055811000001104,91282021,106,"ColeDose D3 1,000unit capsules (TriOn Pharma Ltd)",Colecalciferol,1000unit,Capsule,Oral,09060400,Vitamin D,August 2020,1
+50260,20293511000001100,41230020,138,"Colecalciferol 2,000units/ml oral solution sugar free",Colecalciferol,2000unit/1ml,Oral solution,Oral,09060400,Vitamin D,January 2013,1
+57862,21610611000001100,46633020,13,Cubicole D3 600unit capsules (Cubic Pharmaceuticals Ltd),Colecalciferol,600unit,Capsule,Oral,09060400,Vitamin D,December 2013,1
+57046,20007311000001108,39774020,43,"Colecalciferol 300,000units/1ml solution for injection ampoules",Colecalciferol,300000unit/1ml,Solution for injection,Intramuscular,09060400,Vitamin D,September 2013,1
+47720,19886911000001108,00902021,8,"ColeVit D3 3,000units/ml oral solution (Sterling Pharmaceuticals Ltd)",Colecalciferol,3000unit/1ml,Oral solution,Oral,00000000,Unknown,August 2012,1
+47665,305275001000027100,00969021,10,Calcium carbonate 400mg with Colecalciferol 100 units chewable tablets,Calcium Carbonate/Colecalciferol,400mg + 100 units,Chewable Tablet,Oral,09050101/09060400,Calcium Supplements/Vitamin D,August 2012,1
+63879,21680111000001108,46636020,1,"Colecalciferol 1,000unit tablets (Tor Generics Ltd)",Colecalciferol,1000unit,Tablet,Oral,09060400,Vitamin D,July 2015,1
+54123,21171411000001104,44944020,316,"Aciferol D3 2,200unit tablets (Rhodes Pharma Ltd)",Colecalciferol,2200unit,Tablet,Oral,09060400,Vitamin D,March 2013,1
+76101,17309211000001100,37357020,4,Solgar Vitamin D3 600unit capsules (Solgar Vitamin and Herb),Colecalciferol,600unit,Capsule,Oral,09060400,Vitamin D,May 2019,1
+69912,34261711000001108,75925021,7750,"Colecalciferol 25,000unit capsules",Colecalciferol,25000unit,Capsule,Oral,09060400,Vitamin D,July 2017,1
+70531,34585111000001100,77334021,92,"Colecalciferol 2,000unit chewable tablets",Colecalciferol,2000unit,Chewable tablet,Oral,09060400,Vitamin D,October 2017,1
+66710,32419711000001100,65972021,3555,"Colecalciferol 1,000unit / Calcium carbonate 2.5g chewable tablets",Colecalciferol/Calcium carbonate,1000iu + 2.5gram,Chewable tablet,Oral,09060400,Vitamin D,July 2016,1
+86483,40388511000001104,01190022,157,Colecalciferol 400unit / Calcium carbonate 1.5g chewable tablets sugar free,Colecalciferol/Calcium carbonate,400unit + 1.5gram,Chewable tablet,Oral,09050101/09060400,Calcium Supplements/Vitamin D,July 2022,1
+55628,18539311000001108,37912020,14,"ZymaD 10,000units/ml oral solution (Imported (France))",Colecalciferol,10000unit/1ml,Oral solution,Oral,09060400,Vitamin D,June 2013,1
+62118,23656511000001104,21610021,161,"Vitamin D3 Lemon Melts 2,000unit tablets (Nutri Advanced Ltd)",Colecalciferol,2000unit,Orodispersible tablet,Oral,09060400,Vitamin D,January 2015,1
+10227,9523811000001102,89630020,21678,Fosavance tablets (Organon Pharma (UK) Ltd),Colecalciferol/Alendronate sodium,70microgram + 70mg,Tablet,Oral,06060200,Bisphosphonates And Other Drugs Affecting Bone Metabolism,February 2009,1
+67509,32498511000001104,67762021,1629,"Colecalciferol 4,000unit tablets",Colecalciferol,4000unit,Tablet,Oral,09060400,Vitamin D,September 2016,1
+61359,24651411000001104,26988021,80159,"InVita D3 25,000units/1ml oral solution (Consilient Health Ltd)",Colecalciferol,25000unit/1ml,Oral solution,Oral,09060400,Vitamin D,October 2014,1
+12791,15982411000001100,84217020,1437866,Calceos 500mg/400unit chewable tablets (Galen Ltd),Calcium carbonate/Colecalciferol,1.25gram + 400unit,Chewable tablet,Oral,09050101/09060400,Calcium Supplements/Vitamin D,February 2009,1
+65000,29748711000001104,52534021,703,"Colecalciferol 2,740units/ml oral drops sugar free",Colecalciferol,2740unit/1ml,Oral drops,Oral,09060400,Vitamin D,December 2015,1
+52210,20172911000001108,40156020,2,"Colecalciferol 20,000unit capsules (Alissa Healthcare Research Ltd)",Colecalciferol,20000unit,Capsule,Oral,09060400,Vitamin D,January 2013,1
+57335,21612511000001104,46628020,38,"Cubicole D3 50,000unit capsules (Cubic Pharmaceuticals Ltd)",Colecalciferol,50000unit,Capsule,Oral,09060400,Vitamin D,October 2013,1
+88464,38056911000001104,91372021,2,"ColeDose D3 4,000unit tablets (TriOn Pharma Ltd)",Colecalciferol,4000unit,Tablet,Oral,09060400,Vitamin D,July 2023,1
+55458,21904711000001100,47845020,1135,"Plenachol 20,000unit capsules (D3 Pharma)",Colecalciferol,20000unit,Capsule,Oral,09060400,Vitamin D,June 2013,1
+6577,41983911000001104,83235020,1498449,Colecalciferol 400unit / Calcium carbonate 1.5g chewable tablets,Calcium carbonate/Colecalciferol,1.5gram + 400unit,Chewable tablet,Oral,09060400,Vitamin D,February 2009,1
+57791,21258011000001100,44934020,11,"ColeVit D3 20,000units/ml oral solution (Sterling Pharmaceuticals Ltd)",Colecalciferol,20000unit/1ml,Oral solution,Oral,09060400,Vitamin D,December 2013,1
+82878,22779711000001100,17280021,7,"E-D3 1,000units/ml oral solution (Ennogen Healthcare Ltd)",Colecalciferol,1000unit/1ml,Oral solution,Oral,09060400,Vitamin D,January 2021,1
+53347,16143711000001108,07998020,4,Calcichew D3 chewable tablets (Lexon (UK) Ltd),Calcium carbonate/Colecalciferol,1.25gram + 200unit,Chewable tablet,Oral,09060400,Vitamin D,January 2013,1
+48961,9261911000001108,21380020,7550,Cod liver oil 1g capsules,Cod liver oil/Retinol/Colecalciferol,1gram +  + ,Capsule,Oral,09040251,Nutritional Supplements,January 2013,1
+47133,19182111000001104,00645021,29545,"Pro D3 1,000unit capsules (Synergy Biologics Ltd)",Colecalciferol,1000unit,Capsule,Oral,09060400,Vitamin D,May 2012,1
+69916,34240411000001100,75928021,1746,"InVita D3 5,600unit capsules (Consilient Health Ltd)",Colecalciferol,5600unit,Capsule,Oral,09060400,Vitamin D,July 2017,1
+68713,32451311000001108,65855021,218,"Aviticol 1,000unit capsules (Colonis Pharma Ltd)",Colecalciferol,1000unit,Capsule,Oral,09060400,Vitamin D,January 2017,1
+3717,3251311000001104,83671020,181902,Cacit D3 effervescent granules sachets (Theramex HQ UK Ltd),Calcium carbonate/Colecalciferol,1.25gram + 440unit,Effervescent granules,Oral,09060400,Vitamin D,February 2009,1
+46662,17318311000001100,00178021,534,"Solgar Vitamin D3 1,000unit tablets (Solgar Vitamin and Herb)",Colecalciferol,1000unit,Tablet,Oral,09060400,Vitamin D,January 2012,1
+72619,32607611000001104,67685021,1,Colecalciferol 400unit tablets (Alissa Healthcare Research Ltd),Colecalciferol,400unit,Tablet,Oral,09060400,Vitamin D,July 2018,1
+46450,19372511000001108,00144021,72350,Colecalciferol 200unit / Calcium carbonate 750mg tablets,Calcium carbonate/Colecalciferol,750mg + 200unit,Tablet,Oral,09060400,Vitamin D,November 2011,1
+47561,19899311000001100,00894021,86,"Colecalciferol 20,000units/ml oral solution sugar free",Colecalciferol,20000unit/1ml,Oral solution,Oral,09060400,Vitamin D,August 2012,1
+65001,11815711000001108,30079020,6,"Colecalciferol 1,000units/5ml oral suspension",Colecalciferol,200unit/1ml,Oral suspension,Oral,09060400,Vitamin D,December 2015,1
+6264,41983811000001110,60074020,1270052,Colecalciferol 400unit / Calcium carbonate 1.25g chewable tablets,Calcium carbonate/Colecalciferol,1.25gram + 400unit,Chewable tablet,Oral,09050101/09060400,Calcium Supplements/Vitamin D,February 2009,1
+87962,40953911000001104,03087022,3,Aace D3 600unit capsules (Essential-Healthcare Ltd),Colecalciferol,600unit,Capsule,Oral,09060400,Vitamin D,April 2023,1
+49682,20113711000001104,40229020,235,Colecalciferol 800units/ml oral drops sugar free,Colecalciferol,800unit/1ml,Oral drops,Oral,09060400,Vitamin D,January 2013,1
+49097,9262211000001104,21392020,3811,Cod liver oil 500mg capsules,Cod liver oil/Retinol/Colecalciferol,500mg +  + ,Capsule,Oral,09040251,Nutritional Supplements,January 2013,1
+61853,24642111000001108,26870021,12,"D-Max 20,000unit capsules (Nutraconcepts Ltd)",Colecalciferol,20000unit,Capsule,Oral,09060400,Vitamin D,December 2014,1
+54994,21173011000001108,44932020,270,"Aciferol D3 30,000unit capsules (Rhodes Pharma Ltd)",Colecalciferol,30000unit,Capsule,Oral,09060400,Vitamin D,May 2013,1
+69832,34174111000001104,75887021,220,"SunVit-D3 10,000unit capsules (SunVit-D3 Ltd)",Colecalciferol,10000unit,Capsule,Oral,09060400,Vitamin D,July 2017,1
+51131,19622611000001104,38405020,83,Solgar Calcium with Vitamin D3 tablets (Solgar Vitamin and Herb),Calcium citrate/Colecalciferol,250mg + 150unit,Tablet,Oral,09040251,Nutritional Supplements,January 2013,1
+33223,11854311000001102,82171020,9,Seven Seas Vitamin & Mineral tonic (Seven Seas Ltd),Vitamin A/Manganese sulfate/Colecalciferol/Copper sulfate/Calcium glycerophosphate/Potassium glycerophosphate/Iron,130unit/1ml + 76microgram/1ml + 13unit/1ml + 100microgram/1ml + 2.25mg/1ml + 225microgram/1ml + 2.4mg/1ml,Oral emulsion,Oral,09040251,Nutritional Supplements,February 2009,1
+78679,36446411000001104,83156021,1138,"ColeKal-D3 1,000unit tablets (Essential-Healthcare Ltd)",Colecalciferol,1000unit,Tablet,Oral,09060400,Vitamin D,November 2019,1
+78624,21374711000001104,45284020,23,"Colecalciferol 1,000unit tablets (A A H Pharmaceuticals Ltd)",Colecalciferol,1000unit,Tablet,Oral,09060400,Vitamin D,November 2019,1
+85993,40328511000001104,00794022,31,"Vitamin D3 1,000unit oral drops (Nutri Advanced Ltd)",Colecalciferol,1000unit/1drop,Oral drops,Oral,09060400,Vitamin D,April 2022,1
+82736,37949011000001104,90980021,46,"Retinol 4,500unit / Colecalciferol 450unit capsules",Retinol palmitate/Colecalciferol,4500unit + 450unit,Capsule,Oral,09060700,Multivitamin And Multimineral Preparations,January 2021,1
+43067,11788611000001108,98166020,2069,"Colecalciferol 15,000units/5ml oral solution",Colecalciferol,3000unit/1ml,Oral solution,Oral,09060400,Vitamin D,August 2010,1
+72818,34282111000001100,75893021,155,"FSC High Strength Vitamin D3 2,500unit capsules (Bee Health Ltd)",Colecalciferol,2500unit,Capsule,Oral,09060400,Vitamin D,August 2018,1
+57058,21716511000001104,46908020,264,"Aciferol D3 3,000units/ml liquid (Rhodes Pharma Ltd)",Colecalciferol,3000unit/1ml,Oral solution,Oral,09060400,Vitamin D,September 2013,1
+84883,38839711000001104,94634021,10,Colecalciferol 600unit / Calcium carbonate 420mg capsules,Colecalciferol/Calcium carbonate,600unit + 420mg,Capsule,Oral,09060400,Vitamin D,October 2021,1
+70141,33232211000001100,70514021,132,"SunVit-D3 2,000units/ml oral drops (SunVit-D3 Ltd)",Colecalciferol,2000unit/1ml,Oral drops,Oral,09060400,Vitamin D,September 2017,1
+88324,40109211000001104,00113022,1,"Aactive D3 5,000unit capsules (TriOn Pharma Ltd)",Colecalciferol,5000unit,Capsule,Oral,09060400,Vitamin D,June 2023,1
+63884,28941611000001108,48515021,608,"Lamberts Vitamin D3 1,000unit capsules (Lamberts Healthcare Ltd)",Colecalciferol,1000unit,Capsule,Oral,09060400,Vitamin D,July 2015,1
+50705,9259311000001102,21390020,121,Valupak Cod Liver Oil 400mg capsules (BR Pharmaceuticals Ltd),Cod liver oil/Retinol/Colecalciferol,400mg +  + ,Capsule,Oral,09040251,Nutritional Supplements,January 2013,1
+51894,18157711000001108,08010020,7949,Calcichew D3 Forte chewable tablets (Mawdsley-Brooks & Company Ltd),Calcium carbonate/Colecalciferol,1.25gram + 400unit,Chewable tablet,Oral,09050101/09060400,Calcium Supplements/Vitamin D,January 2013,1
+48328,9262111000001104,21389020,5612,Cod liver oil 400mg capsules,Cod liver oil/Retinol/Colecalciferol,400mg +  + ,Capsule,Oral,09040251,Nutritional Supplements,January 2013,1
+78733,34502511000001104,76912021,1,"Colecalciferol 14,400units/ml oral drops sugar free",Colecalciferol,14400unit/1ml,Oral drops,Oral,09060400,Vitamin D,November 2019,1
+68004,32471711000001104,67732021,626,"Colecalciferol 1,000unit chewable tablets",Colecalciferol,1000unit,Chewable tablet,Oral,09060400,Vitamin D,October 2016,1
+67246,13799911000001100,35169020,1,Lloydspharmacy Calcium & Vitamin D tablets (Lloyds Pharmacy Ltd),Calcium carbonate/Colecalciferol,400mg + 100unit,Tablet,Oral,09060400,Vitamin D,August 2016,1
+70363,28078611000001108,42973021,12,"Colecalciferol 1,000unit capsules (J M McGill Ltd)",Colecalciferol,1000unit,Capsule,Oral,09060400,Vitamin D,October 2017,1
+55254,22053611000001108,47983020,2102,Colecalciferol 800unit / Calcium carbonate 1.25g tablets,Colecalciferol/Calcium carbonate,800unit + 1.25gram,Tablet,Oral,09060400,Vitamin D,May 2013,1
+26153,9258011000001104,82191020,575,Seven Seas One-A-Day Pure Cod Liver Oil 500mg capsules (Seven Seas Ltd),Cod liver oil/Retinol/Colecalciferol,500mg +  + ,Capsule,Oral,09040251,Nutritional Supplements,February 2009,1
+71235,34744811000001104,78394021,1610,Pro D3 800unit capsules (Synergy Biologics Ltd),Colecalciferol,800unit,Capsule,Oral,09060400,Vitamin D,January 2018,1
+79710,37224211000001104,88070021,527,"Valupak Vitamin D3 1,000unit capsules (BR Pharmaceuticals Ltd)",Colecalciferol,1000unit,Capsule,Oral,09060400,Vitamin D,January 2020,1
+54659,21717111000001104,46910020,996,"Pro D3 forte 3,000units/ml liquid (Synergy Biologics Ltd)",Colecalciferol,3000unit/1ml,Oral solution,Oral,09060400,Vitamin D,April 2013,1
+46618,19366011000001108,00176021,3300,"Lamberts Vitamin D3 1,000unit tablets (Lamberts Healthcare Ltd)",Colecalciferol,1000unit,Tablet,Oral,09060400,Vitamin D,January 2012,1
+87720,40561311000001104,01923022,6,"Aactive D3 3,000units/ml oral solution (TriOn Pharma Ltd)",Colecalciferol,3000unit/1ml,Oral solution,Oral,09060400,Vitamin D,February 2023,1
+80800,32846911000001104,69788021,1,"Natures Aid Vitamin D3 5,000units/ml oral drops (Natures Aid Ltd)",Colecalciferol,5000unit/1ml,Oral drops,Oral,09060400,Vitamin D,May 2020,1
+50401,17308811000001108,37354020,73,"Solgar Vitamin D3 2,200unit capsules (Solgar Vitamin and Herb)",Colecalciferol,2200unit,Capsule,Oral,09060400,Vitamin D,January 2013,1
+52783,18774011000001108,37998020,28,"Baby D 1,000units/ml oral solution (Kora Healthcare)",Colecalciferol,1000unit/1ml,Oral solution,Oral,09060400,Vitamin D,January 2013,1
+42190,216255001000027100,81334020,2,Nicotinic acid with colecalciferol and calcium gluconate Tablet,Calcium Gluconate/Colecalciferol/Nicotinic Acid,,Tablet,Oral,02060400,Peripheral Vasodilators And Related Products,April 2010,1
+59983,23294811000001104,20006021,35,"D-Vit3 20,000unit tablets (IPS Specials)",Colecalciferol,20000unit,Tablet,Oral,09060400,Vitamin D,May 2014,1
+59158,22659211000001104,17043021,2644,"OsteoCaps D3 20,000unit capsules (Rhodes Pharma Ltd)",Colecalciferol,20000unit,Capsule,Oral,09060400,Vitamin D,March 2014,1
+87117,40521411000001104,01453022,7,Prohealth Vitamin D3 10micrograms/drop (400units/drop) oral drops (Pro Health Solutions Ltd),Colecalciferol,400unit/1drop,Oral drops,Oral,09060400,Vitamin D,November 2022,1
+45563,17312911000001102,99436020,4732,"Colecalciferol 2,200unit capsules",Colecalciferol,2200unit,Capsule,Oral,09060400,Vitamin D,June 2011,1
+46577,265475001000027100,00030021,557,Fultium 20 Capsule (Aspire Pharma Ltd),Colecalciferol,800unit,Capsule,Oral,09060400,Vitamin D,December 2011,1
+81879,37037811000001104,87057021,1470,SunVit-D3 400unit with Calcium 600mg chewable tablets tutti frutti (SunVit-D3 Ltd),Calcium carbonate/Colecalciferol,1.5gram + 400unit,Chewable tablet,Oral,09060400,Vitamin D,October 2020,1
+85924,40329711000001104,00792022,194,"Colecalciferol 1,000units/drop oral drops sugar free",Colecalciferol,1000unit/1drop,Oral drops,Oral,09060400,Vitamin D,April 2022,1
+57099,22402911000001104,16253021,1152,"Colecalciferol 5,000units/5ml oral solution",Colecalciferol,1000unit/1ml,Oral solution,Oral,09060400,Vitamin D,September 2013,1
+32387,241395001000027100,89626020,96,Adeks Drops (Scandipharm),Pantothenic Acid/Biotin/Ascorbic Acid/Nicotinic Acid/Phytomenadione/Riboflavin/Pyridoxine/Alpha Tocopherol/Vitamin A/Zinc Sulphate/Colecalciferol/Beta Carotene/Thiamine/Vitamin B12,,Drops,Oral,09060750,-,February 2009,1
+58360,21612311000001104,46643020,21,"Cubicole D3 30,000unit capsules (Cubic Pharmaceuticals Ltd)",Colecalciferol,30000unit,Capsule,Oral,09060400,Vitamin D,December 2013,1
+47326,19625811000001104,00840021,252,"Pro D3 2,000units/ml liquid drops (Synergy Biologics Ltd)",Colecalciferol,2000unit/1ml,Oral drops,Oral,00000000,Unknown,June 2012,1
+62275,24580411000001100,26698021,1,"Colecalciferol 20,000units/ml oral solution",Colecalciferol,20000unit/1ml,Oral solution,Oral,09060400,Vitamin D,January 2015,1
+65367,30978611000001100,60645021,13388,"InVita D3 50,000units/1ml oral solution (Consilient Health Ltd)",Colecalciferol,50000unit/1ml,Oral solution,Oral,09060400,Vitamin D,February 2016,1
+69813,34216011000001100,75794021,27,Haliborange Kids Vitamin D Calcium softies chewable tablets (Seven Seas Ltd),Colecalciferol/Calcium phosphate,200unit + 250mg,Chewable tablet,Oral,09040251/09060400,Nutritional Supplements/Vitamin D,June 2017,1
+51125,20555411000001104,41860020,2100,"Colecalciferol 5,000unit tablets",Colecalciferol,5000unit,Tablet,Oral,09060400,Vitamin D,January 2013,1
+14127,228305001000027100,84980020,1367,Adeks Tablet (Scandipharm),Betacarotene/Zinc Oxide/Biotin/Cyanocobalamin/Phytomenadione/Pyridoxine/Thiamine/Vitamin A/Pantothenic Acid/Ascorbic Acid/Riboflavin/Alpha Tocopherol/Colecalciferol/Nicotinic Acid/Folic Acid,,Tablet,Oral,09060750,-,February 2009,1
+57535,10846011000001102,08005020,9214,Calcichew D3 Forte chewable tablets (Waymade Healthcare Plc),Calcium carbonate/Colecalciferol,1.25gram + 400unit,Chewable tablet,Oral,09050101/09060400,Calcium Supplements/Vitamin D,October 2013,1
+58031,22261011000001104,16255021,797,"BabyD 1,000units/ml oral solution (Kora Healthcare)",Colecalciferol,1000unit/1ml,Oral solution,Oral,09060400,Vitamin D,December 2013,1
+49466,7525811000001108,17570020,143,Colecalciferol 400unit / Calcium carbonate 1.25g chewable tablets sugar free,Calcium carbonate/Colecalciferol,1.25gram + 400unit,Chewable tablet,Oral,09050101/09060400,Calcium Supplements/Vitamin D,January 2013,1
+62565,28003911000001104,43050021,87446,"Stexerol-D3 25,000unit tablets (Kyowa Kirin International UK NewCo Ltd)",Colecalciferol,25000unit,Tablet,Oral,09060400,Vitamin D,March 2015,1
+4663,9383011000001104,52688020,25724,Cod liver oil liquid,Retinol/Colecalciferol/Cod liver oil, +  + 1ml/1ml,Liquid,Oral,09040251,Nutritional Supplements,February 2009,1
+46867,19510411000001104,00299021,1290228,Accrete D3 tablets (Internis Pharmaceuticals Ltd),Calcium carbonate/Colecalciferol,1.5gram + 400unit,Tablet,Oral,09050101/09060400,Calcium Supplements/Vitamin D,February 2012,1
+53290,21255711000001104,44927020,62,"ColeVit D3 1,000unit capsules (Sterling Pharmaceuticals Ltd)",Colecalciferol,1000unit,Capsule,Oral,09060400,Vitamin D,January 2013,1
+41072,258035001000027100,97239020,2,Calcium lactate gluconate with calcium carbonate and colecalciferol 1200mg calcium with 800iu effervescent tablets,Calcium Carbonate/Calcium Lactate Gluconate/Colecalciferol,1200mg calcium + 800 I.U. vitamin D3,Effervescent Tablet,Oral,09050101/09060400,Calcium Supplements/Vitamin D,January 2010,1
+58658,23304911000001104,20038021,41,Colecalciferol 280unit chewable tablets,Colecalciferol,280unit,Chewable tablet,Oral,09060400,Vitamin D,January 2014,1
+40931,15641611000001104,97241020,1235,Sandocal+D 1200 effervescent tablets (Novartis Consumer Health UK Ltd),Calcium carbonate/Calcium lactate gluconate/Colecalciferol,2.1gram + 2.716gram + 800unit,Effervescent tablet,Oral,09060400,Vitamin D,December 2009,1
+61203,23291311000001108,19980021,16,"D-Vit3 1,000unit capsules (IPS Specials)",Colecalciferol,1000unit,Capsule,Oral,09060400,Vitamin D,September 2014,1
+88728,41333511000001110,05342022,1,Actium D3 800unit capsules (MaN Pharma Ltd),Colecalciferol,800unit,Capsule,Oral,09060400,Vitamin D,September 2023,1
+72402,34942611000001100,79108021,1849,"ColeKal-D3 1,000unit capsules (Essential-Healthcare Ltd)",Colecalciferol,1000unit,Capsule,Oral,09060400,Vitamin D,June 2018,1
+82081,38056511000001104,91284021,45,ColeDose D3 400unit tablets (TriOn Pharma Ltd),Colecalciferol,400unit,Tablet,Oral,09060400,Vitamin D,November 2020,1
+68632,32748811000001104,69417021,7,"Colecalciferol 40,000unit tablets",Colecalciferol,40000unit,Tablet,Oral,09060400,Vitamin D,January 2017,1
+47268,19626311000001108,00838021,243,"Colecalciferol 2,000units/ml oral drops sugar free",Colecalciferol,2000unit/1ml,Oral drops,Oral,00000000,Unknown,May 2012,1
+63117,24641911000001100,26871021,3,"D-Max 10,000unit capsules (Nutraconcepts Ltd)",Colecalciferol,10000unit,Capsule,Oral,09060400,Vitamin D,May 2015,1
+78740,21613011000001104,46635020,2,"Cubicole D3 1,000unit tablets (Cubic Pharmaceuticals Ltd)",Colecalciferol,1000unit,Tablet,Oral,09060400,Vitamin D,November 2019,1
+80984,38066811000001104,91501021,11,"ColeKal-D3 40,000unit capsules (Essential-Healthcare Ltd)",Colecalciferol,40000unit,Capsule,Oral,09060400,Vitamin D,June 2020,1
+61959,22523811000001104,16607021,57,"SunVit-D3 50,000unit tablets (SunVit-D3 Ltd)",Colecalciferol,50000unit,Tablet,Oral,09060400,Vitamin D,January 2015,1
+55707,21257611000001108,44921020,4,"ColeVit D3 50,000unit capsules (Sterling Pharmaceuticals Ltd)",Colecalciferol,50000unit,Capsule,Oral,09060400,Vitamin D,June 2013,1
+61467,22641211000001104,17042021,0,"Colecal D3 20,000unit capsules (Disposable Medical Equipment Ltd)",Colecalciferol,20000unit,Capsule,Oral,09060400,Vitamin D,October 2014,1
+81882,34279911000001100,75894021,103,FSC Vitamin D3 400unit tablets (Bee Health Ltd),Colecalciferol,400unit,Tablet,Oral,09060400,Vitamin D,October 2020,1
+45701,18740111000001100,99390020,33366,Kalcipos-D 500mg/800unit chewable tablets (Viatris UK Healthcare Ltd),Calcium carbonate/Colecalciferol,1.25gram + 800unit,Chewable tablet,Oral,09060400,Vitamin D,July 2011,1
+44016,17555111000001104,98302020,23080,Colecalciferol 400unit / Calcium carbonate 1.25g tablets,Calcium carbonate/Colecalciferol,1.25gram + 400unit,Tablet,Oral,09060400,Vitamin D,December 2010,1
+87454,39085911000001104,95549021,14,"DailyD Vitamin D3 2,000unit capsules (Kora Healthcare)",Colecalciferol,2000unit,Capsule,Oral,09060400,Vitamin D,January 2023,1
+70817,34235511000001108,75792021,19,Colecalciferol 200unit / Calcium phosphate 250mg chewable tablets,Colecalciferol/Calcium phosphate,200unit + 250mg,Chewable tablet,Oral,09040251/09060400,Nutritional Supplements/Vitamin D,December 2017,1
+62495,28012711000001104,43051021,2676,Colecalciferol 800unit / Calcium carbonate 2.5g chewable tablets,Calcium carbonate/Colecalciferol,2.5gram + 800iu,Chewable tablet,Oral,09060400,Vitamin D,March 2015,1
+58596,22523511000001108,16531021,279,"SunVit-D3 20,000unit tablets (SunVit-D3 Ltd)",Colecalciferol,20000unit,Tablet,Oral,09060400,Vitamin D,January 2014,1
+48916,9262311000001102,21394020,3536,Cod liver oil 550mg capsules,Cod liver oil/Retinol/Colecalciferol,550mg +  + ,Capsule,Oral,09040251,Nutritional Supplements,January 2013,1
+58223,22641411000001104,17053021,25,"Colecal D3 20,000unit tablets (Disposable Medical Equipment Ltd)",Colecalciferol,20000unit,Tablet,Oral,09060400,Vitamin D,December 2013,1
+46219,17636511000001104,00016021,2893,"Dekristol 20,000unit capsules (Imported (Germany))",Colecalciferol,20000unit,Capsule,Oral,09060400,Vitamin D,October 2011,1
+50394,20906111000001100,43689020,1862,Aciferol D3 400unit tablets (Rhodes Pharma Ltd),Colecalciferol,400unit,Tablet,Oral,09060400,Vitamin D,January 2013,1
+76285,34157411000001100,75224021,2,"Lamberts Vitamin D3 4,000unit capsules (Lamberts Healthcare Ltd)",Colecalciferol,4000unit,Capsule,Oral,09060400,Vitamin D,May 2019,1
+80173,35436411000001108,80967021,49,"SunVit-D3 1,000unit Vegan tablets (SunVit-D3 Ltd)",Colecalciferol,1000unit,Tablet,Oral,09060400,Vitamin D,March 2020,1
+49801,11550011000001108,29350020,3131,Cod liver oil 1.05g capsules,Cod liver oil/Colecalciferol/Retinol,1.05gram +  + ,Capsule,Oral,09040251,Nutritional Supplements,January 2013,1
+37412,12776511000001102,94200020,291383,Natecal D3 600mg/400unit chewable tablets (Chiesi Ltd),Calcium carbonate/Colecalciferol,1.5gram + 400unit,Chewable tablet,Oral,09060400,Vitamin D,February 2009,1
+49283,20933011000001104,43757020,1445,"Colecalciferol 3,000unit tablets",Colecalciferol,3000unit,Tablet,Oral,09060400,Vitamin D,January 2013,1
+51216,21255511000001100,44929020,39,ColeVit D3 400unit capsules (Sterling Pharmaceuticals Ltd),Colecalciferol,400unit,Capsule,Oral,09060400,Vitamin D,January 2013,1
+35823,5340211000001103,68622020,0,Cernevit powder for solution for injection vials (Baxter Healthcare Ltd),Nicotinamide/Biotin/Dexpanthenol/Folic acid/Cyanocobalamin/Pyridoxine hydrochloride/Thiamine/Riboflavin sodium phosphate/Ascorbic acid/Retinol/Colecalciferol/Alpha tocopherol,46mg + 69microgram + 17.25mg + 414microgram + 6microgram + 4.53mg + 3.51mg + 4.14mg + 125mg + 3500unit + 220unit + 11.2unit,Powder for solution for injection,Intravenous,09030000,Intravenous Nutrition,February 2009,1
+70320,34261811000001100,75927021,443,"Colecalciferol 5,600unit capsules",Colecalciferol,5600unit,Capsule,Oral,09060400,Vitamin D,September 2017,1
+86112,40109611000001104,00447022,5,"Aactive D3 10,000unit capsules (TriOn Pharma Ltd)",Colecalciferol,10000unit,Capsule,Oral,09060400,Vitamin D,May 2022,1
+72264,34477511000001104,77031021,57,"SunVit-D3 3,000units/ml oral solution (SunVit-D3 Ltd)",Colecalciferol,3000unit/1ml,Oral solution,Oral,09060400,Vitamin D,May 2018,1
+47082,17334411000001108,00643021,85721,"Colecalciferol 1,000unit capsules",Colecalciferol,1000unit,Capsule,Oral,09060400,Vitamin D,May 2012,1
+50991,21268311000001108,45110020,71,"Colecalciferol 3,000units/ml oral solution",Colecalciferol,3000unit/1ml,Oral solution,Oral,09060400,Vitamin D,January 2013,1
+62949,28012611000001100,43049021,9326,"Colecalciferol 25,000unit tablets",Colecalciferol,25000unit,Tablet,Oral,09060400,Vitamin D,April 2015,1
+72313,35129711000001108,80024021,4083,Paravit-CF capsules (Parapharm Development Ltd),Phytomenadione/Colecalciferol/Alpha tocopheryl acetate/Retinol palmitate, +  +  + ,Capsule,Oral,09060700,Multivitamin And Multimineral Preparations,June 2018,1
+54022,18519411000001108,37881020,1235,"Colecalciferol 3,000unit capsules",Colecalciferol,3000unit,Capsule,Oral,09060400,Vitamin D,March 2013,1
+51124,21268211000001104,45108020,92,"Colecalciferol 2,000units/ml oral solution",Colecalciferol,2000unit/1ml,Oral solution,Oral,09060400,Vitamin D,January 2013,1
+86789,40471911000001104,01338022,10,SunVit-D3 600unit capsules (SunVit-D3 Ltd),Colecalciferol,600unit,Capsule,Oral,09060400,Vitamin D,September 2022,1
+55615,19626211000001104,38404020,8,Colecalciferol 150unit / Calcium 250mg tablets,Calcium citrate/Colecalciferol,250mg + 150unit,Tablet,Oral,09040251,Nutritional Supplements,June 2013,1
+61040,24605311000001108,26897021,4191,"Hux D3 3,200unit capsules (Huxley Europe Ltd)",Colecalciferol,3200unit,Capsule,Oral,09060400,Vitamin D,September 2014,1
+47429,19899411000001108,00898021,229,"Colecalciferol 3,000units/ml oral solution sugar free",Colecalciferol,3000unit/1ml,Oral solution,Oral,09060400,Vitamin D,July 2012,1
+49503,17617811000001102,08009020,424,Calcichew D3 Forte chewable tablets (Necessity Supplies Ltd),Calcium carbonate/Colecalciferol,1.25gram + 400unit,Chewable tablet,Oral,09050101/09060400,Calcium Supplements/Vitamin D,January 2013,1
+78316,32463311000001104,67733021,9,"Solgar Vitamin D3 1,000unit chewable tablets (Solgar Vitamin and Herb)",Colecalciferol,1000unit,Chewable tablet,Oral,09060400,Vitamin D,November 2019,1
+54390,20457311000001104,41646020,288,"D-Pearls 1,000unit capsules (Pharma Nord (UK) Ltd)",Colecalciferol,1000unit,Capsule,Oral,09060400,Vitamin D,April 2013,1
+74836,14304911000001100,08006020,98,Calcichew D3 Forte chewable tablets (Sigma Pharmaceuticals Plc),Calcium carbonate/Colecalciferol,1.25gram + 400unit,Chewable tablet,Oral,09060400,Vitamin D,February 2019,1
+798,344111000001101,83215020,5067261,Adcal-D3 chewable tablets tutti frutti (Kyowa Kirin International UK NewCo Ltd),Calcium carbonate/Colecalciferol,1.5gram + 400unit,Chewable tablet,Oral,09060400,Vitamin D,February 2009,1
