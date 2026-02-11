@@ -1,0 +1,28 @@
+code	description
+K71.1	Toxic liver disease with hepatic necrosis
+K71.7	Toxic liver disease with fibrosis and cirrhosis of liver
+K72.0	Acute and subacute hepatic failure
+K72.1	Chronic hepatic failure
+K72.9	Hepatic failure, unspecified
+K74	Fibrosis and cirrhosis of liver
+K74.0	Hepatic fibrosis
+K74.1	Hepatic sclerosis
+K74.2	Hepatic fibrosis with hepatic sclerosis
+K74.3	Primary biliary cirrhosis
+K74.4	Secondary biliary cirrhosis
+K74.5	Biliary cirrhosis, unspecified
+K74.6	Other and unspecified cirrhosis of liver
+K76.6	Portal hypertension
+K76.7	Hepatorenal syndrome
+K76.8	Other specified diseases of liver
+I85.0	Esophageal varices
+I85.1	Secondary esophageal varices
+570	Acute and subacute necrosis of liver
+571.5	Cirrhosis of liver without mention of alcohol
+571.6	Biliary cirrhosis
+572.2	Hepatic encephalopathy
+572.3	Portal hypertension
+572.4	Hepatorenal syndrome
+456	Esophageal varices with bleeding
+456.1	Esophageal varices without mention of bleeding
+456.2	Esophageal varices in diseases classified elsewhere

@@ -1,0 +1,26 @@
+code,description,,,ALI
+K71.0,Toxic liver disease with cholestasis,,,1
+K71.1,Toxic liver disease with hepatic necrosis,,,1
+K71.2,Toxic liver disease with acute hepatitis,,,1
+K71.3,Toxic liver disease with chronic persistent hepatitis,,,1
+K71.4,Toxic liver disease with chronic lobular hepatitis,,,1
+K71.5,Toxic liver disease with chronic active hepatitis,,,1
+K71.6,"Toxic liver disease with hepatitis, not elsewhere classified",,,1
+K71.7,Toxic liver disease with fibrosis and cirrhosis of liver,,,1
+K71.8,Toxic liver disease with other disorders of liver,,,1
+K72.0,Acute and subacute hepatic failure,,,1
+K72.1,Chronic hepatic failure,,,0
+K72.9,"Hepatic failure, unspecified",,,1
+K74,Fibrosis and cirrhosis of liver,,,0
+K74.0,Hepatic fibrosis,,,0
+K74.1,Hepatic sclerosis,,,0
+K74.2,Hepatic fibrosis with hepatic sclerosis,,,0
+K74.6,Other and unspecified cirrhosis of liver,,,0
+K75.8,Other specified inflammatory liver diseases,,,1
+K75.9,"Inflammatory liver disease, unspecified",,,1
+K76.7,Hepatorenal syndrome,,,1
+K76.8,Other specified diseases of liver,,,1
+570,Acute and subacute necrosis of liver,,,1
+571.5,Cirrhosis of liver without mention of alcohol,,,0
+572.2,Hepatic encephalopathy,,,1
+572.4,Hepatorenal syndrome,,,1
