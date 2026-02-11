@@ -1,0 +1,345 @@
+prodcode,therapyevents,gemscriptcode,productname,drugsubstancename,substancestrength,formulation,routeofadministration,bnfcode,bnfheader,databasebuild
+30129,3,47989020,Abicol Tablet (Knoll Ltd),Reserpine/Bendroflumethiazide,,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,February 2009
+15031,4398,74293020,Accuretic 12.5mg/10mg tablets (Pfizer Ltd),Hydrochlorothiazide/Quinapril hydrochloride,12.5mg + 10mg,Tablet,Oral,02050501,Angiotensin-converting Enzyme Inhibitors,February 2009
+14126,832,59935020,Acebutolol 200mg / Hydrochlorothiazide 12.5mg tablets,Acebutolol hydrochloride/Hydrochlorothiazide,200mg + 12.5mg,Tablet,Oral,00000000,Unknown,February 2009
+18263,8230,59646020,Acezide 25mg/50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Hydrochlorothiazide/Captopril,25mg + 50mg,Tablet,Oral,02050501,Angiotensin-converting Enzyme Inhibitors,February 2009
+62376,7,23794021,Actelsar HCT 80mg/12.5mg tablets (Actavis UK Ltd),Telmisartan/Hydrochlorothiazide,80mg + 12.5mg,Tablet,Oral,02050504,Angiotensin-ii Receptor Antagonists With Diuretic,February 2015
+23505,30,81470020,Adizem xl plus 150mg+12.5mg Modified-release capsule (Napp Pharmaceuticals Ltd),Diltiazem Hydrochloride/Hydrochlorothiazide,150mg+12.5mg,Modified-release Capsule,Oral,02020100/02060200,Thiazides And Related Diuretics/Calcium-channel Blockers,February 2009
+20066,6506,63264020,Amil-Co 5mg/50mg tablets (IVAX Pharmaceuticals UK Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,02020400,Potassium-sparing Diuretics With Other Diuretics,February 2009
+18361,10859,72435020,Amilmaxco 5mg/50mg tablets (Ashbourne Pharmaceuticals Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,02020400,Potassium-sparing Diuretics With Other Diuretics,February 2009
+3701,15012,69292020,Amiloride 2.5mg / hydrochlorothiazide 25mg tablets,Amiloride Hydrochloride/Hydrochlorothiazide,2.5mg+25mg,Tablets,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,February 2009
+2002,112745,69291020,Amiloride 5mg / hydrochlorothiazide 50mg tablets,Amiloride Hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablets,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,February 2009
+4034,3704,69293020,Amiloride 5mg / hydrochlorothiazide 50mg/5ml solution,Amiloride Hydrochloride/Hydrochlorothiazide,5mg + 50mg/5ml,Solution,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,February 2009
+3526,355,69296020,Amiloride with atenolol with hydrochlorothiazide capsules,Atenolol/Amiloride Hydrochloride/Hydrochlorothiazide,,Capsules,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+30519,8,69277020,Amiloride with timolol with hydrochlorothiazide tablets,Timolol Maleate/Amiloride Hydrochloride/Hydrochlorothiazide,,Tablets,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+8526,63296,48201020,Aprinox 2.5mg tablets (AMCo),Bendroflumethiazide,2.5mg,Tablet,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria,February 2009
+7698,73024,48202020,Aprinox 5mg tablets (Amdipharm Plc),Bendroflumethiazide,5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+13526,4736,63763020,Atenix Co 100 tablets (Ashbourne Pharmaceuticals Ltd),Atenolol/Chlortalidone,100mg + 25mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+21873,3402,63762020,Atenix Co 50 tablets (Ashbourne Pharmaceuticals Ltd),Atenolol/Chlortalidone,50mg + 12.5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+1788,219573,67598020,Atenolol 100mg with Chlortalidone 25mg tablets,Chlortalidone/Atenolol,100mg+25mg,Tablets,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+9178,5877,83986020,Atenolol 25mg / Bendroflumethiazide 1.25mg capsules,Atenolol/Bendroflumethiazide,25mg + 1.25mg,Capsule,Oral,00000000,Unknown,February 2009
+581,196879,67597020,Atenolol 50mg with Chlortalidone 12.5mg tablets,Chlortalidone/Atenolol,50mg+12.5mg,Tablets,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+4983,8333,68844020,Atenolol with amiloride and hydrochlorothiazide capsules,Atenolol/Amiloride Hydrochloride/Hydrochlorothiazide,,Capsules,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+66517,1,19158020,Bendroflumethiazide 1.25mg/5ml oral suspension,Bendroflumethiazide,250microgram/1ml,Oral suspension,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria,June 2016
+17561,796,67327020,Bendroflumethiazide 2.5mg / Potassium chloride 573mg (potassium 7.7mmol) modified-release tablets,Bendroflumethiazide/Potassium chloride,2.5mg + 573mg,Modified-release tablet,Oral,00000000,Unknown,February 2009
+1211,21838,67326020,Bendroflumethiazide 2.5mg / Potassium chloride 630mg (potassium 8.4mmol) modified-release tablets,Bendroflumethiazide/Potassium chloride,2.5mg + 630mg,Modified-release tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+34803,1,62827020,Bendroflumethiazide 2.5mg Tablet (Regent Laboratories Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+2,32044622,58976020,Bendroflumethiazide 2.5mg tablets,Bendroflumethiazide,2.5mg,Tablet,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria,February 2009
+33651,5123,48846020,Bendroflumethiazide 2.5mg tablets (A A H Pharmaceuticals Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria,February 2009
+34059,2719,55391020,Bendroflumethiazide 2.5mg tablets (Actavis UK Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria,February 2009
+40886,1332,68065020,Bendroflumethiazide 2.5mg tablets (Almus Pharmaceuticals Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria,December 2009
+67737,0,71762020,Bendroflumethiazide 2.5mg tablets (Dr Reddy's Laboratories (UK) Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria,October 2016
+70989,0,40498020,Bendroflumethiazide 2.5mg tablets (Genesis Pharmaceuticals Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria,December 2017
+27689,7506,57793020,Bendroflumethiazide 2.5mg tablets (IVAX Pharmaceuticals UK Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+47844,5,66033020,Bendroflumethiazide 2.5mg tablets (Kent Pharmaceuticals Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria,September 2012
+33415,3132,63225020,Bendroflumethiazide 2.5mg tablets (Mylan),Bendroflumethiazide,2.5mg,Tablet,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria,February 2009
+34602,2,66500020,Bendroflumethiazide 2.5mg tablets (Sovereign Medical Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria,February 2009
+31670,6762,54691020,Bendroflumethiazide 2.5mg tablets (Teva UK Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria,February 2009
+27256,28612,48838020,Bendroflumethiazide 2.5mg tablets (Wockhardt UK Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria,February 2009
+22912,83,67620020,Bendroflumethiazide 2.5mg with Propanolol 80mg capsules,Propranolol Hydrochloride/Bendroflumethiazide,2.5mg + 80mg,Capsules,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+19142,741,67631020,Bendroflumethiazide 2.5mg with Timolol maleate 10mg tablets,Timolol Maleate/Bendroflumethiazide,2.5mg + 10mg,Tablets,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+7351,4141,90559020,Bendroflumethiazide 2.5mg/5ml oral suspension,Bendroflumethiazide,500microgram/1ml,Oral suspension,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria,February 2009
+58,2446371,58977020,Bendroflumethiazide 5mg tablets,Bendroflumethiazide,5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+23427,1778,48847020,Bendroflumethiazide 5mg tablets (A A H Pharmaceuticals Ltd),Bendroflumethiazide,5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+34124,327,55390020,Bendroflumethiazide 5mg tablets (Actavis UK Ltd),Bendroflumethiazide,5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+64907,1,70975020,Bendroflumethiazide 5mg tablets (Almus Pharmaceuticals Ltd),Bendroflumethiazide,5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,December 2015
+67780,0,16655021,Bendroflumethiazide 5mg tablets (DE Pharmaceuticals),Bendroflumethiazide,5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,October 2016
+67738,0,71766020,Bendroflumethiazide 5mg tablets (Dr Reddy's Laboratories (UK) Ltd),Bendroflumethiazide,5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,October 2016
+40149,401,57796020,Bendroflumethiazide 5mg tablets (IVAX Pharmaceuticals UK Ltd),Bendroflumethiazide,5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,August 2009
+41517,792,54690020,Bendroflumethiazide 5mg tablets (Teva UK Ltd),Bendroflumethiazide,5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,March 2010
+31820,2143,48839020,Bendroflumethiazide 5mg tablets (Wockhardt UK Ltd),Bendroflumethiazide,5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+11338,79,67627020,Bendroflumethiazide 5mg with Nadolol 40mg tablets,Nadolol/Bendroflumethiazide,5mg + 40mg,Tablets,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+69334,2,67628020,Bendroflumethiazide 5mg with Nadolol 80mg tablets,Nadolol/Bendroflumethiazide,,,,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,May 2017
+23131,6,67621020,Bendroflumethiazide 5mg with Propanolol 160mg modified-release capsules,Propranolol Hydrochloride/Bendroflumethiazide,5mg + 160mg,Modified Release Capsules,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+53812,0,92033020,Bendroflumethiazide oral solution,Bendroflumethiazide,,,,02020100,Thiazides And Related Diuretics,February 2013
+21803,19070,48386020,Berkozide 2.5mg Tablet (Berk Pharmaceuticals Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+21867,6375,48387020,Berkozide 5mg Tablet (Berk Pharmaceuticals Ltd),Bendroflumethiazide,5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+17462,727,75023020,Bisoprolol 10mg / Hydrochlorothiazide 6.25mg tablets,Bisoprolol fumarate/Hydrochlorothiazide,10mg + 6.25mg,Tablet,Oral,00000000,Unknown,February 2009
+18983,49,48459020,Brinaldix k Effervescent tablet (Berk Pharmaceuticals Ltd),Potassium Chloride/Clopamide,,Effervescent Tablet,Oral,02020800,Diuretics With Potassium,February 2009
+1520,114470,68133020,Capozide 25mg/50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Hydrochlorothiazide/Captopril,25mg + 50mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,February 2009
+39227,74,95527020,Capozide LS 12.5mg/25mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Hydrochlorothiazide/Captopril,12.5mg + 25mg,Tablet,Oral,02050501,Angiotensin-converting Enzyme Inhibitors,April 2009
+3203,4445,68134020,Capozide LS Tablet (E R Squibb and Sons Ltd),Hydrochlorothiazide/Captopril,12.5mg + 25mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,February 2009
+32166,16,80831020,Capto-co 25mg+50mg Tablet (IVAX Pharmaceuticals UK Ltd),Hydrochlorothiazide/Captopril,25mg + 50mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,February 2009
+11641,1203,68130020,Captopril 25mg with Hydrochlorothiazide 12.5mg tablets,Captopril/Hydrochlorothiazide,25mg + 12.5mg,Tablets,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,February 2009
+10902,8957,68129020,Captopril 50mg with Hydrochlorothiazide 25mg tablets,Captopril/Hydrochlorothiazide,50mg + 25mg,Tablets,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,February 2009
+39242,507,95903020,Carace 10 Plus tablets (Merck Sharp & Dohme Ltd),Lisinopril/Hydrochlorothiazide,10mg + 12.5mg,Tablet,Oral,02050501,Angiotensin-converting Enzyme Inhibitors,April 2009
+17655,2927,72036020,Carace 10 Tablet (Bristol-Myers Squibb Pharmaceuticals Ltd),Lisinopril/Hydrochlorothiazide,10mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,February 2009
+39147,1708,95901020,Carace 20 Plus tablets (Merck Sharp & Dohme Ltd),Lisinopril/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,April 2009
+9764,6930,72035020,Carace 20 Tablet (Bristol-Myers Squibb Pharmaceuticals Ltd),Lisinopril/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,February 2009
+21231,6,87820020,Caralpha 20mg/12.5mg tablets (Actavis UK Ltd),Lisinopril/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02050501,Angiotensin-converting Enzyme Inhibitors,February 2009
+62066,156,23031021,Cardide SR 1.5mg tablets (Teva UK Ltd),Indapamide,1.5mg,Modified-release tablet,Oral,02020100,Thiazides And Related Diuretics,January 2015
+18973,250,52358020,Centyl 2.5mg Tablet (Edwin Burgess Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+29991,91,52359020,Centyl 5mg Tablet (Edwin Burgess Ltd),Bendroflumethiazide,5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+20426,62,48616020,Centyl k 2.5mg+7.7mmol Tablet (Edwin Burgess Ltd),Bendroflumethiazide/Potassium chloride,2.5mg + 573mg,Modified-release tablet,Oral,02020800,Diuretics With Potassium,February 2009
+20431,909,78362020,Centyl K modified-release tablets (LEO Pharma),Bendroflumethiazide/Potassium chloride,2.5mg + 573mg,Modified-release tablet,Oral,00000000,Unknown,February 2009
+2979,27647,48615020,Centyl k Tablet (Edwin Burgess Ltd),Bendroflumethiazide/Potassium chloride,2.5mg + 630mg,Modified-release tablet,Oral,02020800,Diuretics With Potassium,February 2009
+3548,2068,61268020,Chlortalidone 100mg tablets,Chlortalidone,100mg,Tablets,Oral,02020100/06050200,Thiazides And Related Diuretics/Posterior Pituitary Hormones And Antagonists,February 2009
+19055,1184,61275020,Chlortalidone 12.5mg with Atenolol 50mg tablets,Chlortalidone/Atenolol,12.5mg+50mg,Tablets,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+16786,1175,61276020,Chlortalidone 25mg with Atenolol 100mg tablets,Chlortalidone/Atenolol,25mg+100mg,Tablets,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+605,76272,61267020,Chlortalidone 50mg tablets,Chlortalidone,50mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+25462,51,61503020,Clopamide 5mg with Pindolol 10mg tablets,Pindolol/Clopamide,5mg + 10mg,Tablets,Oral,02040000,Beta-adrenoceptor Blocking Drugs,February 2009
+22839,1,79106020,Clopamide with Potassium effervescent tablets,Potassium Chloride/Clopamide,,Effervescent Tablet,Oral,02020800,Diuretics With Potassium,February 2009
+924,195719,70710020,Co-amilozide 2.5mg/25mg tablets,Hydrochlorothiazide/Amiloride hydrochloride,25mg + 2.5mg,Tablet,Oral,02020400,Potassium-sparing Diuretics With Other Diuretics,February 2009
+60354,0,00787020,Co-amilozide 2.5mg/25mg tablets (Kent Pharmaceuticals Ltd),Hydrochlorothiazide/Amiloride hydrochloride,25mg + 2.5mg,Tablet,Oral,02020400,Potassium-sparing Diuretics With Other Diuretics,July 2014
+34367,88,55013020,Co-amilozide 2.5mg/25mg tablets (Wockhardt UK Ltd),Hydrochlorothiazide/Amiloride hydrochloride,25mg + 2.5mg,Tablet,Oral,02020400,Potassium-sparing Diuretics With Other Diuretics,February 2009
+18733,588,70712020,Co-amilozide 5mg with 50mg/ml oral solution,Amiloride Hydrochloride/Hydrochlorothiazide,5mg + 50mg/5ml,Oral Solution,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,February 2009
+923,663372,70711020,Co-amilozide 5mg/50mg tablets,Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,02020400,Potassium-sparing Diuretics With Other Diuretics,February 2009
+46916,58,49316020,Co-amilozide 5mg/50mg tablets (A A H Pharmaceuticals Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,02020400,Potassium-sparing Diuretics With Other Diuretics,March 2012
+62249,0,10099020,Co-amilozide 5mg/50mg tablets (Alliance Healthcare (Distribution) Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,02020400,Potassium-sparing Diuretics With Other Diuretics,January 2015
+31150,134,49311020,Co-amilozide 5mg/50mg tablets (IVAX Pharmaceuticals UK Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,02020400,Potassium-sparing Diuretics With Other Diuretics,February 2009
+62700,0,10107020,Co-amilozide 5mg/50mg tablets (Phoenix Healthcare Distribution Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,02020400,Potassium-sparing Diuretics With Other Diuretics,April 2015
+41556,1317,53503020,Co-amilozide 5mg/50mg tablets (Teva UK Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,02020400,Potassium-sparing Diuretics With Other Diuretics,March 2010
+10316,27996,83981020,CoAprovel 150mg/12.5mg tablets (Sanofi),Irbesartan/Hydrochlorothiazide,150mg + 12.5mg,Tablet,Oral,02020100/02050504,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists With Diuretic,February 2009
+11526,28333,83982020,CoAprovel 300mg/12.5mg tablets (Sanofi),Irbesartan/Hydrochlorothiazide,300mg + 12.5mg,Tablet,Oral,02020100/02050504,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists With Diuretic,February 2009
+35196,2553,92367020,CoAprovel 300mg/25mg tablets (Sanofi),Hydrochlorothiazide/Irbesartan,25mg + 300mg,Tablet,Oral,02020100/02050504,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists With Diuretic,February 2009
+18287,2306,53671020,Co-Betaloc SA tablets (Pfizer Ltd),Metoprolol tartrate/Hydrochlorothiazide,200mg + 25mg,Modified-release tablet,Oral,00000000,Unknown,February 2009
+10627,23342,48722020,Co-Betaloc tablets (Pfizer Ltd),Metoprolol tartrate/Hydrochlorothiazide,100mg + 12.5mg,Tablet,Oral,00000000,Unknown,February 2009
+6877,6600,87998020,Co-Diovan 160mg/12.5mg tablets (Novartis Pharmaceuticals UK Ltd),Valsartan/Hydrochlorothiazide,160mg + 12.5mg,Tablet,Oral,02050504,Angiotensin-ii Receptor Antagonists With Diuretic,February 2009
+25382,3114,88008020,Co-Diovan 160mg/25mg tablets (Novartis Pharmaceuticals UK Ltd),Valsartan/Hydrochlorothiazide,160mg + 25mg,Tablet,Oral,02050504,Angiotensin-ii Receptor Antagonists With Diuretic,February 2009
+764,5768,88424020,Co-Diovan 80mg/12.5mg tablets (Novartis Pharmaceuticals UK Ltd),Hydrochlorothiazide/Valsartan,12.5mg + 80mg,Tablet,Oral,02050504,Angiotensin-ii Receptor Antagonists With Diuretic,February 2009
+52858,2,10088020,Co-Diovan 80mg/12.5mg tablets (Sigma Pharmaceuticals Plc),Hydrochlorothiazide/Valsartan,12.5mg + 80mg,Tablet,Oral,02050504,Angiotensin-ii Receptor Antagonists With Diuretic,January 2013
+5330,2516,48767020,Corgaretic 40mg tablets (Sanofi-Synthelabo Ltd),Nadolol/Bendroflumethiazide,40mg + 5mg,Tablet,Oral,00000000,Unknown,February 2009
+14438,2543,54543020,Corgaretic 80mg tablets (Sanofi-Synthelabo Ltd),Nadolol/Bendroflumethiazide,80mg + 5mg,Tablet,Oral,00000000,Unknown,February 2009
+5721,438992,73883020,Co-tenidone 100mg/25mg tablets,Atenolol/Chlortalidone,100mg + 25mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+34899,531,53522020,Co-tenidone 100mg/25mg tablets (A A H Pharmaceuticals Ltd),Atenolol/Chlortalidone,100mg + 25mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+46952,17,56911020,Co-tenidone 100mg/25mg tablets (Actavis UK Ltd),Atenolol/Chlortalidone,100mg + 25mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,March 2012
+62537,0,21452021,Co-tenidone 100mg/25mg tablets (DE Pharmaceuticals),Atenolol/Chlortalidone,100mg + 25mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,March 2015
+34012,144,55246020,Co-tenidone 100mg/25mg tablets (IVAX Pharmaceuticals UK Ltd),Atenolol/Chlortalidone,100mg + 25mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+37725,7,60353020,Co-tenidone 100mg/25mg tablets (Mylan),Atenolol/Chlortalidone,100mg + 25mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+41572,182,54654020,Co-tenidone 100mg/25mg tablets (Teva UK Ltd),Atenolol/Chlortalidone,100mg + 25mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,March 2010
+9783,482647,73882020,Co-tenidone 50mg/12.5mg tablets,Atenolol/Chlortalidone,50mg + 12.5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+32094,685,53521020,Co-tenidone 50mg/12.5mg tablets (A A H Pharmaceuticals Ltd),Atenolol/Chlortalidone,50mg + 12.5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+31708,67,56910020,Co-tenidone 50mg/12.5mg tablets (Actavis UK Ltd),Atenolol/Chlortalidone,50mg + 12.5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+34034,133,55247020,Co-tenidone 50mg/12.5mg tablets (IVAX Pharmaceuticals UK Ltd),Atenolol/Chlortalidone,50mg + 12.5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+34449,1,60352020,Co-tenidone 50mg/12.5mg tablets (Mylan),Atenolol/Chlortalidone,50mg + 12.5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+34825,619,54653020,Co-tenidone 50mg/12.5mg tablets (Teva UK Ltd),Atenolol/Chlortalidone,50mg + 12.5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+5416,123762,57075020,Co-triamterzide 50mg/25mg tablets,Hydrochlorothiazide/Triamterene,25mg + 50mg,Tablet,Oral,02020400,Potassium-sparing Diuretics With Other Diuretics,February 2009
+47804,13,74717020,Co-triamterzide 50mg/25mg tablets (A A H Pharmaceuticals Ltd),Hydrochlorothiazide/Triamterene,25mg + 50mg,Tablet,Oral,02020400,Potassium-sparing Diuretics With Other Diuretics,September 2012
+51258,0,34961020,Coversyl Arginine Plus 5mg/1.25mg tablets (DE Pharmaceuticals),Perindopril arginine/Indapamide,5mg + 1.25mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,January 2013
+37908,13734,94709020,Coversyl Arginine Plus 5mg/1.25mg tablets (Servier Laboratories Ltd),Perindopril arginine/Indapamide,5mg + 1.25mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,February 2009
+14228,14812,84712020,Coversyl Plus tablets (Servier Laboratories Ltd),Indapamide/Perindopril erbumine,1.25mg + 4mg,Tablet,Oral,00000000,Unknown,February 2009
+37747,1831,94429020,Cozaar-Comp 100mg/12.5mg tablets (Merck Sharp & Dohme Ltd),Losartan potassium/Hydrochlorothiazide,100mg + 12.5mg,Tablet,Oral,02050504,Angiotensin-ii Receptor Antagonists With Diuretic,February 2009
+21423,6519,89783020,Cozaar-Comp 100mg/25mg tablets (Merck Sharp & Dohme Ltd),Losartan potassium/Hydrochlorothiazide,100mg + 25mg,Tablet,Oral,02050504,Angiotensin-ii Receptor Antagonists With Diuretic,February 2009
+57796,0,01684020,Cozaar-Comp 50mg/12.5mg tablets (DE Pharmaceuticals),Losartan potassium/Hydrochlorothiazide,50mg + 12.5mg,Tablet,Oral,02050504,Angiotensin-ii Receptor Antagonists With Diuretic,December 2013
+4540,38002,82246020,Cozaar-Comp 50mg/12.5mg tablets (Merck Sharp & Dohme Ltd),Losartan potassium/Hydrochlorothiazide,50mg + 12.5mg,Tablet,Oral,02050504,Angiotensin-ii Receptor Antagonists With Diuretic,February 2009
+55160,0,01673020,Cozaar-Comp 50mg/12.5mg tablets (Sigma Pharmaceuticals Plc),Losartan potassium/Hydrochlorothiazide,50mg + 12.5mg,Tablet,Oral,02050504,Angiotensin-ii Receptor Antagonists With Diuretic,May 2013
+11561,977,84483020,Co-zidocapt 12.5mg/25mg tablets,Hydrochlorothiazide/Captopril,12.5mg + 25mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,February 2009
+11351,15745,84482020,Co-zidocapt 25mg/50mg tablets,Hydrochlorothiazide/Captopril,25mg + 50mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,February 2009
+26220,1808,68015020,Delvas Tablet (Berk Pharmaceuticals Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,February 2009
+18606,11,81472020,Diltiazem and hydrochlorothiazide 150mg+12.5mg modified-release capsules,Diltiazem Hydrochloride/Hydrochlorothiazide,150mg + 12.5mg,Modified Release Capsules,Oral,02020100/02060200,Thiazides And Related Diuretics/Calcium-channel Blockers,February 2009
+4044,26159,49062020,Diurexan 20mg tablets (Meda Pharmaceuticals Ltd),Xipamide,20mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+27556,0,!2051101,DYAZIDE,,,,,00000000,Unknown,February 2009
+1721,642404,49166020,Dyazide 50mg/25mg tablets (AMCo),Hydrochlorothiazide/Triamterene,25mg + 50mg,Tablet,Oral,02020400,Potassium-sparing Diuretics With Other Diuretics,February 2009
+67801,870,10850020,Dyazide 50mg/25mg tablets (Lexon (UK) Ltd),Hydrochlorothiazide/Triamterene,25mg + 50mg,Tablet,Oral,02020400,Potassium-sparing Diuretics With Other Diuretics,October 2016
+5189,36660,51068020,Enalapril 20mg / Hydrochlorothiazide 12.5mg tablets,Enalapril maleate/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,February 2009
+17252,487,49321020,Esidrex 25mg Tablet (Novartis Pharmaceuticals UK Ltd),Hydrochlorothiazide,25mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+13363,120,49322020,Esidrex 50mg Tablet (Novartis Pharmaceuticals UK Ltd),Hydrochlorothiazide,50mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+36519,0,49326020,Esidrex -k Tablet (Novartis Pharmaceuticals UK Ltd),Potassium Chloride/Hydrochlorothiazide,,Tablet,Oral,02020800,Diuretics With Potassium,February 2009
+41885,26,95348020,Ethibide XL 1.5mg tablets (Genus Pharmaceuticals Ltd),Indapamide,1.5mg,Modified-release tablet,Oral,02020100,Thiazides And Related Diuretics,April 2010
+60780,0,38011020,Generic Sevikar HCT 20mg/5mg/12.5mg tablets,Hydrochlorothiazide/Olmesartan medoxomil/Amlodipine besilate,12.5mg + 20mg + 5mg,Tablet,Oral,02050502,Angiotensin-ii Receptor Antagonists,August 2014
+60007,0,38012020,Generic Sevikar HCT 40mg/10mg/12.5mg tablets,Amlodipine besilate/Hydrochlorothiazide/Olmesartan medoxomil,10mg + 12.5mg + 40mg,Tablet,Oral,02050502,Angiotensin-ii Receptor Antagonists,May 2014
+24520,3,04879007,HYDROCHLOROTHIAZIDE /METOPROLOL TARTRATE 25 MG TAB,,,,,00000000,Unknown,February 2009
+62516,182,26913021,Hydrochlorothiazide 12.5mg tablets,Hydrochlorothiazide,12.5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,March 2015
+23483,0,!3235101,HYDROCHLOROTHIAZIDE 12.5MG/K 8.1MMOL S/R,,,,,00000000,Unknown,February 2009
+15577,3,05814007,HYDROCHLOROTHIAZIDE 12.5MG/K 8.1MMOL S/R 12.5 MG TAB,,,,,00000000,Unknown,February 2009
+542,33588,63248020,Hydrochlorothiazide 25mg tablets,Hydrochlorothiazide,25mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+3517,9497,63249020,Hydrochlorothiazide 50mg tablets,Hydrochlorothiazide,50mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+48132,0,94685020,Hydrochlorothiazide Capsule,Hydrochlorothiazide,,Capsule,Oral,02020100,Thiazides And Related Diuretics,December 2012
+57488,0,92809020,Hydrochlorothiazide Oral solution,Hydrochlorothiazide,,Oral Solution,,02020100,Thiazides And Related Diuretics,October 2013
+19890,1873,63252020,Hydrochlorothiazide with amiloride 25mgwith2.5mg Tablet,Amiloride Hydrochloride/Hydrochlorothiazide,25mg+2.5mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,February 2009
+22923,7211,63254020,Hydrochlorothiazide with amiloride 50mg with 5mg Tablet,Amiloride Hydrochloride/Hydrochlorothiazide,50mg + 5mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,February 2009
+28177,187,68841020,Hydrochlorothiazide with atenolol and amiloride Capsule,Atenolol/Amiloride Hydrochloride/Hydrochlorothiazide,,Capsule,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+15135,165,69269020,Hydrochlorothiazide with captopril 12.5mg with 25mg Tablet,Captopril/Hydrochlorothiazide,12.5mg + 25mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,February 2009
+11133,2938,69268020,Hydrochlorothiazide with captopril 25mg with 50mg Tablet,Captopril/Hydrochlorothiazide,25mg + 50mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,February 2009
+38367,154,94427020,Hydrochlorothiazide with losartan 12.5mg with 100mg Tablet,Losartan Potassium/Hydrochlorothiazide,12.5mg + 100mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,February 2009
+14738,2564,79035020,Hydrochlorothiazide with losartan 12.5mg with 50mg Tablet,Losartan Potassium/Hydrochlorothiazide,12.5mg + 50mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,February 2009
+24632,392,89781020,Hydrochlorothiazide with losartan 25mg with 100mg Tablet,Losartan Potassium/Hydrochlorothiazide,25mg + 100mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,February 2009
+29427,13,68980020,Hydrochlorothiazide with metoprolol tartrate 12.5mg with 100mg tablet,Metoprolol Tartrate/Hydrochlorothiazide,12.5mg + 100mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+33659,1,68979020,Hydrochlorothiazide with metoprolol tartrate 25mg with 200mg Modified-release tablet,Metoprolol Tartrate/Hydrochlorothiazide,25mg + 200mg,Modified-release Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+35380,38,90735020,Hydrochlorothiazide with olmesartan medoxomil 12.5mg with 20mg tablet,Hydrochlorothiazide/Olmesartan Medoxomil,12.5mg + 20mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,February 2009
+39021,39,90733020,Hydrochlorothiazide with olmesartan medoxomil 25mg with 20mg tablet,Hydrochlorothiazide/Olmesartan Medoxomil,25mg + 20mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,February 2009
+21182,5154,69280020,Hydrochlorothiazide with timolol and amiloride 25mg with 10mg with 2.5mg Tablet,Timolol Maleate/Amiloride Hydrochloride/Hydrochlorothiazide,25mg + 10mg + 2.5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+15127,1372,63257020,Hydrochlorothiazide with triamterene 25mgwith50mg Tablet,Triamterene/Hydrochlorothiazide,25mg+50mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,February 2009
+24484,267,87996020,Hydrochlorothiazide with valsartan 12.5mg with 160mg Tablet,Valsartan/Hydrochlorothiazide,12.5mg + 160mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,February 2009
+24268,254,88422020,Hydrochlorothiazide with valsartan 12.5mg with 80mg Tablet,Valsartan/Hydrochlorothiazide,12.5mg + 80mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,February 2009
+23456,377,88006020,Hydrochlorothiazide with valsartan 25mg with 160mg Tablet,Valsartan/Hydrochlorothiazide,25mg + 160mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,February 2009
+21346,1422,64564020,Hydromet Tablet (MSD Thomas Morson Pharmaceuticals),Methyldopa Anhydrous/Hydrochlorothiazide,,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,February 2009
+12440,2713,63260020,Hydrosaluric 25mg tablets (Merck Sharp & Dohme Ltd),Hydrochlorothiazide,25mg,Tablet,Oral,00000000,Unknown,February 2009
+16632,1072,63261020,Hydrosaluric 50mg tablets (Merck Sharp & Dohme Ltd),Hydrochlorothiazide,50mg,Tablet,Oral,00000000,Unknown,February 2009
+3054,3216,49873020,Hygroton 100mg Tablet (Alliance Pharmaceuticals Ltd),Chlortalidone,100mg,Tablet,Oral,02020100/06050200,Thiazides And Related Diuretics/Posterior Pituitary Hormones And Antagonists,February 2009
+3997,29966,49872020,Hygroton 50mg tablets (Alliance Pharmaceuticals Ltd),Chlortalidone,50mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+8891,16949,49876020,Hygroton -k Tablet (Novartis Pharmaceuticals UK Ltd),Potassium Chloride/Chlortalidone,,Tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+25500,33,68145020,Hypertane 50 Tablet (Schwarz Pharma Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,February 2009
+5112,1438704,63541020,Indapamide 1.5mg modified-release tablets,Indapamide,1.5mg,Modified-release tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+46675,8,75757020,Indapamide 1.5mg modified-release tablets (A A H Pharmaceuticals Ltd),Indapamide,1.5mg,Modified-release tablet,Oral,02020100,Thiazides And Related Diuretics,January 2012
+62771,0,23030021,Indapamide 1.5mg modified-release tablets (DE Pharmaceuticals),Indapamide,1.5mg,Modified-release tablet,Oral,02020100,Thiazides And Related Diuretics,April 2015
+60020,0,14463021,Indapamide 1.5mg modified-release tablets (Waymade Healthcare Plc),Indapamide,1.5mg,Modified-release tablet,Oral,02020100,Thiazides And Related Diuretics,May 2014
+2612,1759570,63540020,Indapamide 2.5mg tablets,Indapamide hemihydrate,2.5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+48099,9,60381020,Indapamide 2.5mg tablets (A A H Pharmaceuticals Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,December 2012
+43516,24,57007020,Indapamide 2.5mg tablets (Actavis UK Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,September 2010
+54316,0,00683020,Indapamide 2.5mg tablets (Alliance Healthcare (Distribution) Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,March 2013
+56296,0,00685020,Indapamide 2.5mg tablets (Boston Healthcare Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,August 2013
+70509,0,00684020,Indapamide 2.5mg tablets (DE Pharmaceuticals),Indapamide hemihydrate,2.5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,October 2017
+40907,1,68581020,Indapamide 2.5mg tablets (Genus Pharmaceuticals Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,December 2009
+55259,0,00682020,Indapamide 2.5mg tablets (Kent Pharmaceuticals Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,May 2013
+34551,93,60492020,Indapamide 2.5mg tablets (Mylan),Indapamide hemihydrate,2.5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+42906,1999,63983020,Indapamide 2.5mg tablets (Niche Generics Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,July 2010
+49529,0,00689020,Indapamide 2.5mg tablets (Phoenix Healthcare Distribution Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,January 2013
+56760,0,00690020,Indapamide 2.5mg tablets (Strides Shasun (UK) Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,August 2013
+33083,1969,56755020,Indapamide 2.5mg tablets (Teva UK Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+48079,0,59993020,Indapamide 2.5mg tablets (Zentiva),Indapamide hemihydrate,2.5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,December 2012
+64066,8,46287020,Indapamide 2.5mg/5ml oral suspension,Indapamide,500microgram/1ml,Oral suspension,Oral,02020100,Thiazides And Related Diuretics,August 2015
+4796,18886,54256020,Inderetic 80mg/2.5mg capsules (AstraZeneca UK Ltd),Propranolol hydrochloride/Bendroflumethiazide,80mg + 2.5mg,Capsule,Oral,00000000,Unknown,February 2009
+8369,21742,54259020,Inderex 160mg/5mg modified-release capsules (AstraZeneca UK Ltd),Propranolol hydrochloride/Bendroflumethiazide,160mg + 5mg,Modified-release capsule,Oral,00000000,Unknown,February 2009
+44168,228,97012020,Indipam XL 1.5mg tablets (Actavis UK Ltd),Indapamide,1.5mg,Modified-release tablet,Oral,02020100,Thiazides And Related Diuretics,December 2010
+1021,37701,51047020,Innozide 20mg/12.5mg tablets (Merck Sharp & Dohme Ltd),Enalapril maleate/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,February 2009
+11448,78359,80124020,Irbesartan 150mg / Hydrochlorothiazide 12.5mg tablets,Irbesartan/Hydrochlorothiazide,150mg + 12.5mg,Tablet,Oral,02020100/02050504,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists With Diuretic,February 2009
+11469,120197,80125020,Irbesartan 300mg / Hydrochlorothiazide 12.5mg tablets,Irbesartan/Hydrochlorothiazide,300mg + 12.5mg,Tablet,Oral,02020100/02050504,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists With Diuretic,February 2009
+62337,11,20118021,Irbesartan 300mg / Hydrochlorothiazide 12.5mg tablets (Actavis UK Ltd),Irbesartan/Hydrochlorothiazide,300mg + 12.5mg,Tablet,Oral,02020100/02050504,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists With Diuretic,February 2015
+35481,11947,92365020,Irbesartan 300mg / Hydrochlorothiazide 25mg tablets,Hydrochlorothiazide/Irbesartan,25mg + 300mg,Tablet,Oral,02020100/02050504,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists With Diuretic,February 2009
+28157,18,53155020,Kalspare ls Tablet (Dominion Pharma),Triamterene/Chlortalidone,,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,February 2009
+12546,6080,53154020,Kalspare Tablet (Dominion Pharma),Chlortalidone/Triamterene,50mg + 50mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,February 2009
+16498,1672,69032020,Kalspare tablets (DHP Healthcare Ltd),Chlortalidone/Triamterene,50mg + 50mg,Tablet,Oral,02020400,Potassium-sparing Diuretics With Other Diuretics,February 2009
+7543,61124,56162020,Kalten capsules (M & A Pharmachem Ltd),Atenolol/Amiloride hydrochloride/Hydrochlorothiazide,50mg + 2.5mg + 25mg,Capsule,Oral,02040100,Beta-adrenoceptor Blocking Drugs With Diuretic,February 2009
+6786,148256,50823020,Lisinopril 10mg / Hydrochlorothiazide 12.5mg tablets,Lisinopril/Hydrochlorothiazide,10mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,February 2009
+67767,0,75921020,Lisinopril 10mg / Hydrochlorothiazide 12.5mg tablets (Almus Pharmaceuticals Ltd),Lisinopril/Hydrochlorothiazide,10mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,October 2016
+37710,36,67694020,Lisinopril 10mg / Hydrochlorothiazide 12.5mg tablets (Teva UK Ltd),Lisinopril/Hydrochlorothiazide,10mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,February 2009
+6468,322209,50822020,Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets,Lisinopril/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,February 2009
+55399,32,67847020,Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets (A A H Pharmaceuticals Ltd),Lisinopril/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,May 2013
+54201,0,75924020,Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets (Almus Pharmaceuticals Ltd),Lisinopril/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,March 2013
+33353,192,67697020,Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets (Teva UK Ltd),Lisinopril/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,February 2009
+56244,0,01491020,Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets (Tillomed Laboratories Ltd),Lisinopril/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,August 2013
+8147,5375,50252020,Lopresoretic Tablet (Novartis Pharmaceuticals UK Ltd),Metoprolol Tartrate/Chlortalidone,,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+37650,24530,94425020,Losartan 100mg / Hydrochlorothiazide 12.5mg tablets,Losartan potassium/Hydrochlorothiazide,100mg + 12.5mg,Tablet,Oral,02050504,Angiotensin-ii Receptor Antagonists With Diuretic,February 2009
+70922,0,34060020,Losartan 100mg / Hydrochlorothiazide 12.5mg tablets (Phoenix Healthcare Distribution Ltd),Losartan potassium/Hydrochlorothiazide,100mg + 12.5mg,Tablet,Oral,02050504,Angiotensin-ii Receptor Antagonists With Diuretic,December 2017
+48039,0,78259020,Losartan 100mg / Hydrochlorothiazide 12.5mg tablets (Teva UK Ltd),Losartan potassium/Hydrochlorothiazide,100mg + 12.5mg,Tablet,Oral,02050504,Angiotensin-ii Receptor Antagonists With Diuretic,November 2012
+10323,66351,89779020,Losartan 100mg / Hydrochlorothiazide 25mg tablets,Losartan potassium/Hydrochlorothiazide,100mg + 25mg,Tablet,Oral,02050504,Angiotensin-ii Receptor Antagonists With Diuretic,February 2009
+52189,0,10152020,Losartan 100mg / Hydrochlorothiazide 25mg tablets (A A H Pharmaceuticals Ltd),Losartan potassium/Hydrochlorothiazide,100mg + 25mg,Tablet,Oral,02050504,Angiotensin-ii Receptor Antagonists With Diuretic,January 2013
+6437,168201,79786020,Losartan 50mg / Hydrochlorothiazide 12.5mg tablets,Losartan potassium/Hydrochlorothiazide,50mg + 12.5mg,Tablet,Oral,02050504,Angiotensin-ii Receptor Antagonists With Diuretic,February 2009
+56975,1,01677020,Losartan 50mg / Hydrochlorothiazide 12.5mg tablets (A A H Pharmaceuticals Ltd),Losartan potassium/Hydrochlorothiazide,50mg + 12.5mg,Tablet,Oral,02050504,Angiotensin-ii Receptor Antagonists With Diuretic,September 2013
+56204,0,77510020,Losartan 50mg / Hydrochlorothiazide 12.5mg tablets (Actavis UK Ltd),Losartan potassium/Hydrochlorothiazide,50mg + 12.5mg,Tablet,Oral,02050504,Angiotensin-ii Receptor Antagonists With Diuretic,August 2013
+66598,10,31319021,Losartan 50mg / Hydrochlorothiazide 12.5mg tablets (Lupin (Europe) Ltd),Losartan potassium/Hydrochlorothiazide,50mg + 12.5mg,Tablet,Oral,02050504,Angiotensin-ii Receptor Antagonists With Diuretic,June 2016
+70754,0,01683020,Losartan 50mg / Hydrochlorothiazide 12.5mg tablets (Ranbaxy (UK) Ltd),Losartan potassium/Hydrochlorothiazide,50mg + 12.5mg,Tablet,Oral,02050504,Angiotensin-ii Receptor Antagonists With Diuretic,November 2017
+62911,6,77305020,Losartan 50mg / Hydrochlorothiazide 12.5mg tablets (Teva UK Ltd),Losartan potassium/Hydrochlorothiazide,50mg + 12.5mg,Tablet,Oral,02050504,Angiotensin-ii Receptor Antagonists With Diuretic,April 2015
+43184,7,97115020,Mapemid XL 1.5mg tablets (Teva UK Ltd),Indapamide,1.5mg,Modified-release tablet,Oral,02020100,Thiazides And Related Diuretics,August 2010
+8464,6,64409020,Meprobamate with bendroflumethiazide Tablet,Meprobamate/Bendroflumethiazide,,Tablet,Oral,02020100/04010200,Thiazides And Related Diuretics/Anxiolytics,February 2009
+8602,7818,50380020,Metenix 5mg tablets (Sanofi),Metolazone,5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+28738,92,64556020,Methyldopa with hydrochlorothiazide Tablet,Methyldopa Anhydrous/Hydrochlorothiazide,,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,February 2009
+53674,2507,45436020,Metolazone 2.5mg tablets,Metolazone,2.5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,February 2013
+49752,5,33486020,Metolazone 2.5mg/5ml oral solution,Metolazone,500microgram/1ml,Oral solution,Oral,02020100,Thiazides And Related Diuretics,January 2013
+68432,14,33488020,Metolazone 2.5mg/5ml oral suspension,Metolazone,500microgram/1ml,Oral suspension,Oral,02020100,Thiazides And Related Diuretics,December 2016
+4334,761,63211020,Metolazone 500microgram low dose Tablet,Metolazone,500microgram,Tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+4332,103771,64663020,Metolazone 5mg tablets,Metolazone,5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+55777,1,33494020,Metolazone 5mg/5ml oral solution,Metolazone,1mg/1ml,Oral solution,Oral,02020100,Thiazides And Related Diuretics,June 2013
+54329,1,33496020,Metolazone 5mg/5ml oral suspension,Metolazone,1mg/1ml,Oral suspension,Oral,02020100,Thiazides And Related Diuretics,March 2013
+54643,0,94928020,Metolazone Oral solution,Metolazone,,Oral Solution,,02020100,Thiazides And Related Diuretics,April 2013
+7066,4408,68976020,Metoprolol 100mg / Hydrochlorothiazide 12.5mg tablets,Metoprolol tartrate/Hydrochlorothiazide,100mg + 12.5mg,Tablet,Oral,00000000,Unknown,February 2009
+20093,512,68975020,Metoprolol 200mg modified-release / Hydrochlorothiazide 25mg tablets,Metoprolol tartrate/Hydrochlorothiazide,200mg + 25mg,Modified-release tablet,Oral,00000000,Unknown,February 2009
+15488,767,68972020,Metoprolol tartrate with chlortalidone Tablet,Metoprolol Tartrate/Chlortalidone,,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+18202,6242,81233020,MicardisPlus 40mg/12.5mg tablets (Boehringer Ingelheim Ltd),Telmisartan/Hydrochlorothiazide,40mg + 12.5mg,Tablet,Oral,02050504,Angiotensin-ii Receptor Antagonists With Diuretic,February 2009
+66997,0,52342021,MicardisPlus 40mg/12.5mg tablets (Waymade Healthcare Plc),Telmisartan/Hydrochlorothiazide,40mg + 12.5mg,Tablet,Oral,02050504,Angiotensin-ii Receptor Antagonists With Diuretic,August 2016
+17689,7448,49280020,MicardisPlus 80mg/12.5mg tablets (Boehringer Ingelheim Ltd),Telmisartan/Hydrochlorothiazide,80mg + 12.5mg,Tablet,Oral,02050504,Angiotensin-ii Receptor Antagonists With Diuretic,February 2009
+63890,0,10554020,MicardisPlus 80mg/12.5mg tablets (Waymade Healthcare Plc),Telmisartan/Hydrochlorothiazide,80mg + 12.5mg,Tablet,Oral,02050504,Angiotensin-ii Receptor Antagonists With Diuretic,July 2015
+38889,232,95336020,MicardisPlus 80mg/25mg tablets (Boehringer Ingelheim Ltd),Hydrochlorothiazide/Telmisartan,25mg + 80mg,Tablet,Oral,02050504,Angiotensin-ii Receptor Antagonists With Diuretic,February 2009
+4605,51402,54433020,Moducren tablets (Merck Sharp & Dohme Ltd),Timolol maleate/Hydrochlorothiazide/Amiloride hydrochloride,10mg + 25mg + 2.5mg,Tablet,Oral,00000000,Unknown,February 2009
+1251,134933,58026020,Moduret 25 tablets (Merck Sharp & Dohme Ltd),Hydrochlorothiazide/Amiloride hydrochloride,25mg + 2.5mg,Tablet,Oral,02020400,Potassium-sparing Diuretics With Other Diuretics,February 2009
+20779,4,!4605101,MODURETIC,,,,,00000000,Unknown,February 2009
+42142,23398,97965020,Moduretic 5mg/50mg tablets (Merck Sharp & Dohme Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,02020400,Potassium-sparing Diuretics With Other Diuretics,April 2010
+3293,4678,50482020,Moduretic Oral solution (Bristol-Myers Squibb Pharmaceuticals Ltd),Amiloride Hydrochloride/Hydrochlorothiazide,,Oral Solution,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,February 2009
+348,831416,50481020,Moduretic Tablet (Bristol-Myers Squibb Pharmaceuticals Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,February 2009
+17149,1624,75020020,Monozide 10 tablets (Wyeth Pharmaceuticals),Bisoprolol fumarate/Hydrochlorothiazide,10mg + 6.25mg,Tablet,Oral,00000000,Unknown,February 2009
+23134,651,64899020,Nadolol 40mg / Bendroflumethiazide 5mg tablets,Nadolol/Bendroflumethiazide,40mg + 5mg,Tablet,Oral,00000000,Unknown,February 2009
+27946,246,64900020,Nadolol 80mg / Bendroflumethiazide 5mg tablets,Nadolol/Bendroflumethiazide,80mg + 5mg,Tablet,Oral,00000000,Unknown,February 2009
+27957,255,78343020,Natramid 2.5mg Tablet (Trinity Pharmaceuticals Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+27546,0,!4823101,NATRILIX,,,,,00000000,Unknown,February 2009
+7641,269805,58678020,Natrilix 2.5mg tablets (Servier Laboratories Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+15602,166,05756007,NATRILIX 5 MG TAB,,,,,00000000,Unknown,February 2009
+3056,89246,84103020,Natrilix SR 1.5mg tablets (Servier Laboratories Ltd),Indapamide,1.5mg,Modified-release tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+24189,7346,75589020,Neo-bendromax 2.5mg Tablet (Ashbourne Pharmaceuticals Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+24190,4206,75590020,Neo-bendromax 5mg Tablet (Ashbourne Pharmaceuticals Ltd),Bendroflumethiazide,5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+46302,35,99566020,Neo-Naclex 2.5mg tablets (AMCo),Bendroflumethiazide,2.5mg,Tablet,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria,October 2011
+1209,17002,50651020,Neo-Naclex 5mg tablets (Mercury Pharma Group Ltd),Bendroflumethiazide,5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+1213,81148,50654020,Neo-Naclex-K modified-release tablets (Mercury Pharma Group Ltd),Bendroflumethiazide/Potassium chloride,2.5mg + 630mg,Modified-release tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+26275,919,75814020,Nindaxa 2.5 tablets (Ashbourne Pharmaceuticals Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+8058,3343,63267020,Normetic Tablet (Abbott Laboratories Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,February 2009
+18200,17929,90629020,Olmesartan medoxomil 20mg / Hydrochlorothiazide 12.5mg tablets,Olmesartan medoxomil/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,February 2009
+18903,5790,90631020,Olmesartan medoxomil 20mg / Hydrochlorothiazide 25mg tablets,Hydrochlorothiazide/Olmesartan medoxomil,25mg + 20mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,February 2009
+43322,2318,98337020,Olmesartan medoxomil 40mg / Hydrochlorothiazide 12.5mg tablets,Olmesartan medoxomil/Hydrochlorothiazide,40mg + 12.5mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,September 2010
+46687,67,99769020,Olmesartan medoxomil with amlodipine and hydrochlorothiazide 20mg + 5mg + 12.5mg Tablet,Amlodipine/Hydrochlorothiazide/Olmesartan Medoxomil,20mg + 5mg + 12.5mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,January 2012
+46715,27,99773020,Olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 10mg + 12.5mg Tablet,Amlodipine/Hydrochlorothiazide/Olmesartan Medoxomil,40mg + 10mg + 12.5mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,January 2012
+55358,23,99777020,Olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 10mg + 25mg Tablet,Amlodipine/Hydrochlorothiazide/Olmesartan Medoxomil,40mg + 10mg + 25mg,Tablet,,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,May 2013
+46792,4,99771020,Olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 5mg + 12.5mg Tablet,Amlodipine/Hydrochlorothiazide/Olmesartan Medoxomil,40mg + 5mg + 12.5mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,February 2012
+47467,4,99775020,Olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 5mg + 25mg Tablet,Amlodipine/Hydrochlorothiazide/Olmesartan Medoxomil,40mg + 5mg + 25mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,July 2012
+29634,1940,90635020,Olmetec Plus 20mg/12.5mg tablets (Daiichi Sankyo UK Ltd),Olmesartan medoxomil/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,February 2009
+27520,1062,90637020,Olmetec Plus 20mg/25mg tablets (Daiichi Sankyo UK Ltd),Hydrochlorothiazide/Olmesartan medoxomil,25mg + 20mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,February 2009
+43915,384,98339020,Olmetec Plus 40mg/12.5mg tablets (Daiichi Sankyo UK Ltd),Olmesartan medoxomil/Hydrochlorothiazide,40mg + 12.5mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,November 2010
+26256,145,78942020,Opumide 2.5mg Tablet (Opus Pharmaceuticals Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+50607,0,92909020,Perindopril arginine 2mg with Indapamide 625 micrograms tablet,Perindopril Erbumine/Indapamide,,,,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,January 2013
+48098,0,99501020,Perindopril arginine 4mg with Indapamide 1.25mg tablet,Perindopril Erbumine/Indapamide,4mg + 1.25mg,Tablets,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,December 2012
+37978,66522,94277020,Perindopril arginine 5mg / Indapamide 1.25mg tablets,Perindopril arginine/Indapamide,5mg + 1.25mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,February 2009
+6794,94289,83957020,Perindopril erbumine 4mg / Indapamide 1.25mg tablets,Indapamide/Perindopril erbumine,1.25mg + 4mg,Tablet,Oral,02020100/02050500/02050501,Thiazides And Related Diuretics/Drugs Affecting The Renin-angiotensin System/Angiotensin-converting Enzyme Inhibitors,February 2009
+56157,190,47939020,Perindopril tosilate 5mg / Indapamide 1.25mg tablets,Indapamide/Perindopril tosilate,1.25mg + 5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,August 2013
+14057,7011,65806020,Pindolol 10mg / Clopamide 5mg tablets,Clopamide/Pindolol,5mg + 10mg,Tablet,Oral,02040100,Beta-adrenoceptor Blocking Drugs With Diuretic,February 2009
+25764,9,!5661101,PINDOLOL 10MG/CLOPAMIDE 5MG,,,,,00000000,Unknown,February 2009
+21025,474,67090020,Prestim forte Tablet (LEO Pharma),Timolol Maleate/Bendroflumethiazide,,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+8623,25950,52834020,Prestim Tablet (ICN Pharmaceuticals France S.A.),Timolol maleate/Bendroflumethiazide,10mg + 2.5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+25363,3537,88272020,Prestim tablets (Meda Pharmaceuticals Ltd),Timolol maleate/Bendroflumethiazide,10mg + 2.5mg,Tablet,Oral,02040100,Beta-adrenoceptor Blocking Drugs With Diuretic,February 2009
+8987,2806,69746020,Propranolol 160mg modified-release / Bendroflumethiazide 5mg capsules,Propranolol hydrochloride/Bendroflumethiazide,160mg + 5mg,Modified-release capsule,Oral,00000000,Unknown,February 2009
+12054,4359,69745020,Propranolol 80mg / Bendroflumethiazide 2.5mg capsules,Propranolol hydrochloride/Bendroflumethiazide,80mg + 2.5mg,Capsule,Oral,00000000,Unknown,February 2009
+15108,10414,74296020,Quinapril 10mg / Hydrochlorothiazide 12.5mg tablets,Hydrochlorothiazide/Quinapril hydrochloride,12.5mg + 10mg,Tablet,Oral,02050501,Angiotensin-converting Enzyme Inhibitors,February 2009
+59616,20,00678020,Rawel XL 1.5mg tablets (Consilient Health Ltd),Indapamide,1.5mg,Modified-release tablet,Oral,02020100,Thiazides And Related Diuretics,April 2014
+15493,1,66489020,Reserpine with hydrochlorothiazide tablet,Reserpine/Hydrochlorothiazide,,Tablets,Oral,02050200,Centrally Acting Antihypertensive Drugs,February 2009
+8189,15176,51499020,Secadrex 200mg/12.5mg tablets (Sanofi),Acebutolol hydrochloride/Hydrochlorothiazide,200mg + 12.5mg,Tablet,Oral,00000000,Unknown,February 2009
+19892,944,57809020,Serpasil -esidrex Tablet (Novartis Pharmaceuticals UK Ltd),Reserpine/Hydrochlorothiazide,,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,February 2009
+46355,472,99779020,Sevikar HCT 20mg/5mg/12.5mg tablets (Daiichi Sankyo UK Ltd),Hydrochlorothiazide/Olmesartan medoxomil/Amlodipine besilate,12.5mg + 20mg + 5mg,Tablet,Oral,02050502,Angiotensin-ii Receptor Antagonists,October 2011
+47616,288,99785020,Sevikar HCT 40mg/10mg/12.5mg tablets (Daiichi Sankyo UK Ltd),Amlodipine besilate/Hydrochlorothiazide/Olmesartan medoxomil,10mg + 12.5mg + 40mg,Tablet,Oral,02050502,Angiotensin-ii Receptor Antagonists,August 2012
+53220,152,99791020,Sevikar HCT 40mg/10mg/25mg tablets (Daiichi Sankyo UK Ltd),Hydrochlorothiazide/Amlodipine besilate/Olmesartan medoxomil,25mg + 10mg + 40mg,Tablet,Oral,02050502,Angiotensin-ii Receptor Antagonists,January 2013
+47573,212,99783020,Sevikar HCT 40mg/5mg/12.5mg tablets (Daiichi Sankyo UK Ltd),Amlodipine besilate/Hydrochlorothiazide/Olmesartan medoxomil,5mg + 12.5mg + 40mg,Tablet,Oral,02050502,Angiotensin-ii Receptor Antagonists,August 2012
+47727,41,99789020,Sevikar HCT 40mg/5mg/25mg tablets (Daiichi Sankyo UK Ltd),Hydrochlorothiazide/Amlodipine besilate/Olmesartan medoxomil,25mg + 5mg + 40mg,Tablet,Oral,02050502,Angiotensin-ii Receptor Antagonists,August 2012
+3691,14048,66694020,Sotalol 160mg with hydrochlorothiazide 25mg tablet,Sotalol Hydrochloride/Hydrochlorothiazide,160mg + 25mg,Tablets,Oral,02040000,Beta-adrenoceptor Blocking Drugs,February 2009
+8061,268,66693020,Sotalol 80mg with hydrochlorothiazide 12.5mg tablet,Sotalol Hydrochloride/Hydrochlorothiazide,80mg + 12.5mg,Tablets,Oral,02040000,Beta-adrenoceptor Blocking Drugs,February 2009
+12456,12653,51646020,Sotazide Tablet (Bristol-Myers Squibb Pharmaceuticals Ltd),Sotalol Hydrochloride/Hydrochlorothiazide,,Tablet,Oral,02040000,Beta-adrenoceptor Blocking Drugs,February 2009
+14870,24371,81237020,Telmisartan 40mg / Hydrochlorothiazide 12.5mg tablets,Telmisartan/Hydrochlorothiazide,40mg + 12.5mg,Tablet,Oral,02050504,Angiotensin-ii Receptor Antagonists With Diuretic,February 2009
+16161,43735,58831020,Telmisartan 80mg / Hydrochlorothiazide 12.5mg tablets,Telmisartan/Hydrochlorothiazide,80mg + 12.5mg,Tablet,Oral,02050504,Angiotensin-ii Receptor Antagonists With Diuretic,February 2009
+38459,2642,95334020,Telmisartan 80mg / Hydrochlorothiazide 25mg tablets,Hydrochlorothiazide/Telmisartan,25mg + 80mg,Tablet,Oral,02050504,Angiotensin-ii Receptor Antagonists With Diuretic,February 2009
+8303,265,51854020,Tenavoid Tablet (Edwin Burgess Ltd),Meprobamate/Bendroflumethiazide,,Tablet,Oral,02020100/04010200,Thiazides And Related Diuretics/Anxiolytics,February 2009
+18743,3971,83989020,Tenben 25mg/1.25mg capsules (Galen Ltd),Atenolol/Bendroflumethiazide,25mg + 1.25mg,Capsule,Oral,00000000,Unknown,February 2009
+26248,700,57165020,Tenchlor 100mg/25mg tablets (Teva UK Ltd),Atenolol/Chlortalidone,100mg + 25mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+31470,29,57164020,Tenchlor 50mg/12.5mg tablets (Teva UK Ltd),Atenolol/Chlortalidone,50mg + 12.5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+1288,306406,51857020,Tenoret 50mg/12.5mg tablets (AstraZeneca UK Ltd),Atenolol/Chlortalidone,50mg + 12.5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+26807,10,!7046101,TENORETIC,,,,,00000000,Unknown,February 2009
+1124,554635,54815020,Tenoretic 100mg/25mg tablets (AstraZeneca UK Ltd),Atenolol/Chlortalidone,100mg + 25mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+41861,184,95960020,Tensaid XL 1.5mg tablets (Mylan),Indapamide,1.5mg,Modified-release tablet,Oral,02020100,Thiazides And Related Diuretics,April 2010
+48745,0,37067020,Timolol 10mg / Amiloride 2.5mg / Hydrochlorothiazide 25mg tablets,Timolol maleate/Amiloride hydrochloride/Hydrochlorothiazide,10mg + 2.5mg + 25mg,Tablet,Oral,02040100,Beta-adrenoceptor Blocking Drugs With Diuretic,January 2013
+12651,5218,67081020,Timolol 10mg / Bendroflumethiazide 2.5mg tablets,Timolol maleate/Bendroflumethiazide,10mg + 2.5mg,Tablet,Oral,02040100,Beta-adrenoceptor Blocking Drugs With Diuretic,February 2009
+25730,224,69274020,Timolol maleate with amiloride and hydrochlorothiazide Tablet,Timolol Maleate/Amiloride Hydrochloride/Hydrochlorothiazide,,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+12517,96,67082020,Timolol maleate with bendroflumethiazide 20mg + 5mg Tablet,Timolol Maleate/Bendroflumethiazide,20mg + 5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+15042,780,66704020,Tolerzide Tablet (Bristol-Myers Squibb Pharmaceuticals Ltd),Sotalol Hydrochloride/Hydrochlorothiazide,,Tablet,Oral,02040000,Beta-adrenoceptor Blocking Drugs,February 2009
+24280,16,80150020,Totaretic 100mg+25mg Tablet (C P Pharmaceuticals Ltd),Atenolol/Chlortalidone,100mg + 25mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+26741,82,80149020,Totaretic 50mg+12.5mg Tablet (C P Pharmaceuticals Ltd),Atenolol/Chlortalidone,50mg + 12.5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,February 2009
+18726,12522,63766020,Triamaxco 50mg/25mg tablets (Ashbourne Pharmaceuticals Ltd),Hydrochlorothiazide/Triamterene,25mg + 50mg,Tablet,Oral,02020400,Potassium-sparing Diuretics With Other Diuretics,February 2009
+8897,16733,63273020,Triam-Co 50mg/25mg tablets (IVAX Pharmaceuticals UK Ltd),Hydrochlorothiazide/Triamterene,25mg + 50mg,Tablet,Oral,02020400,Potassium-sparing Diuretics With Other Diuretics,February 2009
+12547,1580,67219020,Triamterene 50mg / Chlortalidone 50mg tablets,Chlortalidone/Triamterene,50mg + 50mg,Tablet,Oral,02020400,Potassium-sparing Diuretics With Other Diuretics,February 2009
+41889,0,!7251101,TRIAMTERENE 50MG HYDROCHLOROTHIAZIDE25MG,,,,,00000000,Unknown,April 2010
+3962,66192,06658007,TRIAMTERENE 50MG HYDROCHLOROTHIAZIDE25MG TAB,,,,,00000000,Unknown,February 2009
+37294,1,67220020,Triamterene with chlortalidone 50mg + 25mg Tablet,Triamterene/Chlortalidone,50mg + 25mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,February 2009
+9223,26747,67204020,Triamterene with hydrochlorothiazide 50mg + 25mg Tablet,Triamterene/Hydrochlorothiazide,50mg + 25mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,February 2009
+11864,36703,87994020,Valsartan 160mg / Hydrochlorothiazide 12.5mg tablets,Valsartan/Hydrochlorothiazide,160mg + 12.5mg,Tablet,Oral,02050504,Angiotensin-ii Receptor Antagonists With Diuretic,February 2009
+67664,1,10168020,Valsartan 160mg / Hydrochlorothiazide 12.5mg tablets (Teva UK Ltd),Valsartan/Hydrochlorothiazide,160mg + 12.5mg,Tablet,Oral,02050504,Angiotensin-ii Receptor Antagonists With Diuretic,September 2016
+14283,16071,88002020,Valsartan 160mg / Hydrochlorothiazide 25mg tablets,Valsartan/Hydrochlorothiazide,160mg + 25mg,Tablet,Oral,02050504,Angiotensin-ii Receptor Antagonists With Diuretic,February 2009
+16060,27176,88420020,Valsartan 80mg / Hydrochlorothiazide 12.5mg tablets,Hydrochlorothiazide/Valsartan,12.5mg + 80mg,Tablet,Oral,02050504,Angiotensin-ii Receptor Antagonists With Diuretic,February 2009
+39447,43,95950020,Varbim XL 1.5mg tablets (Teva UK Ltd),Indapamide,1.5mg,Modified-release tablet,Oral,02020100,Thiazides And Related Diuretics,April 2009
+24008,184,72539020,Vasetic Tablet (Shire Pharmaceuticals Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,February 2009
+9143,31205,52285020,Viskaldix tablets (AMCo),Clopamide/Pindolol,5mg + 10mg,Tablet,Oral,02040100,Beta-adrenoceptor Blocking Drugs With Diuretic,February 2009
+26675,3,!7954101,XIPAMIDE,,,,,00000000,Unknown,February 2009
+7618,35344,65442020,Xipamide 20mg tablets,Xipamide,20mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+19352,1895,71715020,Xuret 0.5mg Tablet (Galen Ltd),Metolazone,0.5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,February 2009
+61846,7,45437020,Zaroxolyn 2.5mg tablets (IDIS),Metolazone,2.5mg,Tablet,Oral,00000000,Unknown,December 2014
+69009,3,45448020,Zaroxolyn 5mg tablets (Imported (Canada)),Metolazone,5mg,Tablet,Oral,02020100,Thiazides And Related Diuretics,March 2017
+6359,24630,51463020,Zestoretic 10- 10mg+12.5mg Tablet (AstraZeneca UK Ltd),Lisinopril/Hydrochlorothiazide,10mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,February 2009
+39137,4420,95875020,Zestoretic 10 tablets (AstraZeneca UK Ltd),Lisinopril/Hydrochlorothiazide,10mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,April 2009
+57539,292,01503020,Zestoretic 10 tablets (Sigma Pharmaceuticals Plc),Lisinopril/Hydrochlorothiazide,10mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,October 2013
+71115,114,01500020,Zestoretic 10 tablets (Waymade Healthcare Plc),Lisinopril/Hydrochlorothiazide,10mg + 12.5mg,Tablet,Oral,02050501,Angiotensin-converting Enzyme Inhibitors,December 2017
+2982,73101,51462020,Zestoretic 20- 20mg+12.5mg Tablet (AstraZeneca UK Ltd),Lisinopril/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,February 2009
+38995,13654,95877020,Zestoretic 20 tablets (AstraZeneca UK Ltd),Lisinopril/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,February 2009
+26219,1001,79843020,Zida-co 5mg+50mg Tablet (Opus Pharmaceuticals Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,February 2009

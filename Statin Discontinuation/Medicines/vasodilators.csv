@@ -1,0 +1,46 @@
+prodcode,therapyevents,gemscriptcode,productname,drugsubstancename,substancestrength,formulation,routeofadministration,bnfcode,bnfheader,databasebuild
+40527,5,95326020,Ambrisentan 10mg tablets,Ambrisentan,10mg,Tablet,Oral,2050100,Vasodilator Antihypertensive Drugs,Oct-09
+40528,29,95322020,Ambrisentan 5mg tablets,Ambrisentan,5mg,Tablet,Oral,2050100,Vasodilator Antihypertensive Drugs,Oct-09
+13317,2,48198020,Apresoline 20mg powder for solution for injection ampoules (AMCo),Hydralazine hydrochloride,20mg,Powder for solution for injection,Intravenous,2050100,Vasodilator Antihypertensive Drugs,Feb-09
+2362,48884,48196020,Apresoline 25mg tablets (AMCo),Hydralazine hydrochloride,25mg,Tablet,Oral,2050100,Vasodilator Antihypertensive Drugs,Feb-09
+2680,11654,48197020,Apresoline 50mg Tablet (Sovereign Medical Ltd),Hydralazine hydrochloride,50mg,Tablet,Oral,2050100,Vasodilator Antihypertensive Drugs,Feb-09
+29561,197,78290020,Bosentan 125mg tablets,Bosentan monohydrate,125mg,Tablet,Oral,2050100,Vasodilator Antihypertensive Drugs,Feb-09
+29560,51,78287020,Bosentan 62.5mg tablets,Bosentan monohydrate,62.5mg,Tablet,Oral,2050100,Vasodilator Antihypertensive Drugs,Feb-09
+32267,80,62432020,Diazoxide 300mg/20ml solution for injection ampoules,Diazoxide,15mg/1ml,Solution for injection,Intravenous,2050100,Vasodilator Antihypertensive Drugs,Feb-09
+214,4,5817007,HYDRALAZINE 1 MG SYR,,,,,0,Unknown,Feb-09
+18861,284,89188020,Hydralazine 10mg/5ml oral suspension,Hydralazine hydrochloride,2mg/1ml,Oral suspension,Oral,2050100,Vasodilator Antihypertensive Drugs,Feb-09
+71256,0,53978021,Hydralazine 20mg powder for concentrate for solution for injection ampoules (AMCo),Hydralazine hydrochloride,20mg,Powder for solution for injection,Intravenous,2050100,Vasodilator Antihypertensive Drugs,Jan-18
+504,44,63242020,Hydralazine 20mg powder for solution for injection ampoules,Hydralazine hydrochloride,20mg,Powder for solution for injection,Intravenous,2050100,Vasodilator Antihypertensive Drugs,Feb-09
+573,169184,58989020,Hydralazine 25mg tablets,Hydralazine hydrochloride,25mg,Tablet,Oral,2050100,Vasodilator Antihypertensive Drugs,Feb-09
+31220,1,49792020,Hydralazine 25mg tablets (A A H Pharmaceuticals Ltd),Hydralazine hydrochloride,25mg,Tablet,Oral,2050100,Vasodilator Antihypertensive Drugs,Feb-09
+43500,66,49788020,Hydralazine 25mg tablets (Actavis UK Ltd),Hydralazine hydrochloride,25mg,Tablet,Oral,2050100,Vasodilator Antihypertensive Drugs,Sep-10
+70655,3,20228020,Hydralazine 25mg/5ml oral suspension,Hydralazine hydrochloride,5mg/1ml,Oral suspension,Oral,2050100,Vasodilator Antihypertensive Drugs,Nov-17
+1296,95985,58990020,Hydralazine 50mg tablets,Hydralazine hydrochloride,50mg,Tablet,Oral,2050100,Vasodilator Antihypertensive Drugs,Feb-09
+41639,243,49789020,Hydralazine 50mg tablets (Actavis UK Ltd),Hydralazine hydrochloride,50mg,Tablet,Oral,2050100,Vasodilator Antihypertensive Drugs,Mar-10
+71097,0,38900020,Hydralazine 50mg tablets (Almus Pharmaceuticals Ltd),Hydralazine hydrochloride,50mg,Tablet,Oral,2050100,Vasodilator Antihypertensive Drugs,Dec-17
+59512,1,20076020,Hydralazine 50mg/5ml oral solution,Hydralazine hydrochloride,10mg/1ml,Oral solution,Oral,2050100,Vasodilator Antihypertensive Drugs,Apr-14
+61116,2,20078020,Hydralazine 50mg/5ml oral suspension,Hydralazine hydrochloride,10mg/1ml,Oral suspension,Oral,2050100,Vasodilator Antihypertensive Drugs,Sep-14
+64253,4,32139020,Hydralazine 5mg/5ml oral suspension,Hydralazine hydrochloride,1mg/1ml,Oral suspension,Oral,2050100,Vasodilator Antihypertensive Drugs,Sep-15
+31971,1,4887007,HYDRALAZINE 6.25 MG SYR,,,,,0,Unknown,Feb-09
+23746,6,6300007,HYDRALAZINE HCl 10 MG TAB,,,,,0,Unknown,Feb-09
+21749,23,5813007,HYDRALAZINE HCl 100 MG TAB,,,,,0,Unknown,Feb-09
+4507,74,4885007,HYDRALAZINE HCl 12.5 MG TAB,,,,,0,Unknown,Feb-09
+63652,6,92561020,Hydralazine Tablet,Hydralazine Hydrochloride,,Tablet,,2050100,Vasodilator Antihypertensive Drugs,Jul-15
+53896,3,2181020,Iloprost 100micrograms/1ml solution for infusion ampoules,Iloprost trometamol,100microgram/1ml,Solution for infusion,Intravenous,2050100,Vasodilator Antihypertensive Drugs,Feb-13
+36840,7,93019020,Iloprost 10micrograms/1ml nebuliser liquid ampoules,Iloprost trometamol,10microgram/1ml,Nebuliser liquid,Inhalation,2050100,Vasodilator Antihypertensive Drugs,Feb-09
+30341,2,87552020,Iloprost 20micrograms/2ml nebuliser liquid ampoules,Iloprost trometamol,10microgram/1ml,Nebuliser liquid,Inhalation,0,Unknown,Feb-09
+51328,10,14602020,Iloprost 50micrograms/0.5ml solution for infusion ampoules,Iloprost trometamol,100microgram/1ml,Solution for infusion,Intravenous,2050100,Vasodilator Antihypertensive Drugs,Jan-13
+14495,537,64774020,Loniten 10mg tablets (Pfizer Ltd),Minoxidil,10mg,Tablet,Oral,2050100,Vasodilator Antihypertensive Drugs,Feb-09
+9697,414,64772020,Loniten 2.5mg tablets (Pfizer Ltd),Minoxidil,2.5mg,Tablet,Oral,2050100,Vasodilator Antihypertensive Drugs,Feb-09
+9463,704,64773020,Loniten 5mg tablets (Pfizer Ltd),Minoxidil,5mg,Tablet,Oral,2050100,Vasodilator Antihypertensive Drugs,Feb-09
+63780,9,21651021,Macitentan 10mg tablets,Macitentan,10mg,Tablet,Oral,2050100,Vasodilator Antihypertensive Drugs,Jul-15
+18938,2,6700007,MINOXIDIL 1 % TAB,,,,,0,Unknown,Feb-09
+2968,19478,64769020,Minoxidil 10mg tablets,Minoxidil,10mg,Tablet,Oral,2050100,Vasodilator Antihypertensive Drugs,Feb-09
+2970,11140,64767020,Minoxidil 2.5mg tablets,Minoxidil,2.5mg,Tablet,Oral,2050100,Vasodilator Antihypertensive Drugs,Feb-09
+2967,21500,64768020,Minoxidil 5mg tablets,Minoxidil,5mg,Tablet,Oral,2050100,Vasodilator Antihypertensive Drugs,Feb-09
+64930,1,24110021,Riociguat 2mg tablets,Riociguat,2mg,Tablet,Oral,2050100,Vasodilator Antihypertensive Drugs,Dec-15
+36612,5,66660020,Sodium nitroprusside 50mg powder for solution for infusion vials,Sodium nitroprusside dihydrate,50mg,Powder for solution for infusion,Intravenous,2050100,Vasodilator Antihypertensive Drugs,Feb-09
+58632,6,78296020,Tracleer 125mg tablets (Actelion Pharmaceuticals UK Ltd),Bosentan monohydrate,125mg,Tablet,Oral,2050100,Vasodilator Antihypertensive Drugs,Jan-14
+47654,1,78293020,Tracleer 62.5mg tablets (Actelion Pharmaceuticals UK Ltd),Bosentan monohydrate,62.5mg,Tablet,Oral,2050100,Vasodilator Antihypertensive Drugs,Aug-12
+38519,27,93021020,Ventavis 10micrograms/ml nebuliser solution 1ml ampoules (Bayer Plc),Iloprost trometamol,10microgram/1ml,Nebuliser liquid,Inhalation,2050100,Vasodilator Antihypertensive Drugs,Feb-09
+29256,11,87554020,Ventavis 10micrograms/ml nebuliser solution 2ml ampoules (Schering Health Care Ltd),Iloprost trometamol,10microgram/1ml,Nebuliser liquid,Inhalation,0,Unknown,Feb-09

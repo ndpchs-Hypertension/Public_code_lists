@@ -1,0 +1,74 @@
+prodcode,therapyevents,gemscriptcode,productname,drugsubstancename,substancestrength,formulation,routeofadministration,bnfcode,bnfheader,databasebuild
+8033,12797,48069020,Aldomet 125mg Tablet (Merck Sharp & Dohme Ltd),Methyldopa anhydrous,125mg,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,February 2009
+7626,121484,48070020,Aldomet 250mg Tablet (Merck Sharp & Dohme Ltd),Methyldopa anhydrous,250mg,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,February 2009
+43988,3154,98722020,Aldomet 250mg tablets (Aspen Pharma Trading Ltd),Methyldopa anhydrous,250mg,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,December 2010
+71385,5,01258020,Aldomet 250mg tablets (Sigma Pharmaceuticals Plc),Methyldopa anhydrous,250mg,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,January 2018
+14390,435,54403020,Aldomet 250mg/5ml Liquid (Merck Sharp & Dohme Ltd),Methyldopa anhydrous,50mg/1ml,Oral suspension,Oral,02050200,Centrally Acting Antihypertensive Drugs,February 2009
+7642,26737,48071020,Aldomet 500mg Tablet (Merck Sharp & Dohme Ltd),Methyldopa anhydrous,500mg,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,February 2009
+43989,778,98724020,Aldomet 500mg tablets (Aspen Pharma Trading Ltd),Methyldopa anhydrous,500mg,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,December 2010
+71110,1,01265020,Aldomet 500mg tablets (Sigma Pharmaceuticals Plc),Methyldopa anhydrous,500mg,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,December 2017
+7416,12,54406020,Aldomet 50mg/ml Injection (Merck Sharp & Dohme Ltd),Methyldopate Hydrochloride,50mg/ml,Injection,Intravenous Injection,02050200,Centrally Acting Antihypertensive Drugs,February 2009
+28790,14,!1152103,CATAPRES,,,,,00000000,Unknown,February 2009
+25088,37,!1152102,CATAPRES,,,,,00000000,Unknown,February 2009
+4215,13257,48570020,Catapres 100microgram tablets (Boehringer Ingelheim Ltd),Clonidine hydrochloride,100microgram,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,February 2009
+27883,28,06602007,CATAPRES 15 MCG/ML INJ,,,,,00000000,Unknown,February 2009
+30293,6,58536020,Catapres 150micrograms/1ml solution for injection ampoules (Boehringer Ingelheim Ltd),Clonidine hydrochloride,150microgram/1ml,Solution for injection,Intravenous,02050200,Centrally Acting Antihypertensive Drugs,February 2009
+23380,1854,48571020,Catapres 300microgram tablets (Boehringer Ingelheim Ltd),Clonidine hydrochloride,300microgram,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,February 2009
+20808,32,!1153101,CATAPRES PERLONGETS,,,,,00000000,Unknown,February 2009
+8296,3942,54917020,Catapres PL Perlongets 250microgram capsules (Boehringer Ingelheim Ltd),Clonidine hydrochloride,250microgram,Modified-release capsule,Oral,00000000,Unknown,February 2009
+2878,50280,61496020,Clonidine 100microgram tablets,Clonidine hydrochloride,100microgram,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,February 2009
+49684,28,28322020,Clonidine 100micrograms/24hours transdermal patches,Clonidine,100microgram/24hour,Transdermal patch,Transdermal,02050200,Centrally Acting Antihypertensive Drugs,January 2013
+60136,1,30024020,Clonidine 100micrograms/5ml oral solution,Clonidine hydrochloride,20microgram/1ml,Oral solution,Oral,02050200/04070402/06040101,Centrally Acting Antihypertensive Drugs/Prophylaxis Of Migraine/Oestrogens And Hrt,June 2014
+67200,1,19522020,Clonidine 10micrograms/5ml oral solution,Clonidine hydrochloride,2microgram/1ml,Oral solution,Oral,02050200/04070402/06040101,Centrally Acting Antihypertensive Drugs/Prophylaxis Of Migraine/Oestrogens And Hrt,August 2016
+16248,293,61500020,Clonidine 150micrograms/1ml solution for injection ampoules,Clonidine hydrochloride,150microgram/1ml,Solution for injection,Intravenous,02050200,Centrally Acting Antihypertensive Drugs,February 2009
+58529,33,18103020,Clonidine 200micrograms/24hours transdermal patches,Clonidine,200microgram/24hour,Transdermal patch,Transdermal,02050200,Centrally Acting Antihypertensive Drugs,January 2014
+5289,1780,72345020,Clonidine 250microgram modified-release capsules,Clonidine hydrochloride,250microgram,Modified-release capsule,Oral,00000000,Unknown,February 2009
+338,609438,61493020,Clonidine 25microgram tablets,Clonidine hydrochloride,25microgram,Tablet,Oral,04070402/06040101,Prophylaxis Of Migraine/Oestrogens And Hrt,February 2009
+45578,15,66470020,Clonidine 25microgram tablets (A A H Pharmaceuticals Ltd),Clonidine hydrochloride,25microgram,Tablet,Oral,04070402/06040101,Prophylaxis Of Migraine/Oestrogens And Hrt,June 2011
+33093,120,66010020,Clonidine 25microgram tablets (Sandoz Ltd),Clonidine hydrochloride,25microgram,Tablet,Oral,04070402/06040101,Prophylaxis Of Migraine/Oestrogens And Hrt,February 2009
+63971,0,04669020,Clonidine 25microgram tablets (Sigma Pharmaceuticals Plc),Clonidine hydrochloride,25microgram,Tablet,Oral,04070402/06040101,Prophylaxis Of Migraine/Oestrogens And Hrt,August 2015
+61710,0,77911020,Clonidine 25microgram tablets (Teva UK Ltd),Clonidine hydrochloride,25microgram,Tablet,Oral,02050200/04070402/06040101,Centrally Acting Antihypertensive Drugs/Prophylaxis Of Migraine/Oestrogens And Hrt,November 2014
+60089,0,47357020,Clonidine 25microgram tablets (Waymade Healthcare Plc),Clonidine hydrochloride,25microgram,Tablet,Oral,04070402/06040101,Prophylaxis Of Migraine/Oestrogens And Hrt,June 2014
+55797,49,19530020,Clonidine 25micrograms/5ml oral solution,Clonidine hydrochloride,5microgram/1ml,Oral solution,Oral,02050200/04070402/06040101,Centrally Acting Antihypertensive Drugs/Prophylaxis Of Migraine/Oestrogens And Hrt,June 2013
+6694,3541,61497020,Clonidine 300microgram tablets,Clonidine hydrochloride,300microgram,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,February 2009
+54467,2,28325020,Clonidine 300micrograms/24hours transdermal patches,Clonidine,300microgram/24hour,Transdermal patch,Transdermal,02050200,Centrally Acting Antihypertensive Drugs,April 2013
+52555,134,19534020,Clonidine 50micrograms/5ml oral solution,Clonidine hydrochloride,10microgram/1ml,Oral solution,Oral,02050200/04070402/06040101,Centrally Acting Antihypertensive Drugs/Prophylaxis Of Migraine/Oestrogens And Hrt,January 2013
+53142,37,19536020,Clonidine 50micrograms/5ml oral suspension,Clonidine hydrochloride,10microgram/1ml,Oral suspension,Oral,02050200/04070402/06040101,Centrally Acting Antihypertensive Drugs/Prophylaxis Of Migraine/Oestrogens And Hrt,January 2013
+61256,1,19543020,Clonidine 5micrograms/5ml oral suspension,Clonidine hydrochloride,1microgram/1ml,Oral suspension,Oral,02050200/04070402/06040101,Centrally Acting Antihypertensive Drugs/Prophylaxis Of Migraine/Oestrogens And Hrt,September 2014
+58090,62,30048020,Clonidine 75micrograms/5ml oral solution,Clonidine hydrochloride,15microgram/1ml,Oral solution,Oral,02050200/04070402/06040101,Centrally Acting Antihypertensive Drugs/Prophylaxis Of Migraine/Oestrogens And Hrt,December 2013
+27894,45,!1375104,CLONIDINE HYDROCHLORIDE,,,,,00000000,Unknown,February 2009
+2630,209815,49065020,Dixarit 25microgram tablets (Boehringer Ingelheim Ltd),Clonidine hydrochloride,25microgram,Tablet,Oral,04070402/06040101,Prophylaxis Of Migraine/Oestrogens And Hrt,February 2009
+64284,1,04671020,Dixarit 25microgram tablets (Lexon (UK) Ltd),Clonidine hydrochloride,25microgram,Tablet,Oral,04070402/06040101,Prophylaxis Of Migraine/Oestrogens And Hrt,September 2015
+29570,265,54852020,Dopamet 125mg Tablet (Berk Pharmaceuticals Ltd),Methyldopa anhydrous,125mg,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,February 2009
+24196,2428,54853020,Dopamet 250mg Tablet (Berk Pharmaceuticals Ltd),Methyldopa anhydrous,250mg,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,February 2009
+25289,372,54854020,Dopamet 500mg Tablet (Berk Pharmaceuticals Ltd),Methyldopa anhydrous,500mg,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,February 2009
+21346,1422,64564020,Hydromet Tablet (MSD Thomas Morson Pharmaceuticals),Methyldopa Anhydrous/Hydrochlorothiazide,,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,February 2009
+18252,1519,51708020,Metalpha 250mg Tablet (Ashbourne Pharmaceuticals Ltd),Methyldopa anhydrous,250mg,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,February 2009
+25275,407,51709020,Metalpha 500mg Tablet (Ashbourne Pharmaceuticals Ltd),Methyldopa anhydrous,500mg,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,February 2009
+3049,42106,59030020,Methyldopa 125mg tablets,Methyldopa anhydrous,125mg,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,February 2009
+25836,4,04723007,METHYLDOPA 200 MG TAB,,,,,00000000,Unknown,February 2009
+2649,16994,02258007,METHYLDOPA 250 MG CAP,,,,,00000000,Unknown,February 2009
+9225,1090,77535020,Methyldopa 250mg Capsule,Methyldopa Anhydrous,250mg,Capsule,Oral,02050200,Centrally Acting Antihypertensive Drugs,February 2009
+41661,18,50040020,Methyldopa 250mg Tablet (C P Pharmaceuticals Ltd),Methyldopa anhydrous,250mg,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,March 2010
+1707,284806,59031020,Methyldopa 250mg tablets,Methyldopa anhydrous,250mg,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,February 2009
+32913,16,50045020,Methyldopa 250mg tablets (Actavis UK Ltd),Methyldopa anhydrous,250mg,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,February 2009
+62513,0,66587020,Methyldopa 250mg tablets (Sovereign Medical Ltd),Methyldopa anhydrous,250mg,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,March 2015
+23761,758,64552020,Methyldopa 250mg/5ml oral suspension,Methyldopa anhydrous,50mg/1ml,Oral suspension,Oral,02050200,Centrally Acting Antihypertensive Drugs,February 2009
+3070,91425,59032020,Methyldopa 500mg tablets,Methyldopa anhydrous,500mg,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,February 2009
+26919,7,64553020,Methyldopa 50mg/ml Injection,Methyldopate Hydrochloride,50mg/ml,Injection,,02050200,Centrally Acting Antihypertensive Drugs,February 2009
+28738,92,64556020,Methyldopa with hydrochlorothiazide Tablet,Methyldopa Anhydrous/Hydrochlorothiazide,,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,February 2009
+4993,364407,81108020,Moxonidine 200microgram tablets,Moxonidine,200microgram,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,February 2009
+62853,0,69326020,Moxonidine 200microgram tablets (A A H Pharmaceuticals Ltd),Moxonidine,200microgram,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,April 2015
+60898,0,69282020,Moxonidine 200microgram tablets (Mylan),Moxonidine,200microgram,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,August 2014
+33322,7,68542020,Moxonidine 200microgram tablets (Sandoz Ltd),Moxonidine,200microgram,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,February 2009
+40310,76,69037020,Moxonidine 200microgram tablets (Teva UK Ltd),Moxonidine,200microgram,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,September 2009
+10253,110481,81110020,Moxonidine 300microgram tablets,Moxonidine,300microgram,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,February 2009
+63938,0,68545020,Moxonidine 300microgram tablets (Sandoz Ltd),Moxonidine,300microgram,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,August 2015
+7174,190386,81109020,Moxonidine 400microgram tablets,Moxonidine,400microgram,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,February 2009
+67665,0,68995020,Moxonidine 400microgram tablets (Actavis UK Ltd),Moxonidine,400microgram,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,September 2016
+43531,28,68547020,Moxonidine 400microgram tablets (Sandoz Ltd),Moxonidine,400microgram,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,September 2010
+67808,35,45147020,Physiotens 200microgram tablets (Actavis UK Ltd),Moxonidine,200microgram,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,October 2016
+11177,22131,81115020,Physiotens 200microgram tablets (Mylan),Moxonidine,200microgram,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,February 2009
+61036,3,45215020,Physiotens 300microgram tablets (Actavis UK Ltd),Moxonidine,300microgram,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,September 2014
+9876,2251,81117020,Physiotens 300microgram tablets (Mylan),Moxonidine,300microgram,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,February 2009
+9749,10926,81116020,Physiotens 400microgram tablets (Mylan),Moxonidine,400microgram,Tablet,Oral,02050200,Centrally Acting Antihypertensive Drugs,February 2009

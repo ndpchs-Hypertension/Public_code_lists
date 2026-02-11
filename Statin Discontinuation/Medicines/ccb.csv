@@ -1,0 +1,640 @@
+prodcode,therapyevents,gemscriptcode,productname,drugsubstancename,substancestrength,formulation,routeofadministration,bnfcode,bnfheader,databasebuild
+2521,184361,52565020,Adalat 10mg capsules (Bayer Plc),Nifedipine,10mg,Capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+67074,0,01937020,Adalat 10mg capsules (DE Pharmaceuticals),Nifedipine,10mg,Capsule,Oral,02060200,Calcium-channel Blockers,August 2016
+662,73198,52564020,Adalat 5mg capsules (Bayer Plc),Nifedipine,5mg,Capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+58557,0,01975020,Adalat LA 20 tablets (Necessity Supplies Ltd),Nifedipine,20mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,January 2014
+57653,0,01970020,Adalat LA 20 tablets (Sigma Pharmaceuticals Plc),Nifedipine,20mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,October 2013
+541,545387,84301020,Adalat LA 20mg tablets (Bayer Plc),Nifedipine,20mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+53500,1,01950020,Adalat LA 30 tablets (DE Pharmaceuticals),Nifedipine,30mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,January 2013
+71339,711,01949020,Adalat LA 30 tablets (Dowelhurst Ltd),Nifedipine,30mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,January 2018
+52017,1,01952020,Adalat LA 30 tablets (Mawdsley-Brooks & Company Ltd),Nifedipine,30mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,January 2013
+53278,0,01953020,Adalat LA 30 tablets (Necessity Supplies Ltd),Nifedipine,30mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,January 2013
+1854,1236412,64630020,Adalat la 30mg Tablet (Bayer Plc),Nifedipine,30mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+43753,272690,98789020,Adalat LA 30mg tablets (Bayer Plc),Nifedipine,30mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,October 2010
+56469,1443,01958020,Adalat LA 60 tablets (Necessity Supplies Ltd),Nifedipine,60mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,August 2013
+51917,0,01957020,Adalat LA 60 tablets (Sigma Pharmaceuticals Plc),Nifedipine,60mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,January 2013
+57531,57,01954020,Adalat LA 60 tablets (Waymade Healthcare Plc),Nifedipine,60mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,October 2013
+4227,626066,64631020,Adalat la 60mg Tablet (Bayer Plc),Nifedipine,60mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+43818,189281,98791020,Adalat LA 60mg tablets (Bayer Plc),Nifedipine,60mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,November 2010
+2280,623187,52574020,Adalat retard 10mg tablets (Bayer Plc),Nifedipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+2343,986291,52575020,Adalat retard 20mg tablets (Bayer Plc),Nifedipine,20mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+66191,0,01969020,Adalat retard 20mg tablets (DE Pharmaceuticals),Nifedipine,20mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,May 2016
+53629,1,01972020,Adalat retard 20mg tablets (Lexon (UK) Ltd),Nifedipine,20mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,January 2013
+45685,32,99249020,Adanif XL 30mg tablets (Focus Pharmaceuticals Ltd),Nifedipine,30mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,July 2011
+46887,163,99251020,Adanif XL 60mg tablets (Focus Pharmaceuticals Ltd),Nifedipine,60mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,March 2012
+41979,1,85923020,Adipine la 30mg Modified-release tablet (Chiesi Ltd),Nifedipine,30mg,Modified-release Tablet,Oral,02060200,Calcium-channel Blockers,April 2010
+47217,1,85924020,Adipine la 60mg Modified-release tablet (Chiesi Ltd),Nifedipine,60mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,May 2012
+4239,153514,80337020,Adipine MR 10 tablets (Chiesi Ltd),Nifedipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+3711,240962,79719020,Adipine MR 20 tablets (Chiesi Ltd),Nifedipine,20mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+13139,76429,88895020,Adipine XL 30mg tablets (Chiesi Ltd),Nifedipine,30mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+10246,47872,88897020,Adipine XL 60mg tablets (Chiesi Ltd),Nifedipine,60mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+9374,5100,72559020,Adizem 60mg Modified-release tablet (Napp Pharmaceuticals Ltd),Diltiazem hydrochloride,60mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+19015,2309,05949007,ADIZEM CONTINUS 120 MG TAB,,,,,00000000,Unknown,February 2009
+517,62667,57066020,Adizem sr 120mg Modified-release capsule (Napp Pharmaceuticals Ltd),Diltiazem Hydrochloride,120mg,Modified-release Capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+4852,36118,72558020,Adizem sr 120mg Modified-release tablet (Napp Pharmaceuticals Ltd),Diltiazem hydrochloride,120mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+2811,44787,57067020,Adizem sr 180mg Modified-release capsule (Napp Pharmaceuticals Ltd),Diltiazem Hydrochloride,180mg,Modified-release Capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+3118,110438,72560020,Adizem sr 90mg Modified-release capsule (Napp Pharmaceuticals Ltd),Diltiazem hydrochloride,90mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+8558,114734,75162020,Adizem xl 120mg Capsule (Napp Pharmaceuticals Ltd),Diltiazem Hydrochloride,120mg,Capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+9240,92686,75163020,Adizem xl 180mg Capsule (Napp Pharmaceuticals Ltd),Diltiazem Hydrochloride,180mg,Capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+793,148138,75164020,Adizem xl 240mg Capsule (Napp Pharmaceuticals Ltd),Diltiazem hydrochloride,240mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+6309,114153,57068020,Adizem xl 300mg Capsule (Napp Pharmaceuticals Ltd),Diltiazem hydrochloride,300mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+23505,30,81470020,Adizem xl plus 150mg+12.5mg Modified-release capsule (Napp Pharmaceuticals Ltd),Diltiazem Hydrochloride/Hydrochlorothiazide,150mg+12.5mg,Modified-release Capsule,Oral,02020100/02060200,Thiazides And Related Diuretics/Calcium-channel Blockers,February 2009
+38818,57362,95537020,Adizem-SR 120mg capsules (Napp Pharmaceuticals Ltd),Diltiazem hydrochloride,120mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+62207,0,21725021,Adizem-SR 120mg capsules (Waymade Healthcare Plc),Diltiazem hydrochloride,120mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,January 2015
+38964,8293,95553020,Adizem-SR 120mg tablets (Napp Pharmaceuticals Ltd),Diltiazem hydrochloride,120mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+65504,0,52684021,Adizem-SR 180mg capsules (Lexon (UK) Ltd),Diltiazem hydrochloride,180mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2016
+38831,34686,95539020,Adizem-SR 180mg capsules (Napp Pharmaceuticals Ltd),Diltiazem hydrochloride,180mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+48870,2,39292020,Adizem-SR 90mg capsules (DE Pharmaceuticals),Diltiazem hydrochloride,90mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,January 2013
+38632,91667,95541020,Adizem-SR 90mg capsules (Napp Pharmaceuticals Ltd),Diltiazem hydrochloride,90mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+65636,0,52683021,Adizem-XL 120mg capsules (Lexon (UK) Ltd),Diltiazem hydrochloride,120mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,March 2016
+38865,115973,95559020,Adizem-XL 120mg capsules (Napp Pharmaceuticals Ltd),Diltiazem hydrochloride,120mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+65602,0,21726021,Adizem-XL 120mg capsules (Waymade Healthcare Plc),Diltiazem hydrochloride,120mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,March 2016
+9211,7067,03072007,ADIZEM-XL 180 MG CAP,,,,,00000000,Unknown,February 2009
+52276,2,39293020,Adizem-XL 180mg capsules (DE Pharmaceuticals),Diltiazem hydrochloride,180mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,January 2013
+38855,93789,95561020,Adizem-XL 180mg capsules (Napp Pharmaceuticals Ltd),Diltiazem hydrochloride,180mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+10267,63978,81943020,Adizem-XL 200mg capsules (Napp Pharmaceuticals Ltd),Diltiazem hydrochloride,200mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+69277,0,52686021,Adizem-XL 240mg capsules (Lexon (UK) Ltd),Diltiazem hydrochloride,240mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,April 2017
+38882,118195,95563020,Adizem-XL 240mg capsules (Napp Pharmaceuticals Ltd),Diltiazem hydrochloride,240mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+60620,0,21730021,Adizem-XL 240mg capsules (Waymade Healthcare Plc),Diltiazem hydrochloride,240mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,July 2014
+69108,0,52680021,Adizem-XL 300mg capsules (Lexon (UK) Ltd),Diltiazem hydrochloride,300mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,April 2017
+38634,105616,95575020,Adizem-XL 300mg capsules (Napp Pharmaceuticals Ltd),Diltiazem hydrochloride,300mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+35189,6800,92767020,Amlodipine 10mg / Valsartan 160mg tablets,Amlodipine besilate/Valsartan,10mg + 160mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+6856,6599867,88865020,Amlodipine 10mg tablets,Amlodipine,10mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+34093,1852,67637020,Amlodipine 10mg tablets (A A H Pharmaceuticals Ltd),Amlodipine,10mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+56147,0,02023020,Amlodipine 10mg tablets (Accord Healthcare Ltd),Amlodipine,10mg,Tablet,Oral,02060200,Calcium-channel Blockers,August 2013
+36202,23,68410020,Amlodipine 10mg tablets (Actavis UK Ltd),Amlodipine,10mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+54515,0,02008020,Amlodipine 10mg tablets (Alliance Healthcare (Distribution) Ltd),Amlodipine,10mg,Tablet,Oral,02060200,Calcium-channel Blockers,April 2013
+54654,2,75178020,Amlodipine 10mg tablets (Almus Pharmaceuticals Ltd),Amlodipine,10mg,Tablet,Oral,02060200,Calcium-channel Blockers,April 2013
+58580,0,38962020,Amlodipine 10mg tablets (APC Pharmaceuticals & Chemicals (Europe) Ltd),Amlodipine,10mg,Tablet,Oral,02060200,Calcium-channel Blockers,January 2014
+56334,1,02018020,Amlodipine 10mg tablets (Bristol Laboratories Ltd),Amlodipine,10mg,Tablet,Oral,02060200,Calcium-channel Blockers,August 2013
+49636,0,38506020,Amlodipine 10mg tablets (DE Pharmaceuticals),Amlodipine,10mg,Tablet,Oral,02060200,Calcium-channel Blockers,January 2013
+63515,726,70042020,Amlodipine 10mg tablets (Dr Reddy's Laboratories (UK) Ltd),Amlodipine,10mg,Tablet,Oral,02060200,Calcium-channel Blockers,June 2015
+68221,5390,02007020,Amlodipine 10mg tablets (Kent Pharmaceuticals Ltd),Amlodipine,10mg,Tablet,Oral,02060200,Calcium-channel Blockers,November 2016
+59001,0,68889020,Amlodipine 10mg tablets (Mylan),Amlodipine,10mg,Tablet,Oral,02060200,Calcium-channel Blockers,March 2014
+60244,0,02021020,Amlodipine 10mg tablets (Phoenix Healthcare Distribution Ltd),Amlodipine,10mg,Tablet,Oral,02060200,Calcium-channel Blockers,June 2014
+54696,0,68498020,Amlodipine 10mg tablets (Sandoz Ltd),Amlodipine,10mg,Tablet,Oral,02060200,Calcium-channel Blockers,April 2013
+59762,24,67739020,Amlodipine 10mg tablets (Teva UK Ltd),Amlodipine,10mg,Tablet,Oral,02060200,Calcium-channel Blockers,May 2014
+66817,0,75843020,Amlodipine 10mg tablets (Wockhardt UK Ltd),Amlodipine,10mg,Tablet,Oral,02060200,Calcium-channel Blockers,July 2016
+42210,6127,68111020,Amlodipine 10mg tablets (Zentiva),Amlodipine,10mg,Tablet,Oral,02060200,Calcium-channel Blockers,May 2010
+52440,81,41782020,Amlodipine 10mg/5ml oral solution,Amlodipine,2mg/1ml,Oral solution,Oral,02060200,Calcium-channel Blockers,January 2013
+64623,207,52580021,Amlodipine 10mg/5ml oral solution sugar free,Amlodipine,2mg/1ml,Oral solution,Oral,02060200,Calcium-channel Blockers,November 2015
+45070,168,99159020,Amlodipine 10mg/5ml oral suspension,Amlodipine,2mg/1ml,Oral suspension,Oral,02060200,Calcium-channel Blockers,April 2011
+47002,12,00413021,Amlodipine 10mg/5ml sugar free Oral suspension,Amlodipine,10mg/5ml,Oral Suspension,Oral,02060200,Calcium-channel Blockers,March 2012
+54983,28,18978020,Amlodipine 2.5mg/5ml oral suspension,Amlodipine,500microgram/1ml,Oral suspension,Oral,02060200,Calcium-channel Blockers,May 2013
+61374,1,29717020,Amlodipine 4mg/5ml oral suspension,Amlodipine,800microgram/1ml,Oral suspension,Oral,02060200,Calcium-channel Blockers,October 2014
+35343,6582,92765020,Amlodipine 5mg / Valsartan 160mg tablets,Amlodipine besilate/Valsartan,5mg + 160mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+35329,9401,92763020,Amlodipine 5mg / Valsartan 80mg tablets,Valsartan/Amlodipine besilate,80mg + 5mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+749,11513879,88863020,Amlodipine 5mg tablets,Amlodipine,5mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+32595,84,67634020,Amlodipine 5mg tablets (A A H Pharmaceuticals Ltd),Amlodipine,5mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+61422,26,02002020,Amlodipine 5mg tablets (Accord Healthcare Ltd),Amlodipine,5mg,Tablet,Oral,02060200,Calcium-channel Blockers,October 2014
+53868,0,68406020,Amlodipine 5mg tablets (Actavis UK Ltd),Amlodipine,5mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2013
+64441,7,01986020,Amlodipine 5mg tablets (Alliance Healthcare (Distribution) Ltd),Amlodipine,5mg,Tablet,Oral,02060200,Calcium-channel Blockers,October 2015
+43880,236,75222020,Amlodipine 5mg tablets (Almus Pharmaceuticals Ltd),Amlodipine,5mg,Tablet,Oral,02060200,Calcium-channel Blockers,November 2010
+70999,0,38961020,Amlodipine 5mg tablets (APC Pharmaceuticals & Chemicals (Europe) Ltd),Amlodipine,5mg,Tablet,Oral,02060200,Calcium-channel Blockers,December 2017
+54633,4420,01996020,Amlodipine 5mg tablets (Bristol Laboratories Ltd),Amlodipine,5mg,Tablet,Oral,02060200,Calcium-channel Blockers,April 2013
+65745,0,38505020,Amlodipine 5mg tablets (DE Pharmaceuticals),Amlodipine,5mg,Tablet,Oral,02060200,Calcium-channel Blockers,March 2016
+71353,374,01983020,Amlodipine 5mg tablets (Dowelhurst Ltd),Amlodipine,5mg,Tablet,Oral,02060200,Calcium-channel Blockers,January 2018
+39804,75,70039020,Amlodipine 5mg tablets (Dr Reddy's Laboratories (UK) Ltd),Amlodipine,5mg,Tablet,Oral,02060200,Calcium-channel Blockers,July 2009
+64606,0,70110020,Amlodipine 5mg tablets (Focus Pharmaceuticals Ltd),Amlodipine,5mg,Tablet,Oral,02060200,Calcium-channel Blockers,October 2015
+32917,11,67688020,Amlodipine 5mg tablets (IVAX Pharmaceuticals UK Ltd),Amlodipine,5mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+66430,9035,01985020,Amlodipine 5mg tablets (Kent Pharmaceuticals Ltd),Amlodipine,5mg,Tablet,Oral,02060200,Calcium-channel Blockers,June 2016
+64327,0,68885020,Amlodipine 5mg tablets (Mylan),Amlodipine,5mg,Tablet,Oral,02060200,Calcium-channel Blockers,September 2015
+66574,0,02000020,Amlodipine 5mg tablets (Phoenix Healthcare Distribution Ltd),Amlodipine,5mg,Tablet,Oral,02060200,Calcium-channel Blockers,June 2016
+45279,4,68495020,Amlodipine 5mg tablets (Sandoz Ltd),Amlodipine,5mg,Tablet,Oral,02060200,Calcium-channel Blockers,May 2011
+64447,0,02003020,Amlodipine 5mg tablets (Somex Pharma),Amlodipine,5mg,Tablet,Oral,02060200,Calcium-channel Blockers,October 2015
+39914,62,67735020,Amlodipine 5mg tablets (Teva UK Ltd),Amlodipine,5mg,Tablet,Oral,02060200,Calcium-channel Blockers,August 2009
+71344,962,01982020,Amlodipine 5mg tablets (Waymade Healthcare Plc),Amlodipine,5mg,Tablet,Oral,02060200,Calcium-channel Blockers,January 2018
+64418,0,14479021,Amlodipine 5mg tablets (Waymade Healthcare Plc),Amlodipine,5mg,Tablet,Oral,02060200,Calcium-channel Blockers,October 2015
+43470,2,75838020,Amlodipine 5mg tablets (Wockhardt UK Ltd),Amlodipine,5mg,Tablet,Oral,02060200,Calcium-channel Blockers,September 2010
+46724,641,00415021,Amlodipine 5mg/5ml oral solution,Amlodipine,1mg/1ml,Oral solution,Oral,02060200,Calcium-channel Blockers,February 2012
+64166,779,52583021,Amlodipine 5mg/5ml oral solution sugar free,Amlodipine,1mg/1ml,Oral solution,Oral,02060200,Calcium-channel Blockers,September 2015
+68311,0,53056021,Amlodipine 5mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd),Amlodipine,1mg/1ml,Oral solution,Oral,02060200,Calcium-channel Blockers,December 2016
+16162,7365,91263020,Amlodipine 5mg/5ml oral suspension,Amlodipine,1mg/1ml,Oral suspension,Oral,02060200,Calcium-channel Blockers,February 2009
+71,1808965,72827020,Amlodipine besilate 10mg tablets,Amlodipine,10mg,Tablets,Oral,02060200,Calcium-channel Blockers,February 2009
+29,3230661,72826020,Amlodipine besilate 5mg tablets,Amlodipine,5mg,Tablets,Oral,02060200,Calcium-channel Blockers,February 2009
+6477,1103602,87706020,Amlodipine maleate 10mg tablets,Amlodipine,10mg,Tablets,Oral,02060200,Calcium-channel Blockers,February 2009
+729,1740113,87704020,Amlodipine maleate 5mg tablets,Amlodipine,5mg,Tablets,Oral,02060200,Calcium-channel Blockers,February 2009
+46233,27,91269020,Amlodipine Oral solution,Amlodipine,,Oral Solution,Oral,02060200,Calcium-channel Blockers,October 2011
+31761,26195,88254020,Amlostin 10mg tablets (Discovery Pharmaceuticals),Amlodipine,10mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+17640,35680,88252020,Amlostin 5mg tablets (Discovery Pharmaceuticals),Amlodipine,5mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+20878,2814,70715020,Angiopine 10 capsules (Ashbourne Pharmaceuticals Ltd),Nifedipine,10mg,Capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+21872,456,70717020,Angiopine 5mg Capsule (Ashbourne Pharmaceuticals Ltd),Nifedipine,5mg,Capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+13699,66,83276020,Angiopine la 40mg Tablet (Ashbourne Pharmaceuticals Ltd),Nifedipine,40mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+13672,4401,71014020,Angiopine MR 10mg tablets (Ashbourne Pharmaceuticals Ltd),Nifedipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+5181,9305,71013020,Angiopine MR 20mg tablets (Ashbourne Pharmaceuticals Ltd),Nifedipine,20mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+13410,5812,70830020,Angiozem 60mg modified-release tablets (Ashbourne Pharmaceuticals Ltd),Diltiazem hydrochloride,60mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+16850,1597,83067020,Angiozem CR 120mg tablets (Ashbourne Pharmaceuticals Ltd),Diltiazem hydrochloride,120mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+12705,2255,83066020,Angiozem CR 90mg tablets (Ashbourne Pharmaceuticals Ltd),Diltiazem hydrochloride,90mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+9410,68020,79520020,Angitil SR 120 capsules (Ethypharm UK Ltd),Diltiazem hydrochloride,120mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+5054,34755,79521020,Angitil SR 180 capsules (Ethypharm UK Ltd),Diltiazem hydrochloride,180mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+11223,104738,79519020,Angitil SR 90 capsules (Ethypharm UK Ltd),Diltiazem hydrochloride,90mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+13033,22269,86668020,Angitil XL 240 capsules (Ethypharm UK Ltd),Diltiazem hydrochloride,240mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+15288,20942,86669020,Angitil XL 300 capsules (Ethypharm UK Ltd),Diltiazem hydrochloride,300mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+4542,62815,68847020,Atenolol 50mg / Nifedipine 20mg modified-release capsules,Atenolol/Nifedipine,50mg + 20mg,Modified-release capsule,Oral,02040000/02060200,Beta-adrenoceptor Blocking Drugs/Calcium-channel Blockers,February 2009
+28844,60,53573020,Berkatens 120mg Tablet (Berk Pharmaceuticals Ltd),Verapamil hydrochloride,120mg,Tablet,Oral,02030202/02060200,Supraventricular Arrhythmias/Calcium-channel Blockers,February 2009
+26252,40,53578020,Berkatens 160mg Tablet (Berk Pharmaceuticals Ltd),Verapamil hydrochloride,160mg,Tablet,Oral,02030202/02060200,Supraventricular Arrhythmias/Calcium-channel Blockers,February 2009
+23872,683,53571020,Berkatens 40mg Tablet (Berk Pharmaceuticals Ltd),Verapamil hydrochloride,40mg,Tablet,Oral,02030202/02060200,Supraventricular Arrhythmias/Calcium-channel Blockers,February 2009
+25059,223,53572020,Berkatens 80mg Tablet (Berk Pharmaceuticals Ltd),Verapamil hydrochloride,80mg,Tablet,Oral,02030202/02060200,Supraventricular Arrhythmias/Calcium-channel Blockers,February 2009
+1684,69282,68629020,Beta-Adalat modified-release capsules (Bayer Plc),Atenolol/Nifedipine,50mg + 20mg,Modified-release capsule,Oral,02040000/02060200,Beta-adrenoceptor Blocking Drugs/Calcium-channel Blockers,February 2009
+52728,0,01077020,Beta-Adalat modified-release capsules (Lexon (UK) Ltd),Atenolol/Nifedipine,50mg + 20mg,Modified-release capsule,Oral,02040000/02060200,Beta-adrenoceptor Blocking Drugs/Calcium-channel Blockers,January 2013
+68020,0,01075020,Beta-Adalat modified-release capsules (Sigma Pharmaceuticals Plc),Atenolol/Nifedipine,50mg + 20mg,Modified-release capsule,Oral,02040000/02060200,Beta-adrenoceptor Blocking Drugs/Calcium-channel Blockers,October 2016
+61719,201,01072020,Beta-Adalat modified-release capsules (Waymade Healthcare Plc),Atenolol/Nifedipine,50mg + 20mg,Modified-release capsule,Oral,02040000/02060200,Beta-adrenoceptor Blocking Drugs/Calcium-channel Blockers,November 2014
+41489,500,95547020,Bi-Carzem SR 120mg capsules (Tillomed Laboratories Ltd),Diltiazem hydrochloride,120mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,March 2010
+28949,55,84959020,Bi-carzem sr 120mg Modified-release capsule (Tillomed Laboratories Ltd),Diltiazem Hydrochloride,120mg,Modified-release Capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+39171,450,95543020,Bi-Carzem SR 60mg capsules (Tillomed Laboratories Ltd),Diltiazem hydrochloride,60mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,April 2009
+20642,183,84957020,Bi-carzem sr 60mg Modified-release capsule (Tillomed Laboratories Ltd),Diltiazem hydrochloride,60mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+39298,458,95545020,Bi-Carzem SR 90mg capsules (Tillomed Laboratories Ltd),Diltiazem hydrochloride,90mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,April 2009
+23233,282,84958020,Bi-carzem sr 90mg Modified-release capsule (Tillomed Laboratories Ltd),Diltiazem hydrochloride,90mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+31489,60,86211020,Bi-carzem xl 240mg Capsule (Tillomed Laboratories Ltd),Diltiazem hydrochloride,240mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+47724,2,95577020,Bi-Carzem XL 240mg capsules (Tillomed Laboratories Ltd),Diltiazem hydrochloride,240mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,August 2012
+44887,3,86212020,Bi-carzem xl 300mg Capsule (Tillomed Laboratories Ltd),Diltiazem hydrochloride,300mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,March 2011
+22619,1808,68606020,Britiazim 60mg Modified-release tablet (Thames Laboratories Ltd),Diltiazem hydrochloride,60mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+26337,42,76787020,Cabren 10mg modified-release tablets (Teva UK Ltd),Felodipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+30915,89,78440020,Cabren 2.5mg modified-release tablets (Teva UK Ltd),Felodipine,2.5mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+30991,67,76784020,Cabren 5mg modified-release tablets (Teva UK Ltd),Felodipine,5mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+22019,401,79356020,Calanif 10mg Capsule (Berk Pharmaceuticals Ltd),Nifedipine,10mg,Capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+26265,95,79357020,Calanif 5mg Capsule (Berk Pharmaceuticals Ltd),Nifedipine,5mg,Capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+29676,18,80745020,Calazem 60mg Modified-release tablet (Berk Pharmaceuticals Ltd),Diltiazem hydrochloride,60mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+14861,3641,77697020,Calchan MR 10 tablets (Ranbaxy (UK) Ltd),Nifedipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+11769,6610,77698020,Calchan MR 20 tablets (Ranbaxy (UK) Ltd),Nifedipine,20mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+18975,36,68163020,Calcicard 60mg Tablet (3M Health Care Ltd),Diltiazem hydrochloride,60mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+11973,4936,79934020,Calcicard CR 120mg tablets (Teva UK Ltd),Diltiazem hydrochloride,120mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+9723,8874,79935020,Calcicard CR 90mg tablets (Teva UK Ltd),Diltiazem hydrochloride,90mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+22142,444,70808020,Calcilat 10mg Capsule (Eastern Pharmaceuticals Ltd),Nifedipine,10mg,Capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+11943,38686,58763020,Cardene 20mg capsules (Astellas Pharma Ltd),Nicardipine hydrochloride,20mg,Capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+7562,17601,58764020,Cardene 30mg capsules (Astellas Pharma Ltd),Nicardipine hydrochloride,30mg,Capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+3302,11304,54862020,Cardene SR 30mg capsules (Astellas Pharma Ltd),Nicardipine hydrochloride,30mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+12875,4440,54863020,Cardene SR 45mg capsules (Astellas Pharma Ltd),Nicardipine hydrochloride,45mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+17325,2541,75491020,Cardilate MR 10mg tablets (Teva UK Ltd),Nifedipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+20257,3383,75490020,Cardilate MR 20mg tablets (IVAX Pharmaceuticals UK Ltd),Nifedipine,20mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+24366,121465,87958020,Cardioplen XL 10mg tablets (Chiesi Ltd),Felodipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+35592,67919,92751020,Cardioplen XL 2.5mg tablets (Chiesi Ltd),Felodipine,2.5mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+24365,166436,87956020,Cardioplen XL 5mg tablets (Chiesi Ltd),Felodipine,5mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+2746,122078,73759020,Coracten SR 10mg capsules (UCB Pharma Ltd),Nifedipine,10mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+4856,172538,73758020,Coracten SR 20mg capsules (UCB Pharma Ltd),Nifedipine,20mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+3712,296443,79074020,Coracten XL 30mg capsules (UCB Pharma Ltd),Nifedipine,30mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+4939,184505,79075020,Coracten XL 60mg capsules (UCB Pharma Ltd),Nifedipine,60mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+1748,8680,53062020,Cordilox 120mg tablets (IVAX Pharmaceuticals UK Ltd),Verapamil hydrochloride,120mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+12104,6361,53065020,Cordilox 160mg tablets (IVAX Pharmaceuticals UK Ltd),Verapamil hydrochloride,160mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+19325,5,48764020,Cordilox 2.5mg/ml Injection (IVAX Pharmaceuticals UK Ltd),Verapamil hydrochloride,2.5mg/1ml,Solution for injection,Intravenous,02030202/02060200,Supraventricular Arrhythmias/Calcium-channel Blockers,February 2009
+8884,12579,48758020,Cordilox 40mg tablets (IVAX Pharmaceuticals UK Ltd),Verapamil hydrochloride,40mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+16677,9277,48759020,Cordilox 80mg tablets (IVAX Pharmaceuticals UK Ltd),Verapamil hydrochloride,80mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+13965,1942,71435020,Cordilox MR 240mg tablets (Teva UK Ltd),Verapamil hydrochloride,240mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+30473,153,86711020,Coroday MR 20mg tablets (Mylan),Nifedipine,20mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+25777,532,86145020,Dilcardia SR 120mg capsules (Mylan),Diltiazem hydrochloride,120mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+21145,3313,86146020,Dilcardia SR 60mg capsules (Mylan),Diltiazem hydrochloride,60mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+18379,1817,86144020,Dilcardia SR 90mg capsules (Mylan),Diltiazem hydrochloride,90mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+32658,11,75962020,Dilcardia xl 120mg Modified-release capsule (Generics (UK) Ltd),Diltiazem Hydrochloride,120mg,Modified-release Capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+15221,8,75963020,Dilcardia xl 180mg Modified-release capsule (Generics (UK) Ltd),Diltiazem Hydrochloride,180mg,Modified-release Capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+26460,39,75964020,Dilcardia xl 240mg Modified-release capsule (Generics (UK) Ltd),Diltiazem hydrochloride,240mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+49237,14,37887020,Diltiazem 0.2% cream,Diltiazem hydrochloride,2mg/1gram,Cream,Transdermal,01070000/02060200,Local Preparations For Anal And Rectal Disorders/Calcium-channel Blockers,January 2013
+56271,10,37888020,Diltiazem 0.2% cream (Special Order),Diltiazem hydrochloride,2mg/1gram,Cream,Transdermal,01070000/02060200,Local Preparations For Anal And Rectal Disorders/Calcium-channel Blockers,August 2013
+69818,3,52015021,Diltiazem 0.5% ointment,Diltiazem hydrochloride,5mg/1gram,Ointment,Transdermal,01070000/02060200,Local Preparations For Anal And Rectal Disorders/Calcium-channel Blockers,June 2017
+30197,9985,90599020,Diltiazem 120mg modified-release capsules,Diltiazem hydrochloride,120mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+71413,29,01883020,Diltiazem 120mg modified-release capsules (A A H Pharmaceuticals Ltd),Diltiazem hydrochloride,120mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,January 2018
+48288,927,01886020,Diltiazem 120mg modified-release capsules (A A H Pharmaceuticals Ltd),Diltiazem hydrochloride,120mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,January 2013
+49289,588,01884020,Diltiazem 120mg modified-release capsules (Alliance Healthcare (Distribution) Ltd),Diltiazem hydrochloride,120mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,January 2013
+62912,25,44230021,Diltiazem 120mg modified-release capsules (AM Distributions (Yorkshire) Ltd),Diltiazem hydrochloride,120mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,April 2015
+57208,4,47167020,Diltiazem 120mg modified-release capsules (Cubic Pharmaceuticals Ltd),Diltiazem hydrochloride,120mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,September 2013
+68429,10,26726021,Diltiazem 120mg modified-release capsules (Ethigen Ltd),Diltiazem hydrochloride,120mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,December 2016
+61532,0,26725021,Diltiazem 120mg modified-release capsules (Sigma Pharmaceuticals Plc),Diltiazem hydrochloride,120mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,October 2014
+219,110843,72563020,Diltiazem 120mg modified-release tablets,Diltiazem hydrochloride,120mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+43430,293,61274020,Diltiazem 120mg modified-release tablets (A A H Pharmaceuticals Ltd),Diltiazem hydrochloride,120mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,September 2010
+49001,936,11003020,Diltiazem 120mg modified-release tablets (Alliance Healthcare (Distribution) Ltd),Diltiazem hydrochloride,120mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,January 2013
+61010,46,20298021,Diltiazem 120mg modified-release tablets (Cubic Pharmaceuticals Ltd),Diltiazem hydrochloride,120mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,August 2014
+62064,0,25559021,Diltiazem 120mg modified-release tablets (Mawdsley-Brooks & Company Ltd),Diltiazem hydrochloride,120mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,January 2015
+1995,137416,57177020,Diltiazem 12hr 120mg modified-release capsules,Diltiazem Hydrochloride,120mg,12 Hour Modified Release Capsules,Oral,02060200,Calcium-channel Blockers,February 2009
+3061,61335,57178020,Diltiazem 12hr 180mg modified-release capsules,Diltiazem Hydrochloride,180mg,12 Hour Modified Release Capsules,Oral,02060200,Calcium-channel Blockers,February 2009
+30242,7024,90601020,Diltiazem 180mg modified-release capsules,Diltiazem hydrochloride,180mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+70306,0,25462021,Diltiazem 180mg modified-release capsules (Mawdsley-Brooks & Company Ltd),Diltiazem hydrochloride,180mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,September 2017
+4635,111596,72177020,Diltiazem 200mg modified-release capsules,Diltiazem hydrochloride,200mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+4808,71139,75522020,Diltiazem 240mg modified-release capsules,Diltiazem hydrochloride,240mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+2663,7246,72565020,Diltiazem 240mg modified-release capsules,Diltiazem Hydrochloride,240mg,Modified Release Capsules,Oral,02060200,Calcium-channel Blockers,February 2009
+66701,0,23046021,Diltiazem 240mg modified-release capsules (DE Pharmaceuticals),Diltiazem hydrochloride,240mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,July 2016
+66850,6,27252021,Diltiazem 240mg modified-release capsules (Icarus Pharmaceuticals Ltd),Diltiazem hydrochloride,240mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,July 2016
+9708,56761,75520020,Diltiazem 24hr 120mg modified-release capsules,Diltiazem Hydrochloride,120mg,24 Hour Modified Release Capsules,Oral,02060200,Calcium-channel Blockers,February 2009
+4923,54037,75521020,Diltiazem 24hr 180mg modified-release capsules,Diltiazem Hydrochloride,180mg,24 Hour Modified Release Capsules,Oral,02060200,Calcium-channel Blockers,February 2009
+5326,13513,75621020,Diltiazem 24hr 300mg modified-release capsules,Diltiazem Hydrochloride,300mg,24 Hour Modified Release Capsules,Oral,02060200,Calcium-channel Blockers,February 2009
+5348,62755,72176020,Diltiazem 300mg modified-release capsules,Diltiazem hydrochloride,300mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+67344,14,23042021,Diltiazem 300mg modified-release capsules (Ennogen Pharma Ltd),Diltiazem hydrochloride,300mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,August 2016
+13926,19839,75622020,Diltiazem 360mg modified-release capsules,Diltiazem hydrochloride,360mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+64624,1,35052020,Diltiazem 4% cream,Diltiazem hydrochloride,40mg/1gram,Cream,Transdermal,01070000/02060200,Local Preparations For Anal And Rectal Disorders/Calcium-channel Blockers,November 2015
+636,138136,86603020,Diltiazem 60mg modified-release capsules,Diltiazem hydrochloride,60mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+2453,20177,68603020,Diltiazem 60mg modified-release capsules,Diltiazem Hydrochloride,60mg,Modified Release Capsules,Oral,02060200,Calcium-channel Blockers,February 2009
+18404,4973,49568020,Diltiazem 60mg modified-release capsules (A A H Pharmaceuticals Ltd),Diltiazem hydrochloride,60mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+48272,1609,01893020,Diltiazem 60mg modified-release capsules (Alliance Healthcare (Distribution) Ltd),Diltiazem hydrochloride,60mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,January 2013
+69028,1,21729021,Diltiazem 60mg modified-release capsules (DE Pharmaceuticals),Diltiazem hydrochloride,60mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,March 2017
+61245,18,26728021,Diltiazem 60mg modified-release capsules (Sigma Pharmaceuticals Plc),Diltiazem hydrochloride,60mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,September 2014
+1836,213801,71948020,Diltiazem 60mg modified-release tablets,Diltiazem hydrochloride,60mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+21763,322,49566020,Diltiazem 60mg modified-release tablets (A A H Pharmaceuticals Ltd),Diltiazem hydrochloride,60mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+46937,47,56930020,Diltiazem 60mg modified-release tablets (Actavis UK Ltd),Diltiazem hydrochloride,60mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,March 2012
+68054,22,01904020,Diltiazem 60mg modified-release tablets (Alliance Healthcare (Distribution) Ltd),Diltiazem hydrochloride,60mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,October 2016
+69116,1,53313021,Diltiazem 60mg modified-release tablets (DE Pharmaceuticals),Diltiazem hydrochloride,60mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,April 2017
+41635,121,53801020,Diltiazem 60mg modified-release tablets (IVAX Pharmaceuticals UK Ltd),Diltiazem hydrochloride,60mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,March 2010
+32870,55,60682020,Diltiazem 60mg modified-release tablets (Sterwin Medicines),Diltiazem hydrochloride,60mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+21778,31,54633020,Diltiazem 60mg modified-release tablets (Teva UK Ltd),Diltiazem hydrochloride,60mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+1538,721474,68602020,Diltiazem 60mg tablets,Diltiazem Hydrochloride,60mg,Tablets,Oral,02060200,Calcium-channel Blockers,February 2009
+55257,16,19777020,Diltiazem 60mg/5ml oral solution,Diltiazem hydrochloride,12mg/1ml,Oral solution,Oral,02060200,Calcium-channel Blockers,May 2013
+11922,766,90541020,Diltiazem 60mg/5ml oral suspension,Diltiazem hydrochloride,12mg/1ml,Oral suspension,Oral,02060200,Calcium-channel Blockers,February 2009
+1686,294297,57176020,Diltiazem 90mg modified-release capsules,Diltiazem hydrochloride,90mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+48282,2285,01882020,Diltiazem 90mg modified-release capsules (A A H Pharmaceuticals Ltd),Diltiazem hydrochloride,90mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,January 2013
+48457,690,01881020,Diltiazem 90mg modified-release capsules (Alliance Healthcare (Distribution) Ltd),Diltiazem hydrochloride,90mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,January 2013
+56758,1,47166020,Diltiazem 90mg modified-release capsules (Cubic Pharmaceuticals Ltd),Diltiazem hydrochloride,90mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,August 2013
+4732,112399,72564020,Diltiazem 90mg modified-release tablets,Diltiazem hydrochloride,90mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+27136,1162,60317020,Diltiazem 90mg modified-release tablets (A A H Pharmaceuticals Ltd),Diltiazem hydrochloride,90mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+49390,545,01871020,Diltiazem 90mg modified-release tablets (Alliance Healthcare (Distribution) Ltd),Diltiazem hydrochloride,90mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,January 2013
+62065,26,23040021,Diltiazem 90mg modified-release tablets (Colorama Pharmaceuticals Ltd),Diltiazem hydrochloride,90mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,January 2015
+57859,160,47164020,Diltiazem 90mg modified-release tablets (Cubic Pharmaceuticals Ltd),Diltiazem hydrochloride,90mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,December 2013
+18606,11,81472020,Diltiazem and hydrochlorothiazide 150mg+12.5mg modified-release capsules,Diltiazem Hydrochloride/Hydrochlorothiazide,150mg + 12.5mg,Modified Release Capsules,Oral,02020100/02060200,Thiazides And Related Diuretics/Calcium-channel Blockers,February 2009
+32089,172,49567020,Diltiazem HCl 120mg Modified-release capsule (Hillcross Pharmaceuticals Ltd),Diltiazem Hydrochloride,120mg,Modified-release Capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+31676,15,56932020,Diltiazem HCl 120mg Modified-release tablet (Actavis UK Ltd),Diltiazem hydrochloride,120mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+34824,190,53803020,Diltiazem HCl 120mg Modified-release tablet (IVAX Pharmaceuticals UK Ltd),Diltiazem hydrochloride,120mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+42804,12,65086020,Diltiazem HCl 180mg Capsule (PLIVA Pharma Ltd),Diltiazem Hydrochloride,180mg,Capsule,Oral,02060200,Calcium-channel Blockers,July 2010
+18403,4,60315020,Diltiazem HCl 180mg Modified-release capsule (Hillcross Pharmaceuticals Ltd),Diltiazem Hydrochloride,180mg,Modified-release Capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+45759,9,65091020,Diltiazem HCl 240mg Capsule (PLIVA Pharma Ltd),Diltiazem hydrochloride,240mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,July 2011
+27685,8,65095020,Diltiazem HCl 300mg Capsule (PLIVA Pharma Ltd),Diltiazem hydrochloride,300mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+34581,422,68132020,Diltiazem HCl 60mg Modified-release tablet (Kent Pharmaceuticals Ltd),Diltiazem hydrochloride,60mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+38066,48,59378020,Diltiazem HCl 60mg Modified-release tablet (Lagap),Diltiazem hydrochloride,60mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+32262,703,49558020,Diltiazem HCl 60mg Tablet (C P Pharmaceuticals Ltd),Diltiazem hydrochloride,60mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+21773,59,60454020,Diltiazem HCl 60mg Tablet (Generics (UK) Ltd),Diltiazem hydrochloride,60mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+34377,58,60316020,Diltiazem HCl 90mg Modified-release capsule (Hillcross Pharmaceuticals Ltd),Diltiazem hydrochloride,90mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+12639,169,56931020,Diltiazem HCl 90mg Modified-release tablet (Actavis UK Ltd),Diltiazem hydrochloride,90mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+34475,402,53802020,Diltiazem HCl 90mg Modified-release tablet (IVAX Pharmaceuticals UK Ltd),Diltiazem hydrochloride,90mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+15659,38,05075007,DILTIAZEM HCL S/R 180 CAP,,,,,00000000,Unknown,February 2009
+9094,4202,03901007,DILTIAZEM HCl SR 300 MG CAP,,,,,00000000,Unknown,February 2009
+8024,939,03142007,DILTIAZEM HCl XL 300 MG CAP,,,,,00000000,Unknown,February 2009
+30491,1,!1893701,DILTIAZEM HYDROCHLORIDE,,,,,00000000,Unknown,February 2009
+42731,136,68577020,Diltiazem sr 120mg Capsule (Hillcross Pharmaceuticals Ltd),Diltiazem Hydrochloride,120mg,Capsule,Oral,02060200,Calcium-channel Blockers,June 2010
+47415,11,77105020,Diltiazem sr 60mg Capsule (Hillcross Pharmaceuticals Ltd),Diltiazem hydrochloride,60mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,June 2012
+27135,46,68574020,Diltiazem sr 90mg Capsule (Hillcross Pharmaceuticals Ltd),Diltiazem hydrochloride,90mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+42819,15,69923020,Diltiazem xl 240mg Capsule (Hillcross Pharmaceuticals Ltd),Diltiazem hydrochloride,240mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,July 2010
+16038,33153,87830020,Dilzem SR 120 capsules (Teva UK Ltd),Diltiazem hydrochloride,120mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+5194,16429,74598020,Dilzem sr 120mg Capsule (Elan Pharma),Diltiazem Hydrochloride,120mg,Capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+11770,85273,87826020,Dilzem SR 60 capsules (Teva UK Ltd),Diltiazem hydrochloride,60mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+5513,19692,74596020,Dilzem sr 60mg Capsule (Elan Pharma),Diltiazem hydrochloride,60mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+13302,53069,87828020,Dilzem SR 90 capsules (Teva UK Ltd),Diltiazem hydrochloride,90mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+4308,33148,74597020,Dilzem sr 90mg Capsule (Elan Pharma),Diltiazem hydrochloride,90mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+67317,23,01885020,Dilzem XL 120 capsules (Mawdsley-Brooks & Company Ltd),Diltiazem hydrochloride,120mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,August 2016
+13240,54342,87832020,Dilzem XL 120 capsules (Teva UK Ltd),Diltiazem hydrochloride,120mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+66635,58,01892020,Dilzem XL 180 capsules (DE Pharmaceuticals),Diltiazem hydrochloride,180mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,July 2016
+59098,0,01889020,Dilzem XL 180 capsules (Lexon (UK) Ltd),Diltiazem hydrochloride,180mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,March 2014
+60415,0,01891020,Dilzem XL 180 capsules (Sigma Pharmaceuticals Plc),Diltiazem hydrochloride,180mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,July 2014
+13075,71268,87834020,Dilzem XL 180 capsules (Teva UK Ltd),Diltiazem hydrochloride,180mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+59863,134,01895020,Dilzem XL 240 capsules (Lexon (UK) Ltd),Diltiazem hydrochloride,240mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,May 2014
+13127,48564,87836020,Dilzem XL 240 capsules (Teva UK Ltd),Diltiazem hydrochloride,240mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+71342,18,01894020,Dilzem XL 240 capsules (Waymade Healthcare Plc),Diltiazem hydrochloride,240mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,January 2018
+3370,21162,75264020,Dilzem xl mr 120mg Modified-release capsule (Elan Pharma),Diltiazem Hydrochloride,120mg,Modified-release Capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+3676,31304,75265020,Dilzem xl mr 180mg Modified-release capsule (Elan Pharma),Diltiazem Hydrochloride,180mg,Modified-release Capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+2686,20751,75266020,Dilzem xl mr 240mg Modified-release capsule (Elan Pharma),Diltiazem hydrochloride,240mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+18852,1245,86924020,Disogram SR 120mg capsules (Ranbaxy (UK) Ltd),Diltiazem hydrochloride,120mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+18874,414,68687020,Disogram SR 180mg capsules (Ranbaxy (UK) Ltd),Diltiazem hydrochloride,180mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+19426,696,79164020,Disogram SR 240mg capsules (Ranbaxy (UK) Ltd),Diltiazem hydrochloride,240mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+19440,231,77223020,Disogram SR 300mg capsules (Ranbaxy (UK) Ltd),Diltiazem hydrochloride,300mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+18834,688,82002020,Disogram SR 60mg capsules (Ranbaxy (UK) Ltd),Diltiazem hydrochloride,60mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+18830,1647,82004020,Disogram SR 90mg capsules (Ranbaxy (UK) Ltd),Diltiazem hydrochloride,90mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+30462,17,85740020,Ethimil MR 240mg tablets (Genus Pharmaceuticals Ltd),Verapamil hydrochloride,240mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+35096,1814,92773020,Exforge 10mg/160mg tablets (Novartis Pharmaceuticals UK Ltd),Amlodipine besilate/Valsartan,10mg + 160mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+35697,1788,92771020,Exforge 5mg/160mg tablets (Novartis Pharmaceuticals UK Ltd),Amlodipine besilate/Valsartan,5mg + 160mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+35317,2624,92769020,Exforge 5mg/80mg tablets (Novartis Pharmaceuticals UK Ltd),Valsartan/Amlodipine besilate,80mg + 5mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+20459,235,87085020,Felendil xl 10mg Modified-release tablet (Ratiopharm UK Ltd),Felodipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+29145,188,91113020,Felendil xl 2.5mg Modified-release tablet (Ratiopharm UK Ltd),Felodipine,2.5mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+10153,310,87083020,Felendil xl 5mg Modified-release tablet (Ratiopharm UK Ltd),Felodipine,5mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+32922,31,68176020,Felodipine 10mg Modified-release tablet (Sandoz Ltd),Felodipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+568,1483107,52180020,Felodipine 10mg modified-release tablets,Felodipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+33091,114,66476020,Felodipine 10mg modified-release tablets (A A H Pharmaceuticals Ltd),Felodipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+64760,0,21736021,Felodipine 10mg modified-release tablets (Phoenix Healthcare Distribution Ltd),Felodipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,November 2015
+64917,0,20171021,Felodipine 10mg modified-release tablets (Waymade Healthcare Plc),Felodipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,December 2015
+21162,1498,78451020,Felodipine 2.5mg modified-release / Ramipril 2.5mg tablets,Felodipine/Ramipril,2.5mg + 2.5mg,Modified-release tablet,Oral,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,February 2009
+491,1388093,52181020,Felodipine 2.5mg modified-release tablets,Felodipine,2.5mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+64474,3,73487020,Felodipine 2.5mg modified-release tablets (A A H Pharmaceuticals Ltd),Felodipine,2.5mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,October 2015
+66910,0,57274021,Felodipine 2.5mg modified-release tablets (DE Pharmaceuticals),Felodipine,2.5mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,July 2016
+60884,0,21738021,Felodipine 2.5mg modified-release tablets (Phoenix Healthcare Distribution Ltd),Felodipine,2.5mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,August 2014
+64719,0,52190021,Felodipine 2.5mg modified-release tablets (Sigma Pharmaceuticals Plc),Felodipine,2.5mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,November 2015
+60569,0,20172021,Felodipine 2.5mg modified-release tablets (Waymade Healthcare Plc),Felodipine,2.5mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,July 2014
+69206,17,37681020,Felodipine 2.5mg/5ml oral solution,Felodipine,500microgram/1ml,Oral solution,Oral,02060200,Calcium-channel Blockers,April 2017
+17474,11117,78452020,Felodipine 5mg modified-release / Ramipril 5mg tablets,Felodipine/Ramipril,5mg + 5mg,Modified-release tablet,Oral,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,February 2009
+48009,0,68173020,Felodipine 5mg Modified-release tablet (Sandoz Ltd),Felodipine,5mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,November 2012
+501,2307237,52179020,Felodipine 5mg modified-release tablets,Felodipine,5mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+43512,78,66473020,Felodipine 5mg modified-release tablets (A A H Pharmaceuticals Ltd),Felodipine,5mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,September 2010
+68828,0,21735021,Felodipine 5mg modified-release tablets (DE Pharmaceuticals),Felodipine,5mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2017
+66095,0,53318021,Felodipine 5mg modified-release tablets (Mawdsley-Brooks & Company Ltd),Felodipine,5mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,May 2016
+68181,0,52188021,Felodipine 5mg modified-release tablets (Sigma Pharmaceuticals Plc),Felodipine,5mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,November 2016
+68499,1456,66909020,Felodipine sr 10mg Tablet (Approved Prescription Services Ltd),Felodipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,December 2016
+44859,1405,66904020,Felodipine sr 5mg Tablet (Approved Prescription Services Ltd),Felodipine,5mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,March 2011
+30557,166,87103020,Felogen XL 10mg tablets (Mylan),Felodipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+25572,427,86937020,Felogen XL 5mg tablets (Mylan),Felodipine,5mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+17566,8499,87067020,Felotens XL 10mg tablets (Thornton & Ross Ltd),Felodipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+37897,1804,94403020,Felotens XL 2.5mg tablets (Thornton & Ross Ltd),Felodipine,2.5mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+17557,12793,87065020,Felotens XL 5mg tablets (Thornton & Ross Ltd),Felodipine,5mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+65349,12,99314020,Folpik XL 10mg tablets (Teva UK Ltd),Felodipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2016
+63331,17,99300020,Folpik XL 2.5mg tablets (Teva UK Ltd),Felodipine,2.5mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,June 2015
+55306,72,99312020,Folpik XL 5mg tablets (Teva UK Ltd),Felodipine,5mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,May 2013
+5277,17970,83624020,Fortipine LA 40 tablets (AMCo),Nifedipine,40mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+15715,19,85589020,Genalat retard 20mg Modified-release tablet (Wyeth Pharmaceuticals),Nifedipine,20mg,Modified-release Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+60780,0,38011020,Generic Sevikar HCT 20mg/5mg/12.5mg tablets,Hydrochlorothiazide/Olmesartan medoxomil/Amlodipine besilate,12.5mg + 20mg + 5mg,Tablet,Oral,02050502,Angiotensin-ii Receptor Antagonists,August 2014
+60007,0,38012020,Generic Sevikar HCT 40mg/10mg/12.5mg tablets,Amlodipine besilate/Hydrochlorothiazide/Olmesartan medoxomil,10mg + 12.5mg + 40mg,Tablet,Oral,02050502,Angiotensin-ii Receptor Antagonists,May 2014
+67293,188,00876020,Half Securon SR 120mg tablets (Mawdsley-Brooks & Company Ltd),Verapamil hydrochloride,120mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,August 2016
+3343,110632,56683020,Half Securon SR 120mg tablets (Mylan),Verapamil hydrochloride,120mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+47530,4,76823020,Horizem SR 60mg capsules (Horizon lifecare),Diltiazem hydrochloride,60mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,August 2012
+21216,154,87081020,Hypolar Retard 10mg tablets (Sandoz Ltd),Nifedipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+9485,956,50475020,Hypolar Retard 20 tablets (Sandoz Ltd),Nifedipine,20mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+23736,169,86128020,Hypolar XL 30 tablets (Sandoz Ltd),Nifedipine,30mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+8310,14794,69563020,Isradipine 2.5mg tablets,Isradipine,2.5mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+67662,0,02012020,Istin 10mg tablets (DE Pharmaceuticals),Amlodipine,10mg,Tablet,Oral,02060200,Calcium-channel Blockers,September 2016
+5914,149337,72823020,Istin 10mg tablets (Pfizer Ltd),Amlodipine,10mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+3917,325790,72822020,Istin 5mg tablets (Pfizer Ltd),Amlodipine,5mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+38434,6,93025020,Keloc SR 10mg tablets (Teva UK Ltd),Felodipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+35696,218,88983020,Kenzem SR 120mg capsules (Kent Pharmaceuticals Ltd),Diltiazem hydrochloride,120mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+37774,570,88979020,Kenzem SR 60mg capsules (Kent Pharmaceuticals Ltd),Diltiazem hydrochloride,60mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+27401,490,88981020,Kenzem SR 90mg capsules (Kent Pharmaceuticals Ltd),Diltiazem hydrochloride,90mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+5158,399927,74744020,Lacidipine 2mg tablets,Lacidipine,2mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+70990,0,78005020,Lacidipine 2mg tablets (A A H Pharmaceuticals Ltd),Lacidipine,2mg,Tablet,Oral,02060200,Calcium-channel Blockers,December 2017
+60699,1,02051020,Lacidipine 2mg tablets (Sigma Pharmaceuticals Plc),Lacidipine,2mg,Tablet,Oral,02060200,Calcium-channel Blockers,August 2014
+3221,518731,74745020,Lacidipine 4mg tablets,Lacidipine,4mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+57680,0,78002020,Lacidipine 4mg tablets (A A H Pharmaceuticals Ltd),Lacidipine,4mg,Tablet,Oral,02060200,Calcium-channel Blockers,October 2013
+56994,0,77966020,Lacidipine 4mg tablets (Teva UK Ltd),Lacidipine,4mg,Tablet,Oral,02060200,Calcium-channel Blockers,September 2013
+5593,1333608,79553020,Lercanidipine 10mg tablets,Lercanidipine hydrochloride,10mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+69239,14,02096020,Lercanidipine 10mg tablets (A A H Pharmaceuticals Ltd),Lercanidipine hydrochloride,10mg,Tablet,Oral,02060200,Calcium-channel Blockers,April 2017
+64227,15,77284020,Lercanidipine 10mg tablets (Actavis UK Ltd),Lercanidipine hydrochloride,10mg,Tablet,Oral,02060200,Calcium-channel Blockers,September 2015
+57444,0,14783021,Lercanidipine 10mg tablets (Aptil Pharma Ltd),Lercanidipine hydrochloride,10mg,Tablet,Oral,02060200,Calcium-channel Blockers,October 2013
+71018,0,42160020,Lercanidipine 10mg tablets (Arrow Generics Ltd),Lercanidipine hydrochloride,10mg,Tablet,Oral,02060200,Calcium-channel Blockers,December 2017
+61611,0,23689021,Lercanidipine 10mg tablets (DE Pharmaceuticals),Lercanidipine hydrochloride,10mg,Tablet,Oral,02060200,Calcium-channel Blockers,November 2014
+47331,283,77345020,Lercanidipine 10mg tablets (Mylan),Lercanidipine hydrochloride,10mg,Tablet,Oral,02060200,Calcium-channel Blockers,June 2012
+70827,0,77159020,Lercanidipine 10mg tablets (Teva UK Ltd),Lercanidipine hydrochloride,10mg,Tablet,Oral,02060200,Calcium-channel Blockers,December 2017
+13243,409299,90705020,Lercanidipine 20mg tablets,Lercanidipine hydrochloride,20mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+63917,13,28127020,Lercanidipine 20mg tablets (A A H Pharmaceuticals Ltd),Lercanidipine hydrochloride,20mg,Tablet,Oral,02060200,Calcium-channel Blockers,July 2015
+59233,12,77287020,Lercanidipine 20mg tablets (Actavis UK Ltd),Lercanidipine hydrochloride,20mg,Tablet,Oral,02060200,Calcium-channel Blockers,March 2014
+70732,5,28124020,Lercanidipine 20mg tablets (Alliance Healthcare (Distribution) Ltd),Lercanidipine hydrochloride,20mg,Tablet,Oral,02060200,Calcium-channel Blockers,November 2017
+71030,0,43674020,Lercanidipine 20mg tablets (Arrow Generics Ltd),Lercanidipine hydrochloride,20mg,Tablet,Oral,02060200,Calcium-channel Blockers,December 2017
+56767,0,77347020,Lercanidipine 20mg tablets (Mylan),Lercanidipine hydrochloride,20mg,Tablet,Oral,02060200,Calcium-channel Blockers,August 2013
+65659,26,77164020,Lercanidipine 20mg tablets (Teva UK Ltd),Lercanidipine hydrochloride,20mg,Tablet,Oral,02060200,Calcium-channel Blockers,March 2016
+64424,0,28126020,Lercanidipine 20mg tablets (Zentiva),Lercanidipine hydrochloride,20mg,Tablet,Oral,02060200,Calcium-channel Blockers,October 2015
+22241,100,84495020,Mibefradil 100mg Tablet,Mibefradil,100mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+15652,705,84494020,Mibefradil 50mg Tablet,Mibefradil,50mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+11966,45752,74740020,Motens 2mg tablets (GlaxoSmithKline UK Ltd),Lacidipine,2mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+9670,44071,74741020,Motens 4mg tablets (GlaxoSmithKline UK Ltd),Lacidipine,4mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+29044,66,88260020,Neofel XL 10mg tablets (Kent Pharmaceuticals Ltd),Felodipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+55740,83,02041020,Neofel XL 2.5mg tablets (Actavis UK Ltd),Felodipine,2.5mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,June 2013
+58339,52,02044020,Neofel XL 2.5mg tablets (Almus Pharmaceuticals Ltd),Felodipine,2.5mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,December 2013
+39357,196,93501020,Neofel XL 2.5mg tablets (Kent Pharmaceuticals Ltd),Felodipine,2.5mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,April 2009
+28721,69,88258020,Neofel XL 5mg tablets (Kent Pharmaceuticals Ltd),Felodipine,5mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+37530,108,91229020,Neozipine XL 30mg tablets (Kent Pharmaceuticals Ltd),Nifedipine,30mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+35646,81,91231020,Neozipine XL 60mg tablets (Kent Pharmaceuticals Ltd),Nifedipine,60mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+2926,113641,65031020,Nicardipine 20mg capsules,Nicardipine hydrochloride,20mg,Capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+8201,61664,65032020,Nicardipine 30mg capsules,Nicardipine hydrochloride,30mg,Capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+45292,8,64571020,Nicardipine 30mg capsules (A A H Pharmaceuticals Ltd),Nicardipine hydrochloride,30mg,Capsule,Oral,02060200,Calcium-channel Blockers,May 2011
+5477,29463,52063020,Nicardipine 30mg modified-release capsules,Nicardipine hydrochloride,30mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+9386,13071,52064020,Nicardipine 45mg modified-release capsules,Nicardipine hydrochloride,45mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+25055,0,!4904102,NIFEDIPINE,,,,,00000000,Unknown,February 2009
+37726,174,92999020,Nifedipine 100mg/5ml oral suspension,Nifedipine,20mg/1ml,Oral suspension,Oral,02060200,Calcium-channel Blockers,February 2009
+34247,16,49104020,Nifedipine 10mg Capsule (Berk Pharmaceuticals Ltd),Nifedipine,10mg,Capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+452,401911,65052020,Nifedipine 10mg capsules,Nifedipine,10mg,Capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+43511,4,49117020,Nifedipine 10mg capsules (A A H Pharmaceuticals Ltd),Nifedipine,10mg,Capsule,Oral,02060200,Calcium-channel Blockers,September 2010
+43515,11,57071020,Nifedipine 10mg capsules (Actavis UK Ltd),Nifedipine,10mg,Capsule,Oral,02060200,Calcium-channel Blockers,September 2010
+46445,56,54159020,Nifedipine 10mg capsules (IVAX Pharmaceuticals UK Ltd),Nifedipine,10mg,Capsule,Oral,02060200,Calcium-channel Blockers,November 2011
+63041,1,59921020,Nifedipine 10mg capsules (Mylan),Nifedipine,10mg,Capsule,Oral,02060200,Calcium-channel Blockers,April 2015
+55455,0,01943020,Nifedipine 10mg capsules (Strides Shasun (UK) Ltd),Nifedipine,10mg,Capsule,Oral,02060200,Calcium-channel Blockers,June 2013
+42912,6,54546020,Nifedipine 10mg capsules (Teva UK Ltd),Nifedipine,10mg,Capsule,Oral,02060200,Calcium-channel Blockers,July 2010
+2605,206513,73828020,Nifedipine 10mg modified-release capsules,Nifedipine,10mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+34187,36,59923020,Nifedipine 10mg Modified-release tablet (Generics (UK) Ltd),Nifedipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+47027,91,63403020,Nifedipine 10mg Modified-release tablet (Kent Pharmaceuticals Ltd),Nifedipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,March 2012
+410,791453,68508020,Nifedipine 10mg modified-release tablets,Nifedipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+28688,3456,60425020,Nifedipine 10mg modified-release tablets (A A H Pharmaceuticals Ltd),Nifedipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+49762,262,01947020,Nifedipine 10mg modified-release tablets (Alliance Healthcare (Distribution) Ltd),Nifedipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,January 2013
+63246,36,44233021,Nifedipine 10mg modified-release tablets (AM Distributions (Yorkshire) Ltd),Nifedipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,May 2015
+58990,1,47173020,Nifedipine 10mg modified-release tablets (Cubic Pharmaceuticals Ltd),Nifedipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,March 2014
+60856,19,23048021,Nifedipine 10mg modified-release tablets (Sigma Pharmaceuticals Plc),Nifedipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,August 2014
+26774,612,91013020,Nifedipine 10mg/5ml Oral suspension,Nifedipine,10mg/5ml,Oral Suspension,Oral,02060200,Calcium-channel Blockers,February 2009
+53357,6,20553020,Nifedipine 10mg/5ml oral suspension,Nifedipine,2mg/1ml,Oral suspension,Oral,02060200,Calcium-channel Blockers,January 2013
+1262,1168845,65057020,Nifedipine 12 20mg Modified-release tablet,Nifedipine,20mg,Modified-release Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+65970,2,15493021,Nifedipine 2% ointment,Nifedipine,20mg/1gram,Ointment,Rectal,01070400,Management Of Anal Fissures,April 2016
+40074,158,65054020,Nifedipine 20mg Capsule,Nifedipine,20mg,Capsule,Oral,02060200,Calcium-channel Blockers,August 2009
+737,314355,73827020,Nifedipine 20mg modified-release capsules,Nifedipine,20mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+55824,17,59219020,Nifedipine 20mg Modified-release tablet (Berk Pharmaceuticals Ltd),Nifedipine,20mg,Modified-release Tablet,,02060200,Calcium-channel Blockers,August 2013
+66236,6,63407020,Nifedipine 20mg Modified-release tablet (Kent Pharmaceuticals Ltd),Nifedipine,20mg,Modified-release Tablet,,02060200,Calcium-channel Blockers,May 2016
+37025,28311,90709020,Nifedipine 20mg modified-release tablets,Nifedipine,20mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+25919,2299,49118020,Nifedipine 20mg modified-release tablets (A A H Pharmaceuticals Ltd),Nifedipine,20mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+49338,579,01966020,Nifedipine 20mg modified-release tablets (Alliance Healthcare (Distribution) Ltd),Nifedipine,20mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,January 2013
+59163,1,47174020,Nifedipine 20mg modified-release tablets (Cubic Pharmaceuticals Ltd),Nifedipine,20mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,March 2014
+47529,172,98903020,Nifedipine 20mg/ml oral drops,Nifedipine,20mg/1ml,Oral drops,Oral,02060200,Calcium-channel Blockers,August 2012
+8213,57094,75515020,Nifedipine 24 20mg Modified-release tablet,Nifedipine,20mg,Modified-release Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+1449,345469,80873020,Nifedipine 24 30mg Modified-release tablet,Nifedipine,30mg,Modified-release Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+69202,6,33046020,Nifedipine 2mg/5ml oral suspension,Nifedipine,400microgram/1ml,Oral suspension,Oral,02060200,Calcium-channel Blockers,April 2017
+5162,103374,79993020,Nifedipine 30mg modified-release capsules,Nifedipine,30mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+30199,15420,68509020,Nifedipine 30mg modified-release tablets,Nifedipine,30mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+47614,22,60424020,Nifedipine 30mg modified-release tablets (A A H Pharmaceuticals Ltd),Nifedipine,30mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,August 2012
+69668,1,33048020,Nifedipine 30mg/5ml oral suspension,Nifedipine,6mg/1ml,Oral suspension,Oral,02060200,Calcium-channel Blockers,June 2017
+9269,30724,80875020,Nifedipine 40mg modified-release tablets,Nifedipine,40mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+269,310956,65053020,Nifedipine 5mg capsules,Nifedipine,5mg,Capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+34522,96,49116020,Nifedipine 5mg capsules (A A H Pharmaceuticals Ltd),Nifedipine,5mg,Capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+34607,51,54160020,Nifedipine 5mg capsules (IVAX Pharmaceuticals UK Ltd),Nifedipine,5mg,Capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+34975,7,54545020,Nifedipine 5mg capsules (Teva UK Ltd),Nifedipine,5mg,Capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+53990,14,20557020,Nifedipine 5mg/5ml oral suspension,Nifedipine,1mg/1ml,Oral suspension,Oral,02060200,Calcium-channel Blockers,March 2013
+9750,51755,79994020,Nifedipine 60mg modified-release capsules,Nifedipine,60mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+34115,2441,68510020,Nifedipine 60mg Modified-release tablet,Nifedipine,60mg,Modified-release Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+3930,129596,80874020,Nifedipine 60mg modified-release tablets,Nifedipine,60mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+43410,251,75517020,Nifedipine extra 60mg Modified-release tablet,Nifedipine,60mg,Modified-release Tablet,Oral,02060200,Calcium-channel Blockers,September 2010
+34146,873,61467020,Nifedipine mr 10mg Modified-release tablet (IVAX Pharmaceuticals UK Ltd),Nifedipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+34101,1183,61468020,Nifedipine mr 20mg Modified-release tablet (IVAX Pharmaceuticals UK Ltd),Nifedipine,20mg,Modified-release Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+47707,2,93331020,Nifedipine Oral solution,Nifedipine,,Oral Solution,Oral,02060200,Calcium-channel Blockers,August 2012
+25026,1,!4904103,NIFEDIPINE RETARD,,,,,00000000,Unknown,February 2009
+25044,0,!4904104,NIFEDIPINE RETARD,,,,,00000000,Unknown,February 2009
+38107,40,73256020,Nifedipine sr 30mg Tablet (Hillcross Pharmaceuticals Ltd),Nifedipine,30mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+7823,1763,06750007,NIFEDIPINE TAB 5 mg,,,,,00000000,Unknown,February 2009
+15117,9967,68850020,Nifedipine with atenolol 20mg + 50mg Capsule,Nifedipine/Atenolol,20mg + 50mg,Capsule,Oral,02040000/02060200,Beta-adrenoceptor Blocking Drugs/Calcium-channel Blockers,February 2009
+47285,2,73272020,Nifedipine xl 60mg Tablet (Hillcross Pharmaceuticals Ltd),Nifedipine,60mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,May 2012
+11512,5547,84876020,Nifedipress MR 10 tablets (Dexcel-Pharma Ltd),Nifedipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+16073,639,86867020,Nifedipress MR 10 tablets (Teva UK Ltd),Nifedipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+21245,308,85846020,Nifedipress mr 10mg Modified-release tablet (Actavis UK Ltd),Nifedipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+10135,678,86770020,Nifedipress mr 10mg Modified-release tablet (Sandoz Ltd),Nifedipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+17448,247,84211020,Nifedipress mr 10mg Modified-release tablet (Sterwin Medicines),Nifedipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+21886,2014,85847020,Nifedipress MR 20 tablets (Actavis UK Ltd),Nifedipine,20mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+10136,9486,84877020,Nifedipress MR 20 tablets (Dexcel-Pharma Ltd),Nifedipine,20mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+20591,893,86868020,Nifedipress MR 20 tablets (Teva UK Ltd),Nifedipine,20mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+20311,446,57957020,Nifedipress mr 20mg Modified-release tablet (Generics (UK) Ltd),Nifedipine,20mg,Modified-release Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+17338,49,84579020,Nifedotard 20 mr 20mg Modified-release tablet (Galen Ltd),Nifedipine,20mg,Modified-release Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+12606,270,76104020,Nifelease 20mg Modified-release tablet (Eastern Pharmaceuticals Ltd),Nifedipine,20mg,Modified-release Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+1300,22242,54944020,Nifensar xl 20mg Modified-release tablet (Rhone-Poulenc Rorer Ltd),Nifedipine,20mg,Modified-release Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+25132,239,90751020,Nifopress MR 20mg tablets (Teva UK Ltd),Nifedipine,20mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+7541,2113,57458020,Nifopress Retard 20mg tablets (AMCo),Nifedipine,20mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+71529,1,68595020,Nimodipine 10mg/50ml solution for infusion vials,Nimodipine,200microgram/1ml,Solution for infusion,Intravenous,02060200,Calcium-channel Blockers,January 2018
+11547,1902,74190020,Nimodipine 30mg tablets,Nimodipine,30mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+22217,2633,83200020,Nimodrel 10mg modified-release tablet (Opus Pharmaceuticals Ltd),Nifedipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+24228,2682,83201020,Nimodrel 20mg modified-release tablet (Opus Pharmaceuticals Ltd),Nifedipine,20mg,Modified-release Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+33025,54,90565020,Nimodrel XL 30mg tablets (Zurich Pharmaceuticals),Nifedipine,30mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+47887,9,90567020,Nimodrel XL 60mg tablets (Zurich Pharmaceuticals),Nifedipine,60mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,October 2012
+10595,829,68599020,Nimotop 30mg tablets (Bayer Plc),Nimodipine,30mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+23805,1681,83478020,Nisoldipine 10mg modified-release tablets,Nisoldipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+18038,901,83479020,Nisoldipine 20mg modified-release tablets,Nisoldipine,20mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+23823,151,83480020,Nisoldipine 30mg modified-release tablets,Nisoldipine,30mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+17342,57,86339020,Nivaten retard 10mg Modified-release tablet (Actavis UK Ltd),Nifedipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+25646,70,86340020,Nivaten retard 20mg Modified-release tablet (Actavis UK Ltd),Nifedipine,20mg,Modified-release Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+40316,4046,96923020,Olmesartan medoxomil 20mg / Amlodipine 5mg tablets,Amlodipine besilate/Olmesartan medoxomil,5mg + 20mg,Tablet,Oral,02050502/02060200,Angiotensin-ii Receptor Antagonists/Calcium-channel Blockers,September 2009
+40668,1362,96927020,Olmesartan medoxomil 40mg / Amlodipine 10mg tablets,Olmesartan medoxomil/Amlodipine besilate,40mg + 10mg,Tablet,Oral,02050502/02060200,Angiotensin-ii Receptor Antagonists/Calcium-channel Blockers,November 2009
+40639,2294,96925020,Olmesartan medoxomil 40mg / Amlodipine 5mg tablets,Olmesartan medoxomil/Amlodipine besilate,40mg + 5mg,Tablet,Oral,02050502/02060200,Angiotensin-ii Receptor Antagonists/Calcium-channel Blockers,October 2009
+46687,67,99769020,Olmesartan medoxomil with amlodipine and hydrochlorothiazide 20mg + 5mg + 12.5mg Tablet,Amlodipine/Hydrochlorothiazide/Olmesartan Medoxomil,20mg + 5mg + 12.5mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,January 2012
+46715,27,99773020,Olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 10mg + 12.5mg Tablet,Amlodipine/Hydrochlorothiazide/Olmesartan Medoxomil,40mg + 10mg + 12.5mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,January 2012
+55358,23,99777020,Olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 10mg + 25mg Tablet,Amlodipine/Hydrochlorothiazide/Olmesartan Medoxomil,40mg + 10mg + 25mg,Tablet,,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,May 2013
+46792,4,99771020,Olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 5mg + 12.5mg Tablet,Amlodipine/Hydrochlorothiazide/Olmesartan Medoxomil,40mg + 5mg + 12.5mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,February 2012
+47467,4,99775020,Olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 5mg + 25mg Tablet,Amlodipine/Hydrochlorothiazide/Olmesartan Medoxomil,40mg + 5mg + 25mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,July 2012
+21918,356,85943020,Optil 60mg modified-release tablets (Opus Pharmaceuticals Ltd),Diltiazem hydrochloride,60mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+26267,997,69393020,Optil sr 120mg Modified-release capsule (Opus Pharmaceuticals Ltd),Diltiazem Hydrochloride,120mg,Modified-release Capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+26269,349,69394020,Optil sr 180mg Modified-release capsule (Opus Pharmaceuticals Ltd),Diltiazem Hydrochloride,180mg,Modified-release Capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+23733,1608,69392020,Optil sr 90mg Modified-release capsule (Opus Pharmaceuticals Ltd),Diltiazem hydrochloride,90mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+26309,1062,77216020,Optil xl 240mg Modified-release capsule (Opus Pharmaceuticals Ltd),Diltiazem hydrochloride,240mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+26270,456,77217020,Optil xl 300mg Modified-release capsule (Opus Pharmaceuticals Ltd),Diltiazem hydrochloride,300mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+36620,16,88802020,Parmid XL 10mg tablets (Sandoz Ltd),Felodipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+60652,38,23052021,Parmid XL 2.5mg tablets (Sandoz Ltd),Felodipine,2.5mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,July 2014
+33932,17,88800020,Parmid XL 5mg tablets (Sandoz Ltd),Felodipine,5mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+60684,60,22974021,Perindopril erbumine 4mg / Amlodipine 10mg tablets,Perindopril erbumine/Amlodipine besilate,4mg + 10mg,Tablet,Oral,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,August 2014
+60067,38,22976021,Perindopril erbumine 4mg / Amlodipine 5mg tablets,Perindopril erbumine/Amlodipine besilate,4mg + 5mg,Tablet,Oral,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,May 2014
+63149,76,22978021,Perindopril erbumine 8mg / Amlodipine 10mg tablets,Amlodipine besilate/Perindopril erbumine,10mg + 8mg,Tablet,Oral,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,May 2015
+60744,105,22980021,Perindopril erbumine 8mg / Amlodipine 5mg tablets,Amlodipine besilate/Perindopril erbumine,5mg + 8mg,Tablet,Oral,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,August 2014
+43394,1,89315020,Pinefeld XL 10mg tablets (Tillomed Laboratories Ltd),Felodipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,September 2010
+7280,38554,65383020,Plendil 10mg modified-release tablets (AstraZeneca UK Ltd),Felodipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+9334,30035,65384020,Plendil 2.5mg modified-release tablets (AstraZeneca UK Ltd),Felodipine,2.5mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+9437,64212,65382020,Plendil 5mg modified-release tablets (AstraZeneca UK Ltd),Felodipine,5mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+64504,0,02030020,Plendil 5mg modified-release tablets (Necessity Supplies Ltd),Felodipine,5mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,October 2015
+3931,83,84204020,Posicor 100mg Tablet (Roche Products Ltd),Mibefradil,100mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+1529,474,84203020,Posicor 50mg Tablet (Roche Products Ltd),Mibefradil,50mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+8257,9684,69560020,Prescal 2.5mg tablets (Novartis Pharmaceuticals UK Ltd),Isradipine,2.5mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+11965,1413,81445020,Ramipril 2.5mg with felodipine 2.5mg modified-release tablet,Felodipine/Ramipril,2.5mg + 2.5mg,Modified Release Tablet,Oral,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,February 2009
+11567,8674,81446020,Ramipril 5mg with felodipine 5mg modified-release tablet,Felodipine/Ramipril,5mg + 5mg,Modified Release Tablet,Oral,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,February 2009
+19457,0,84468020,Ranvera MR 240mg tablets (Ranbaxy (UK) Ltd),Verapamil hydrochloride,240mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+21795,706,50256020,Retalzem 60 modified-release tablets (Kent Pharmaceuticals Ltd),Diltiazem hydrochloride,60mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+18690,36,04427007,SECURON (CALENDAR PACK) 120 MG TAB,,,,,00000000,Unknown,February 2009
+3057,9986,58377020,Securon 120mg tablets (Abbott Laboratories Ltd),Verapamil hydrochloride,120mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+22826,164,56814020,Securon 160mg Tablet (Abbott Laboratories Ltd),Verapamil hydrochloride,160mg,Tablet,Oral,02030202/02060200,Supraventricular Arrhythmias/Calcium-channel Blockers,February 2009
+8524,2313,58375020,Securon 40mg Tablet (Abbott Laboratories Ltd),Verapamil hydrochloride,40mg,Tablet,Oral,02030202/02060200,Supraventricular Arrhythmias/Calcium-channel Blockers,February 2009
+10832,2429,58376020,Securon 80mg Tablet (Abbott Laboratories Ltd),Verapamil hydrochloride,80mg,Tablet,Oral,02030202/02060200,Supraventricular Arrhythmias/Calcium-channel Blockers,February 2009
+27295,1,70927020,Securon IV 5mg/2ml solution for injection ampoules (Mylan),Verapamil hydrochloride,2.5mg/1ml,Solution for injection,Intravenous,02060200,Calcium-channel Blockers,February 2009
+59264,0,00872020,Securon SR 240mg tablets (DE Pharmaceuticals),Verapamil hydrochloride,240mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,April 2014
+3342,314603,58870020,Securon SR 240mg tablets (Mylan),Verapamil hydrochloride,240mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+51461,0,00865020,Securon SR 240mg tablets (Waymade Healthcare Plc),Verapamil hydrochloride,240mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,January 2013
+39984,1635,96929020,Sevikar 20mg/5mg tablets (Daiichi Sankyo UK Ltd),Amlodipine besilate/Olmesartan medoxomil,5mg + 20mg,Tablet,Oral,02050502/02060200,Angiotensin-ii Receptor Antagonists/Calcium-channel Blockers,August 2009
+41203,451,96933020,Sevikar 40mg/10mg tablets (Daiichi Sankyo UK Ltd),Olmesartan medoxomil/Amlodipine besilate,40mg + 10mg,Tablet,Oral,02050502/02060200,Angiotensin-ii Receptor Antagonists/Calcium-channel Blockers,February 2010
+41205,518,96931020,Sevikar 40mg/5mg tablets (Daiichi Sankyo UK Ltd),Olmesartan medoxomil/Amlodipine besilate,40mg + 5mg,Tablet,Oral,02050502/02060200,Angiotensin-ii Receptor Antagonists/Calcium-channel Blockers,February 2010
+46355,472,99779020,Sevikar HCT 20mg/5mg/12.5mg tablets (Daiichi Sankyo UK Ltd),Hydrochlorothiazide/Olmesartan medoxomil/Amlodipine besilate,12.5mg + 20mg + 5mg,Tablet,Oral,02050502,Angiotensin-ii Receptor Antagonists,October 2011
+47616,288,99785020,Sevikar HCT 40mg/10mg/12.5mg tablets (Daiichi Sankyo UK Ltd),Amlodipine besilate/Hydrochlorothiazide/Olmesartan medoxomil,10mg + 12.5mg + 40mg,Tablet,Oral,02050502,Angiotensin-ii Receptor Antagonists,August 2012
+53220,152,99791020,Sevikar HCT 40mg/10mg/25mg tablets (Daiichi Sankyo UK Ltd),Hydrochlorothiazide/Amlodipine besilate/Olmesartan medoxomil,25mg + 10mg + 40mg,Tablet,Oral,02050502,Angiotensin-ii Receptor Antagonists,January 2013
+47573,212,99783020,Sevikar HCT 40mg/5mg/12.5mg tablets (Daiichi Sankyo UK Ltd),Amlodipine besilate/Hydrochlorothiazide/Olmesartan medoxomil,5mg + 12.5mg + 40mg,Tablet,Oral,02050502,Angiotensin-ii Receptor Antagonists,August 2012
+47727,41,99789020,Sevikar HCT 40mg/5mg/25mg tablets (Daiichi Sankyo UK Ltd),Hydrochlorothiazide/Amlodipine besilate/Olmesartan medoxomil,25mg + 5mg + 40mg,Tablet,Oral,02050502,Angiotensin-ii Receptor Antagonists,August 2012
+22696,80,84383020,Slofedipine 20mg tablets (Sterwin Medicines),Nifedipine,20mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+9573,3535,54677020,Slofedipine XL 30mg tablets (Zentiva),Nifedipine,30mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+9553,1709,54678020,Slofedipine XL 60 tablets (Zentiva),Nifedipine,60mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+2528,104037,76293020,Slozem 120mg capsules (Merck Serono Ltd),Diltiazem hydrochloride,120mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+5234,92880,76294020,Slozem 180mg capsules (Merck Serono Ltd),Diltiazem hydrochloride,180mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+4408,113887,76295020,Slozem 240mg capsules (Merck Serono Ltd),Diltiazem hydrochloride,240mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+17586,42042,80135020,Slozem 300mg capsules (Merck Serono Ltd),Diltiazem hydrochloride,300mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+7681,90,51782020,Synadrin 60mg Tablet (Hoechst UK Ltd),Prenylamine Lactate,60mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+19129,373,83487020,Syscor MR 10 tablets (Forest Laboratories UK Ltd),Nisoldipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+31337,124,83488020,Syscor MR 20 tablets (Forest Laboratories UK Ltd),Nisoldipine,20mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+31336,59,83489020,Syscor MR 30 tablets (Forest Laboratories UK Ltd),Nisoldipine,30mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+20579,3580,85903020,Tarka modified-release capsules (Abbott Laboratories Ltd),Verapamil hydrochloride/Trandolapril,180mg + 2mg,Modified-release capsule,Oral,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,February 2009
+8642,104158,68652020,Tenif 50mg/20mg modified-release capsules (AstraZeneca UK Ltd),Atenolol/Nifedipine,50mg + 20mg,Modified-release capsule,Oral,02040000/02060200,Beta-adrenoceptor Blocking Drugs/Calcium-channel Blockers,February 2009
+19170,14777,82932020,Tensipine MR 10 tablets (Thornton & Ross Ltd),Nifedipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+5806,21673,82933020,Tensipine MR 20 tablets (Thornton & Ross Ltd),Nifedipine,20mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+56467,132,01909020,Tildiem 60mg modified-release tablets (DE Pharmaceuticals),Diltiazem hydrochloride,60mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,August 2013
+2888,212188,62586020,Tildiem 60mg modified-release tablets (Sanofi),Diltiazem hydrochloride,60mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+57594,4,01906020,Tildiem 60mg modified-release tablets (Waymade Healthcare Plc),Diltiazem hydrochloride,60mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,October 2013
+52701,1,01902020,Tildiem LA 200 capsules (Mawdsley-Brooks & Company Ltd),Diltiazem hydrochloride,200mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,January 2013
+38545,217623,95521020,Tildiem LA 200 capsules (Sanofi),Diltiazem hydrochloride,200mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+536,261490,62588020,Tildiem la 200mg Modified-release capsule (Sanofi),Diltiazem hydrochloride,200mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+54799,1,01878020,Tildiem LA 300 capsules (Mawdsley-Brooks & Company Ltd),Diltiazem hydrochloride,300mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,April 2013
+38876,128768,95519020,Tildiem LA 300 capsules (Sanofi),Diltiazem hydrochloride,300mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+5296,157207,62587020,Tildiem la 300mg Modified-release capsule (Sanofi),Diltiazem hydrochloride,300mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+66048,0,11004020,Tildiem Retard 120mg tablets (DE Pharmaceuticals),Diltiazem hydrochloride,120mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,April 2016
+51261,0,11007020,Tildiem Retard 120mg tablets (Mawdsley-Brooks & Company Ltd),Diltiazem hydrochloride,120mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,January 2013
+1289,263507,60297020,Tildiem Retard 120mg tablets (Sanofi),Diltiazem hydrochloride,120mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+70961,1,01872020,Tildiem Retard 90mg tablets (DE Pharmaceuticals),Diltiazem hydrochloride,90mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,December 2017
+939,386808,60296020,Tildiem Retard 90mg tablets (Sanofi),Diltiazem hydrochloride,90mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+18223,761,85883020,Trandolapril with verapamil 2mg + 180mg Modified-release capsule,Verapamil Hydrochloride/Trandolapril,2mg + 180mg,Modified-release Capsule,Oral,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,February 2009
+28438,53,85815020,Triapin 2.5mg/2.5mg modified-release tablets (Sanofi),Felodipine/Ramipril,2.5mg + 2.5mg,Modified-release tablet,Oral,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,February 2009
+17006,1192,85824020,Triapin 5mg/5mg modified-release tablets (Sanofi),Felodipine/Ramipril,5mg + 5mg,Modified-release tablet,Oral,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,February 2009
+59585,0,47168020,Uard 120XL capsules (Ennogen Healthcare Ltd),Diltiazem hydrochloride,120mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,April 2014
+66172,2,47169020,Uard 180XL capsules (Ennogen Healthcare Ltd),Diltiazem hydrochloride,180mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,May 2016
+66834,1,47170020,Uard 240XL capsules (Ennogen Healthcare Ltd),Diltiazem hydrochloride,240mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,July 2016
+67890,4,47165020,Uard 300XL capsules (Ennogen Healthcare Ltd),Diltiazem hydrochloride,300mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,October 2016
+12613,327,81213020,Unipine xl 30mg Modified-release tablet (Genus Pharmaceuticals Ltd),Nifedipine,30mg,Modified-release Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+6510,61179,68477020,Univer 120mg modified-release capsules (Teva UK Ltd),Verapamil hydrochloride,120mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+12392,26588,68478020,Univer 180mg modified-release capsules (Teva UK Ltd),Verapamil hydrochloride,180mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+8945,57062,68479020,Univer 240mg modified-release capsules (Teva UK Ltd),Verapamil hydrochloride,240mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+43222,57,97381020,Valni 20 Retard tablets (Tillomed Laboratories Ltd),Nifedipine,20mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,August 2010
+37184,605,94184020,Valni XL 30mg tablets (Zentiva),Nifedipine,30mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+39800,260,94186020,Valni XL 60mg tablets (Zentiva),Nifedipine,60mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,July 2009
+35304,1808,92957020,Valsartan 160mg with amlodipine 10mg tablets,Amlodipine Besilate/Valsartan,160mg + 10mg,Tablets,Oral,02050502/02060200,Angiotensin-ii Receptor Antagonists/Calcium-channel Blockers,February 2009
+35173,2155,92953020,Valsartan 160mg with amlodipine 5mg tablets,Amlodipine Besilate/Valsartan,160mg + 5mg,Tablets,Oral,02050502/02060200,Angiotensin-ii Receptor Antagonists/Calcium-channel Blockers,February 2009
+35174,2172,92951020,Valsartan 80mg with amlodipine 5mg tablets,Amlodipine Besilate/Valsartan,80mg + 5mg,Tablets,Oral,02050502/02060200,Angiotensin-ii Receptor Antagonists/Calcium-channel Blockers,February 2009
+14305,356,87544020,Vascalpha 10mg modified-release tablets (Actavis UK Ltd),Felodipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+43790,32,92017020,Vascalpha 10mg modified-release tablets (Almus Pharmaceuticals Ltd),Felodipine,10mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,October 2010
+35084,636,87542020,Vascalpha 5mg modified-release tablets (Actavis UK Ltd),Felodipine,5mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+40633,8,92015020,Vascalpha 5mg modified-release tablets (Almus Pharmaceuticals Ltd),Felodipine,5mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,October 2009
+23730,1,05613007,VERAPAMIL 100 MG TAB,,,,,00000000,Unknown,February 2009
+1574,181984,68472020,Verapamil 120mg modified-release capsules,Verapamil hydrochloride,120mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+9569,89074,65404020,Verapamil 120mg modified-release tablets,Verapamil hydrochloride,120mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+47222,60,75703020,Verapamil 120mg modified-release tablets (A A H Pharmaceuticals Ltd),Verapamil hydrochloride,120mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,May 2012
+1747,134676,65397020,Verapamil 120mg tablets,Verapamil hydrochloride,120mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+46009,4,63423020,Verapamil 120mg tablets (Kent Pharmaceuticals Ltd),Verapamil hydrochloride,120mg,Tablet,Oral,02060200,Calcium-channel Blockers,August 2011
+41693,1,60641020,Verapamil 120mg tablets (Mylan),Verapamil hydrochloride,120mg,Tablet,Oral,02060200,Calcium-channel Blockers,March 2010
+40405,66,54552020,Verapamil 120mg tablets (Teva UK Ltd),Verapamil hydrochloride,120mg,Tablet,Oral,02060200,Calcium-channel Blockers,September 2009
+10688,27059,69592020,Verapamil 160mg tablets,Verapamil hydrochloride,160mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+19690,7090,85865020,Verapamil 180mg modified-release / Trandolapril 2mg capsules,Verapamil hydrochloride/Trandolapril,180mg + 2mg,Modified-release capsule,Oral,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,February 2009
+8975,39524,68473020,Verapamil 180mg modified-release capsules,Verapamil hydrochloride,180mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+3943,167690,68474020,Verapamil 240mg modified-release capsules,Verapamil hydrochloride,240mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+1298,237719,65403020,Verapamil 240mg modified-release tablets,Verapamil hydrochloride,240mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+19459,188,51963020,Verapamil 240mg modified-release tablets (A A H Pharmaceuticals Ltd),Verapamil hydrochloride,240mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+45308,129,71935020,Verapamil 240mg modified-release tablets (Mylan),Verapamil hydrochloride,240mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,May 2011
+47230,1,59413020,Verapamil 240mg modified-release tablets (Teva UK Ltd),Verapamil hydrochloride,240mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,May 2012
+1118,388438,65395020,Verapamil 40mg tablets,Verapamil hydrochloride,40mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+34959,6,50799020,Verapamil 40mg tablets (A A H Pharmaceuticals Ltd),Verapamil hydrochloride,40mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+33471,45,56374020,Verapamil 40mg tablets (Actavis UK Ltd),Verapamil hydrochloride,40mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+19175,99,56208020,Verapamil 40mg tablets (IVAX Pharmaceuticals UK Ltd),Verapamil hydrochloride,40mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+71009,0,65538020,Verapamil 40mg tablets (Kent Pharmaceuticals Ltd),Verapamil hydrochloride,40mg,Tablet,Oral,02060200,Calcium-channel Blockers,December 2017
+32590,39,60639020,Verapamil 40mg tablets (Mylan),Verapamil hydrochloride,40mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+39009,255,54550020,Verapamil 40mg tablets (Teva UK Ltd),Verapamil hydrochloride,40mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+11777,2834,75258020,Verapamil 40mg/5ml oral solution sugar free,Verapamil hydrochloride,8mg/1ml,Oral solution,Oral,02060200,Calcium-channel Blockers,February 2009
+68531,1,33673020,Verapamil 40mg/5ml oral suspension,Verapamil hydrochloride,8mg/1ml,Oral suspension,Oral,02060200,Calcium-channel Blockers,January 2017
+26674,22,68346020,Verapamil 5mg/2ml solution for injection ampoules,Verapamil hydrochloride,2.5mg/1ml,Solution for injection,Intravenous,02060200,Calcium-channel Blockers,February 2009
+1120,250175,65396020,Verapamil 80mg tablets,Verapamil hydrochloride,80mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+31711,482,50800020,Verapamil 80mg tablets (A A H Pharmaceuticals Ltd),Verapamil hydrochloride,80mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+41586,26,56375020,Verapamil 80mg tablets (Actavis UK Ltd),Verapamil hydrochloride,80mg,Tablet,Oral,02060200,Calcium-channel Blockers,March 2010
+62552,0,00861020,Verapamil 80mg tablets (Alliance Healthcare (Distribution) Ltd),Verapamil hydrochloride,80mg,Tablet,Oral,02060200,Calcium-channel Blockers,March 2015
+41679,27,56209020,Verapamil 80mg tablets (IVAX Pharmaceuticals UK Ltd),Verapamil hydrochloride,80mg,Tablet,Oral,02060200,Calcium-channel Blockers,March 2010
+46955,19,60640020,Verapamil 80mg tablets (Mylan),Verapamil hydrochloride,80mg,Tablet,Oral,02060200,Calcium-channel Blockers,March 2012
+35729,107,54551020,Verapamil 80mg tablets (Teva UK Ltd),Verapamil hydrochloride,80mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+45051,51,56381020,Verapamil hc 240mg Modified-release tablet (Actavis UK Ltd),Verapamil hydrochloride,240mg,Modified-release tablet,Oral,02030202/02060200,Supraventricular Arrhythmias/Calcium-channel Blockers,April 2011
+46884,211,65991020,Verapamil hc 240mg Modified-release tablet (Sandoz Ltd),Verapamil hydrochloride,240mg,Modified-release tablet,Oral,02030202/02060200,Supraventricular Arrhythmias/Calcium-channel Blockers,March 2012
+28843,2,50788020,Verapamil hc 80mg Tablet (Celltech Pharma Europe Ltd),Verapamil hydrochloride,80mg,Tablet,Oral,02030202/02060200,Supraventricular Arrhythmias/Calcium-channel Blockers,February 2009
+8759,8366,56680020,Verapamil hcl 120mg modified release tablets,Verapamil Hydrochloride,120mg,Modified Release Tablet,Oral,02030202/02060200,Supraventricular Arrhythmias/Calcium-channel Blockers,February 2009
+18631,4,!8504107,VERAPAMIL HCL MR,,,,,00000000,Unknown,February 2009
+10897,250,03117007,VERAPAMIL S/F 40 MG/5ML SOL,,,,,00000000,Unknown,February 2009
+23458,0,!7642107,VERAPAMIL SR,,,,,00000000,Unknown,February 2009
+13856,1824,84570020,Verapress MR 240mg tablets (Actavis UK Ltd),Verapamil hydrochloride,240mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+16328,4614,78409020,Verapress MR 240mg tablets (Dexcel-Pharma Ltd),Verapamil hydrochloride,240mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+17599,55,88811020,Verapress MR 240mg tablets (Sandoz Ltd),Verapamil hydrochloride,240mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+29637,6,89660020,Verapress MR 240mg tablets (Teva UK Ltd),Verapamil hydrochloride,240mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+42625,471,97882020,Vera-Til SR 120mg tablets (Actavis UK Ltd),Verapamil hydrochloride,120mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,June 2010
+700,2120,84862020,Vera-Til SR 120mg tablets (Tillomed Laboratories Ltd),Verapamil hydrochloride,120mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+43879,192,97884020,Vera-Til SR 240mg tablets (Actavis UK Ltd),Verapamil hydrochloride,240mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,November 2010
+13251,1119,78368020,Vera-Til SR 240mg tablets (Tillomed Laboratories Ltd),Verapamil hydrochloride,240mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+11972,32875,86724020,Vertab SR 240 tablets (Chiesi Ltd),Verapamil hydrochloride,240mg,Modified-release tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+2592,33292,84421020,Viazem XL 120mg capsules (Thornton & Ross Ltd),Diltiazem hydrochloride,120mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+17666,39233,84422020,Viazem XL 180mg capsules (Thornton & Ross Ltd),Diltiazem hydrochloride,180mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+13027,35183,84423020,Viazem XL 240mg capsules (Thornton & Ross Ltd),Diltiazem hydrochloride,240mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+1130,23819,84427020,Viazem XL 300mg capsules (Thornton & Ross Ltd),Diltiazem hydrochloride,300mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+7398,39802,84428020,Viazem XL 360mg capsules (Thornton & Ross Ltd),Diltiazem hydrochloride,360mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+5570,46569,85619020,Zanidip 10mg tablets (Recordati Pharmaceuticals Ltd),Lercanidipine hydrochloride,10mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+14300,4817,90707020,Zanidip 20mg tablets (Recordati Pharmaceuticals Ltd),Lercanidipine hydrochloride,20mg,Tablet,Oral,02060200,Calcium-channel Blockers,February 2009
+47732,45,97275020,Zemret 180 XL capsules (Tillomed Laboratories Ltd),Diltiazem hydrochloride,180mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,August 2012
+44192,86,97277020,Zemret 240 XL capsules (Tillomed Laboratories Ltd),Diltiazem hydrochloride,240mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,December 2010
+47608,46,97279020,Zemret 300 XL capsules (Tillomed Laboratories Ltd),Diltiazem hydrochloride,300mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,August 2012
+36583,2,81080020,Zemret xl 180mg Capsule (Neo Laboratories Ltd),Diltiazem Hydrochloride,180mg,Capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+26463,6,81081020,Zemret xl 240mg Capsule (Neo Laboratories Ltd),Diltiazem hydrochloride,240mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+36664,1,81082020,Zemret xl 300mg Capsule (Neo Laboratories Ltd),Diltiazem hydrochloride,300mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+17425,18931,84733020,Zemtard 120 XL capsules (Galen Ltd),Diltiazem hydrochloride,120mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+17406,22032,84734020,Zemtard 180 XL capsules (Galen Ltd),Diltiazem hydrochloride,180mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+20890,15217,86888020,Zemtard 240 XL capsules (Galen Ltd),Diltiazem hydrochloride,240mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+17492,18866,84732020,Zemtard 300 XL capsules (Galen Ltd),Diltiazem hydrochloride,300mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+31737,9,80910020,Zildil SR 120mg capsules (Chanelle Medical UK Ltd),Diltiazem hydrochloride,120mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+26759,38,80908020,Zildil SR 60mg capsules (Chanelle Medical UK Ltd),Diltiazem hydrochloride,60mg,Modified-release capsule,Oral,02060200,Calcium-channel Blockers,February 2009
+31490,170,81761020,Zolvera 40mg/5ml oral solution (Rosemont Pharmaceuticals Ltd),Verapamil hydrochloride,8mg/1ml,Oral solution,Oral,02060200,Calcium-channel Blockers,February 2009
