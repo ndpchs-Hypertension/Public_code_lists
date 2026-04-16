@@ -1,0 +1,326 @@
+medcode,readcode,readterm,incident
+241,G30..00,Acute myocardial infarction,incident
+1204,G30..14,Heart attack,incident
+1677,G30..15,MI - acute myocardial infarction,incident
+1678,G308.00,Inferior myocardial infarction NOS,incident
+2491,G30..12,Coronary thrombosis,incident
+3704,G307.00,Acute subendocardial infarction,incident
+4017,G32..00,Old myocardial infarction,history
+5387,G301.00,Other specified anterior myocardial infarction,incident
+7783,323..00,ECG: myocardial infarction,incident
+8935,G302.00,Acute inferolateral infarction,incident
+9507,G307000,Acute non-Q wave infarction,incident
+9555,G33z500,Post infarct angina,history
+10562,G307100,Acute non-ST segment elevation myocardial infarction,incident
+12139,G300.00,Acute anterolateral infarction,incident
+12229,G30X000,Acute ST segment elevation myocardial infarction,incident
+13566,G30..11,Attack - heart,incident
+13571,G30..16,Thrombosis - coronary,incident
+14658,G30z.00,Acute myocardial infarction NOS,incident
+14897,G301z00,Anterior myocardial infarction NOS,incident
+14898,G305.00,Lateral myocardial infarction NOS,incident
+15661,G310.11,Dressler's syndrome,incident
+16408,G32..11,Healed myocardial infarction,history
+17464,G32..12,Personal history of myocardial infarction,history
+17689,G30..17,Silent myocardial infarction,incident
+17872,G301100,Acute anteroseptal infarction,incident
+18842,G35..00,Subsequent myocardial infarction,incident
+23579,G310.00,Postmyocardial infarction syndrome,history
+23708,G361.00,Atrial septal defect/curr comp folow acut myocardal infarct,incident
+23892,G304.00,Posterior myocardial infarction NOS,incident
+24126,G360.00,Haemopericardium/current comp folow acut myocard infarct,incident
+26972,3234,ECG:posterior/inferior infarct,incident
+26975,3233,ECG: antero-septal infarct.,incident
+29553,G366.00,"Thrombosis atrium,auric append&vent/curr comp foll acute MI",incident
+29643,G303.00,Acute inferoposterior infarction,incident
+29758,G30X.00,Acute transmural myocardial infarction of unspecif site,incident
+30330,G309.00,Acute Q-wave infarct,incident
+30421,G30..13,Cardiac rupture following myocardial infarction (MI),incident
+32272,G38..00,Postoperative myocardial infarction,incident
+32854,G30B.00,Acute posterolateral myocardial infarction,incident
+33650,7929100,Percut transluminal coronary thrombolysis with streptokinase,incident
+34803,G30y.00,Other acute myocardial infarction,incident
+35119,G501.00,Post infarction pericarditis,incident
+35674,14A3.00,H/O: myocardial infarct <60,history
+36423,G36..00,Certain current complication follow acute myocardial infarct,incident
+37657,G362.00,Ventric septal defect/curr comp fol acut myocardal infarctn,incident
+38609,G351.00,Subsequent myocardial infarction of inferior wall,incident
+39904,3232,ECG: old myocardial infarction,history
+40399,14A4.00,H/O: myocardial infarct >60,history
+40429,G301000,Acute anteroapical infarction,incident
+40996,7929111,Percut translum coronary thrombolytic therapy- streptokinase,incident
+41221,G30y200,Acute septal infarction,incident
+41835,G384.00,Postoperative subendocardial myocardial infarction,incident
+45809,G350.00,Subsequent myocardial infarction of anterior wall,incident
+46017,G30yz00,Other acute myocardial infarction NOS,incident
+46112,G380.00,Postoperative transmural myocardial infarction anterior wall,incident
+46166,G35X.00,Subsequent myocardial infarction of unspecified site,incident
+46276,G381.00,Postoperative transmural myocardial infarction inferior wall,incident
+50372,14AH.00,H/O: Myocardial infarction in last year,history
+52705,3236,ECG: lateral infarction,incident
+55401,3235,ECG: subendocardial infarct,incident
+59032,323Z.00,ECG: myocardial infarct NOS,incident
+59189,G363.00,Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI,incident
+59940,G364.00,Ruptur chordae tendinae/curr comp fol acute myocard infarct,incident
+61670,889A.00,Diab mellit insulin-glucose infus acute myocardial infarct,incident
+62626,G30y100,Acute papillary muscle infarction,incident
+63467,G306.00,True posterior myocardial infarction,incident
+68748,G38z.00,"Postoperative myocardial infarction, unspecified",incident
+69474,G365.00,Rupture papillary muscle/curr comp fol acute myocard infarct,incident
+70440,8B3g.00,Pain to thrombolysis time,incident
+72562,G353.00,Subsequent myocardial infarction of other sites,incident
+94504,8B3a.00,Door to needle time,incident
+96838,Gyu3400,[X]Acute transmural myocardial infarction of unspecif site,incident
+97001,44p2.00,Cardiac troponin positive,incident
+99991,Gyu3600,[X]Subsequent myocardial infarction of unspecified site,incident
+100139,14AT.00,History of myocardial infarction,history
+106812,G383.00,Postoperative transmural myocardial infarction unspec site,incident
+109035,Gyu3500,[X]Subsequent myocardial infarction of other sites,incident
+240,NA,ischaemic heart disease,NA
+732,NA,transluminal balloon angioplasty of coronary artery nos,NA
+733,NA,percutaneous transluminal angioplasty of artery nec,NA
+737,NA,coronary artery bypass graft operations,NA
+1021,NA,coronary arteriograph.abnormal,NA
+1344,NA,coronary artery disease,NA
+1414,NA,angina on effort,NA
+1430,NA,angina pectoris,NA
+1431,NA,unstable angina,NA
+1490,NA,heart disease nos,NA
+1537,NA,Heart disease monitoring,NA
+1655,NA,triple vessel disease of the heart,NA
+1676,NA,ischaemic heart disease nos,NA
+1792,NA,ihd - ischaemic heart disease,NA
+1811,NA,other heart disease nos,NA
+2155,NA,Ventricular cardiac aneurysm,NA
+2901,NA,transluminal balloon angioplasty of coronary artery,NA
+3159,NA,other specified other bypass of coronary artery,NA
+3468,NA,Cardiac disease monitoring,NA
+3999,NA,single coronary vessel disease,NA
+4656,NA,crescendo angina,NA
+4827,NA,Ventricular fibrillation,NA
+5030,NA,[v]presence of coronary artery bypass graft,NA
+5221,NA,cardiac enzymes abnormal,NA
+5254,NA,double coronary vessel disease,NA
+5413,NA,coronary atherosclerosis,NA
+5674,NA,[v]presence of coronary artery bypass graft - cabg,NA
+5703,NA,percutaneous balloon coronary angioplasty,NA
+5744,NA,open angioplasty of coronary artery,NA
+6331,NA,Aneurysm of heart,NA
+6336,NA,h/o: angina pectoris,NA
+6980,NA,[v]status following coronary angioplasty nos,NA
+7134,NA,other autograft bypass of coronary artery,NA
+7137,NA,saphenous vein graft replacement of coronary artery os,NA
+7320,NA,Ischaemic cardiomyopathy,NA
+7347,NA,unstable angina,NA
+7442,NA,saphenous vein graft replacement of three coronary arteries,NA
+7609,NA,other autograft replacement of coronary artery nos,NA
+7634,NA,saphenous vein graft replacement of two coronary arteries,NA
+7696,NA,syncope anginosa,NA
+8246,NA,ecg: myocardial ischaemia,NA
+8312,NA,saphenous vein graft bypass of coronary artery,NA
+8516,NA,Cardiac rehabilitation,NA
+8679,NA,saphenous vein graft replacement of one coronary artery,NA
+8942,NA,insertion of coronary artery stent,NA
+9276,NA,acute coronary insufficiency,NA
+9413,NA,other acute and subacute ischaemic heart disease,NA
+9414,NA,other autograft replacement of coronary artery,NA
+10109,NA,Heart diseases,NA
+10127,NA,Referral to cardiac rehabilitation nurse,NA
+10209,NA,autograft replacement of three coronary arteries nec,NA
+10260,NA,coronary heart disease review,NA
+11048,NA,variant angina pectoris,NA
+11610,NA,saphenous vein graft replacement of four+ coronary arteries,NA
+11648,NA,coronary heart disease medication review,NA
+11983,NA,acute coronary syndrome,NA
+12734,NA,coronary artery bypass graft occlusion,NA
+12804,NA,stable angina,NA
+13185,NA,angina control,NA
+13187,NA,CHD monitoring,NA
+13250,NA,Cardiac diseases,NA
+14782,NA,angina control - improving,NA
+15349,NA,angina control nos,NA
+15373,NA,angina control - poor,NA
+15754,NA,other chronic ischaemic heart disease nos,NA
+17133,NA,mural thrombosis,NA
+17307,NA,angina at rest,NA
+17681,NA,Cardiac disease monitoring NOS,NA
+18030,NA,percut translum thrombolysis femoral graft streptokinase,NA
+18118,NA,worsening angina,NA
+18125,NA,nocturnal angina,NA
+18134,NA,Chest pain on exertion,NA
+18135,NA,coronary heart disease annual review,NA
+18150,NA,Coronary heart disease monitoring administration,NA
+18218,NA,Cardiac rehabilitation class,NA
+18249,NA,saphenous vein graft replacement of coronary artery,NA
+18643,NA,[v]presence of coronary angioplasty implant and graft,NA
+18670,NA,percut transluminal balloon angioplasty one coronary artery,NA
+18889,NA,asymptomatic coronary heart disease,NA
+18913,NA,[v]presence of aortocoronary bypass graft,NA
+19046,NA,rotary blade coronary angioplasty,NA
+19067,NA,Under care of cardiac rehabilitation nurse,NA
+19185,NA,Cardiovascular disease monitoring,NA
+19193,NA,prosthetic replacement of coronary artery nos,NA
+19250,NA,Cardiac rehabilitation declined,NA
+19402,NA,prosthetic replacement of coronary artery,NA
+19413,NA,autograft replacement of two coronary arteries nec,NA
+19542,NA,angina control - good,NA
+19655,NA,angina at rest,NA
+19744,NA,Coronary heart disease monitoring refused,NA
+19827,NA,Positive exercise ECG test,NA
+20095,NA,angina decubitus,NA
+20416,NA,atherosclerotic heart disease,NA
+20903,NA,peroperative angioplasty,NA
+21844,NA,transient myocardial ischaemia,NA
+22020,NA,endarterectomy of coronary artery nec,NA
+22383,NA,other specified ischaemic heart disease,NA
+22647,NA,lima single anastomosis,NA
+22828,NA,percutaneous transluminal laser coronary angioplasty,NA
+23078,NA,chronic myocardial ischaemia,NA
+23098,NA,[V]Cardiac rehabilitation,NA
+24540,NA,chronic coronary insufficiency,NA
+24783,NA,arteriosclerotic heart disease,NA
+25814,NA,Coronary heart disease monitoring 1st letter,NA
+25842,NA,angina pectoris nos,NA
+26863,NA,new onset angina,NA
+26973,NA,ecg:shows myocardial ischaemia,NA
+27484,NA,Cardiac aneurysm,NA
+27951,NA,other acute and subacute ischaemic heart disease,NA
+27977,NA,other acute and subacute ischaemic heart disease nos,NA
+28138,NA,other chronic ischaemic heart disease,NA
+28554,NA,angina pectoris nos,NA
+28736,NA,acute atrial infarction,NA
+28837,NA,creation of bypass from mammary artery to coronary artery,NA
+29300,NA,angina control - worsening,NA
+29421,NA,silent myocardial ischaemia,NA
+29902,NA,angina decubitus nos,NA
+30171,NA,other forms of heart disease,NA
+30963,NA,suspected ischaemic heart disease,NA
+31519,NA,double implant of mammary arteries into coronary arteries,NA
+31540,NA,revision of bypass for three coronary arteries,NA
+31556,NA,allograft replacement of coronary artery,NA
+32450,NA,ischaemic chest pain,NA
+32526,NA,h/o: heart disease nos,NA
+32651,NA,allograft bypass of coronary artery,NA
+33461,NA,revision of bypass for coronary artery,NA
+33471,NA,other bypass of coronary artery nos,NA
+33718,NA,double anastomosis of mammary arteries to coronary arteries,NA
+33735,NA,percut translum balloon angioplasty mult coronary arteries,NA
+34207,NA,Coronary heart disease monitoring 2nd letter,NA
+34328,NA,refractory angina,NA
+34329,NA,Coronary heart disease monitoring 3rd letter,NA
+34633,NA,other specified chronic ischaemic heart disease,NA
+34952,NA,ecg: q wave,NA
+34963,NA,other bypass of coronary artery,NA
+35277,NA,Refuses coronary heart disease monitoring,NA
+35287,NA,ecg: myocardial ischaemia nos,NA
+35373,NA,Attends coronary heart disease monitoring,NA
+35382,NA,angiocardiography abnormal,NA
+35713,NA,other specified chronic ischaemic heart disease nos,NA
+36011,NA,prosthetic bypass of coronary artery,NA
+36193,NA,other specified heart disease,NA
+36523,NA,preinfarction syndrome,NA
+36609,NA,atherosclerotic cardiovascular disease,NA
+36854,NA,coronary artery spasm,NA
+37682,NA,connection of mammary artery to coronary artery,NA
+37719,NA,connection of mammary artery to coronary artery os,NA
+37908,NA,Coronary heart disease monitoring verbal invitation,NA
+37990,NA,Cardiac rehabilitation - phase 1,NA
+37991,NA,Cardiac rehabilitation - phase 2,NA
+38813,NA,rotary blade angioplasty,NA
+39449,NA,coronary thrombosis not resulting in myocardial infarction,NA
+39500,NA,Coronary heart disease monitoring check done,NA
+39546,NA,[x]other forms of angina pectoris,NA
+39655,NA,impending infarction,NA
+39693,NA,subendocardial ischaemia,NA
+41032,NA,Cardiac rehabilitation - phase 3,NA
+41179,NA,Other ill-defined heart disease NOS,NA
+41547,NA,transluminal balloon angioplasty of coronary artery os,NA
+41677,NA,Aneurysm of heart NOS,NA
+42104,NA,ecg: s-t depression,NA
+42304,NA,insertion of drug-eluting coronary artery stent,NA
+42462,NA,percut translum balloon angioplasty bypass graft coronary a,NA
+42708,NA,autograft replacement of four of more coronary arteries nec,NA
+43939,NA,perc translumin balloon angioplasty stenting coronary artery,NA
+44348,NA,percutaneous transluminal thrombolysis of artery,NA
+44561,NA,autograft replacement of one coronary artery nec,NA
+45370,NA,allograft replacement of four or more coronary arteries,NA
+45476,NA,h/o: treatment for ischaemic heart disease,NA
+45886,NA,allograft replacement of three coronary arteries,NA
+45960,NA,antianginal therapy,NA
+46227,NA,ecg: q wave abnormal,NA
+46565,NA,Cardiac rehabilitation - phase 4,NA
+47637,NA,[x]other forms of chronic ischaemic heart disease,NA
+47798,NA,Coronary heart disease monitoring default,NA
+48767,NA,allograft replacement of coronary artery nos,NA
+48981,NA,Cardiovascular disease interim monitoring,NA
+49201,NA,Plasma creatinine phosphokinase MB isoenzyme level,NA
+51507,NA,single anastomosis of mammary artery to coronary artery nec,NA
+51515,NA,saphenous vein graft replacement coronary artery nos,NA
+52517,NA,[x]ischaemic heart diseases,NA
+52938,NA,revision of bypass for one coronary artery,NA
+54251,NA,preinfarction syndrome nos,NA
+54535,NA,stenocardia,NA
+55092,NA,replacement of coronary arteries using multiple methods,NA
+55137,NA,mi - myocardial infarction aborted,NA
+55598,NA,other replacement of coronary artery,NA
+56990,NA,connection of mammary artery to coronary artery nos,NA
+57062,NA,h/o: angina in last year,NA
+57241,NA,allograft replacement of two coronary arteries,NA
+57634,NA,revision of bypass for coronary artery nos,NA
+58135,NA,radionuclide heart study abnormal,NA
+59423,NA,other specified allograft replacement of coronary artery,NA
+59689,NA,percutaneous transluminal arterial thrombolysis reconstruct,NA
+60067,NA,perc translum ball angio insert 1-2 drug elut stents cor art,NA
+60664,NA,cardiac enzymes abnormal - first set,NA
+60753,NA,single implantation thoracic artery into coronary artery nec,NA
+61072,NA,myocardial infarction aborted,NA
+61208,NA,perc translum balloon angioplasty stenting coronary art nos,NA
+61310,NA,other autograft replacement of coronary artery os,NA
+62270,NA,ecg: q wave pathological,NA
+62608,NA,double anastom thoracic arteries to coronary arteries nec,NA
+64923,NA,prosthetic graft patch angioplasty,NA
+66236,NA,prosthetic replacement of three coronary arteries,NA
+66285,NA,ecg: q wave nos,NA
+66388,NA,status anginosus,NA
+66664,NA,prosthetic replacement of two coronary arteries,NA
+66921,NA,percutaneous transluminal angioplasty of vascular graft,NA
+67087,NA,Other cardiac wall aneurysm,NA
+67554,NA,revision of bypass for two coronary arteries,NA
+67591,NA,single anastomosis of thoracic artery to coronary artery nec,NA
+67761,NA,prosthetic replacement of four or more coronary arteries,NA
+68123,NA,rima single anastomosis,NA
+68139,NA,single implantation of mammary artery into coronary artery,NA
+68357,NA,microinfarction of heart,NA
+68401,NA,[x]other forms of acute ischaemic heart disease,NA
+68979,NA,[x]other forms of heart disease,NA
+69776,NA,mechanical complication of coronary bypass,NA
+70111,NA,allograft replacement of one coronary artery,NA
+70160,NA,Coronary heart disease monitoring telephone invite,NA
+70185,NA,percutaneous transluminal atherectomy,NA
+70755,NA,replacement of coronary artery nos,NA
+72780,NA,connection of other thoracic artery to coronary artery nos,NA
+84367,NA,percutaneous transluminal venous thrombolysis nec,NA
+85947,NA,perc translum balloon angioplasty insert 1-2 stents cor art,NA
+86071,NA,percut translum cutting balloon angioplasty coronary artery,NA
+86773,NA,percutaneous transluminal balloon angioplasty of artery,NA
+87849,NA,perc tran ball angio ins 3 or more drug elut stents cor art,NA
+92419,NA,prosthetic replacement of one coronary artery,NA
+92927,NA,percutaneous cor balloon angiop 3 more stents cor art nec,NA
+93618,NA,percutaneous transluminal atherectomy of coronary artery,NA
+93828,NA,other specified replacement of coronary artery,NA
+95550,NA,admit ischaemic heart disease emergency,NA
+96537,NA,os perc translumina balloon angioplast stenting coronary art,NA
+96804,NA,connection of other thoracic artery to coronary artery,NA
+97953,NA,other specified revision of bypass for coronary artery,NA
+100579,NA,[x]atherosclerosis of other arteries,NA
+101121,NA,coronary artery bypass graft operation planned,NA
+101164,NA,coronary angiography planned,NA
+101373,NA,coronary angioplasty planned,NA
+101692,NA,long term dual antiplatelet drug therapy indicated,NA
+103655,NA,frequency of angina,NA
+103932,NA,coronary heart disease care plan,NA
+105216,NA,h/o acute coronary syndrome,NA
+105479,NA,coronary microvascular disease,NA
+107574,NA,referral to angina plan self-management programme,NA
+107967,NA,angina self-management plan agreed,NA
+108056,NA,referral to angina plan self-management programme declined,NA

@@ -1,0 +1,83 @@
+medcode,level,label,readcode,clinicalevents,immunisationevents,referralevents,testevents,readterm,databaserelease
+12949,0,Non-drinker,1361.00,5412758,0,180,1,Teetotaller,February 2009
+12970,0,Non-drinker,1361.11,489778,0,20,2,Non drinker alcohol,February 2009
+4447,0,Non-drinker,1361.12,514828,0,17,14,Non-drinker alcohol,February 2009
+12975,2,Trivial drinker,1362.00,1783971,0,27,0,Trivial drinker - <1u/day,February 2009
+385,2,Trivial drinker,1362.11,2273622,0,10,0,Drinks rarely,February 2009
+749,2,Trivial drinker,1362.12,2734763,0,36,2,Drinks occasionally,February 2009
+12972,3,Light drinker,1363.00,1314973,0,19,0,Light drinker - 1-2u/day,February 2009
+322,4,Moderate drinker,1364.00,704973,0,27,4,Moderate drinker - 3-6u/day,February 2009
+1618,5,Heavy drinker,1365.00,110650,0,206,2,Heavy drinker - 7-9u/day,February 2009
+12977,5,Heavy drinker,1366.00,66449,0,78,0,Very heavy drinker - >9u/day,February 2009
+967,0,Non-drinker,1367.00,799493,0,112,0,Stopped drinking alcohol,February 2009
+22933,0,Non-drinker,136A.00,8643,0,0,0,Ex-trivial drinker (<1u/day),February 2009
+26471,0,Non-drinker,136B.00,5682,0,0,0,Ex-light drinker - (1-2u/day),February 2009
+19495,0,Non-drinker,136C.00,5599,0,0,0,Ex-moderate drinker - (3-6u/d),February 2009
+19493,0,Non-drinker,136D.00,10706,0,0,0,Ex-heavy drinker - (7-9u/day),February 2009
+12983,0,Non-drinker,136E.00,10222,0,4,0,Ex-very heavy drinker-(>9u/d),February 2009
+12971,1,General drinker,136F.00,28135,0,10,0,Spirit drinker,February 2009
+2689,1,General drinker,136G.00,90441,0,15,0,Beer drinker,February 2009
+12968,1,General drinker,136H.00,13573,0,7,0,Drinks beer and spirits,February 2009
+12969,1,General drinker,136I.00,80720,0,10,0,Drinks wine,February 2009
+956,1,General drinker,136J.00,351348,0,3,0,Social drinker,February 2009
+12982,5,Heavy drinker,136K.00,203597,0,43,0,Alcohol intake above recommended sensible limits,February 2009
+26472,1,General drinker,136L.00,1536035,0,0,0,Alcohol intake within recommended sensible limits,February 2009
+12979,0,Non-drinker,136M.00,301823,0,1,0,Current non drinker,February 2009
+12980,3,Light drinker,136N.00,42762,0,0,0,Light drinker,February 2009
+12985,4,Moderate drinker,136O.00,26791,0,0,0,Moderate drinker,February 2009
+8999,5,Heavy drinker,136P.00,23466,0,618,0,Heavy drinker,February 2009
+12984,5,Heavy drinker,136Q.00,4813,0,20,0,Very heavy drinker,February 2009
+19401,5,Heavy drinker,136R.00,36667,0,210,0,Binge drinker,February 2009
+19494,5,Heavy drinker,136S.00,23864,0,562,0,Hazardous alcohol use,February 2009
+30695,5,Heavy drinker,136T.00,26778,0,814,0,Harmful alcohol use,February 2009
+94670,5,Heavy drinker,136W.00,8341,0,88,0,Alcohol misuse,February 2009
+18156,5,Heavy drinker,13Y8.00,2531,0,23,2,Alcoholics anonymous,February 2009
+84218,5,Heavy drinker,13ZY.00,575,0,3,0,Disqualified from driving due to excess alcohol,February 2009
+8430,5,Heavy drinker,1462.00,10651,0,164,1,H/O: alcoholism,February 2009
+44783,1,General drinker,1D19.00,11,0,0,0,Pain in lymph nodes after alcohol consumption,February 2009
+16225,5,Heavy drinker,E010.00,2229,0,90,0,Alcohol withdrawal delirium,February 2009
+22277,5,Heavy drinker,E010.11,1296,0,34,0,DTs - delirium tremens,February 2009
+1476,5,Heavy drinker,E010.12,2456,0,245,0,Delirium tremens,February 2009
+25110,5,Heavy drinker,E013.00,410,0,31,0,Alcohol withdrawal hallucinosis,February 2009
+57939,5,Heavy drinker,E014.00,96,0,1,0,Pathological alcohol intoxication,February 2009
+20407,5,Heavy drinker,E014.11,520,0,7,0,Drunkenness - pathological,February 2009
+2082,5,Heavy drinker,E01y000,51834,0,1458,2,Alcohol withdrawal syndrome,February 2009
+2084,5,Heavy drinker,E23..00,286750,0,12347,16,Alcohol dependence syndrome,February 2009
+2081,5,Heavy drinker,E23..11,66436,0,4443,21,Alcoholism,February 2009
+1399,5,Heavy drinker,E23..12,169589,0,10025,25,Alcohol problem drinking,February 2009
+5740,5,Heavy drinker,E230.00,8269,0,459,3,Acute alcoholic intoxication in alcoholism,February 2009
+57714,5,Heavy drinker,E230.11,131,0,0,0,Alcohol dependence with acute alcoholic intoxication,February 2009
+40530,5,Heavy drinker,E230000,273,0,3,0,"Acute alcoholic intoxication, unspecified, in alcoholism",February 2009
+56947,5,Heavy drinker,E230100,70,0,2,0,Continuous acute alcoholic intoxication in alcoholism,February 2009
+21624,5,Heavy drinker,E230200,160,0,2,0,Episodic acute alcoholic intoxication in alcoholism,February 2009
+59574,5,Heavy drinker,E230300,180,0,1,0,"Acute alcoholic intoxication in remission, in alcoholism",February 2009
+36296,5,Heavy drinker,E230z00,469,0,3,0,Acute alcoholic intoxication in alcoholism NOS,February 2009
+31443,5,Heavy drinker,E231.00,5007,0,104,0,Chronic alcoholism,February 2009
+37605,5,Heavy drinker,E231.11,24,0,3,0,Dipsomania,February 2009
+43193,5,Heavy drinker,E231000,327,0,0,0,Unspecified chronic alcoholism,February 2009
+24064,5,Heavy drinker,E231100,639,0,5,0,Continuous chronic alcoholism,February 2009
+26106,5,Heavy drinker,E231200,708,0,13,0,Episodic chronic alcoholism,February 2009
+24485,5,Heavy drinker,E231300,554,0,1,0,Chronic alcoholism in remission,February 2009
+33635,5,Heavy drinker,E231z00,3374,0,129,0,Chronic alcoholism NOS,February 2009
+6169,5,Heavy drinker,E23z.00,12021,0,294,0,Alcohol dependence syndrome NOS,February 2009
+7746,5,Heavy drinker,E250.00,71194,0,3928,31,Nondependent alcohol abuse,February 2009
+12271,1,General drinker,E250.11,12161,0,1326,1,Drunkenness NOS,February 2009
+27518,1,General drinker,E250.12,499,0,16,0,Hangover (alcohol),February 2009
+17777,1,General drinker,E250.13,260,0,15,0,Inebriety NOS,February 2009
+3782,1,General drinker,E250.14,62139,0,2369,3,Intoxication - alcohol,February 2009
+669,5,Heavy drinker,E250000,67383,0,5143,169,"Nondependent alcohol abuse, unspecified",February 2009
+23610,5,Heavy drinker,E250100,1185,0,75,0,"Nondependent alcohol abuse, continuous",February 2009
+12974,5,Heavy drinker,E250200,3899,0,284,0,"Nondependent alcohol abuse, episodic",February 2009
+31569,5,Heavy drinker,E250300,214,0,0,0,Nondependent alcohol abuse in remission,February 2009
+28150,5,Heavy drinker,E250z00,9393,0,3,0,Nondependent alcohol abuse NOS,February 2009
+9508,5,Heavy drinker,Eu10011,2657,0,65,0,[X]Acute alcoholic drunkenness,February 2009
+28780,5,Heavy drinker,Eu10211,4540,0,368,0,[X]Alcohol addiction,February 2009
+5758,5,Heavy drinker,Eu10212,2817,0,67,0,[X]Chronic alcoholism,February 2009
+20514,5,Heavy drinker,Eu10300,369,0,2,0,[X]Mental and behav dis due to use alcohol: withdrawal state,February 2009
+64101,5,Heavy drinker,Eu10400,148,0,3,0,[X]Men & behav dis due alcohl: withdrawl state with delirium,February 2009
+17259,5,Heavy drinker,Eu10411,2216,0,55,1,"[X]Delirium tremens, alcohol induced",February 2009
+32927,5,Heavy drinker,Eu10800,11399,0,56,0,[X]Alcohol withdrawal-induced seizure,February 2009
+9169,1,General drinker,R103.00,2855,0,34,7,[D]Alcohol blood level excessive,February 2009
+23978,1,General drinker,U81..00,720,0,3,0,[X]Evid of alcohol involv determind by level of intoxication,February 2009
+7123,5,Heavy drinker,ZV11300,2064,0,49,0,[V]Personal history of alcoholism,February 2009
+16587,5,Heavy drinker,ZV11311,180,0,20,0,[V]Problems related to lifestyle alcohol use,February 2009

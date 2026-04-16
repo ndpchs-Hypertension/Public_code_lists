@@ -1,0 +1,189 @@
+medcode,readcode,clinicalevents,immunisationevents,referralevents,testevents,readterm,databaserelease
+1517,G73z000,141140,0,24713,13,Intermittent claudication,February 2009
+1826,G73..12,16169,0,2234,2,Ischaemia of legs,February 2009
+1867,G714.00,12450,0,805,5,Abdominal aortic aneurysm without mention of rupture,February 2009
+2066,7A48z00,3676,0,218,0,Other bypass of femoral artery or popliteal artery NOS,February 2009
+2760,G73zz00,58871,0,5495,6,Peripheral vascular disease NOS,February 2009
+2761,7A12100,1169,0,93,0,Bypass bifurc aorta by anastom aorta to femoral artery NEC,February 2009
+3530,G73z.00,73250,0,3906,0,Peripheral vascular disease NOS,February 2009
+4325,G73yz00,9775,0,926,4,Other specified peripheral vascular disease NOS,February 2009
+5702,G73..11,4756,0,410,0,Peripheral ischaemic vascular disease,February 2009
+5943,G73..00,35563,0,2632,0,Other peripheral vascular disease,February 2009
+6308,M271.12,3427,0,362,0,Ischaemic leg ulcer,February 2009
+6356,7A4B000,9220,0,45,0,Percutaneous transluminal angioplasty of femoral artery,February 2009
+6684,G723000,885,0,53,0,Aneurysm of femoral artery,February 2009
+6827,G73..13,3264,0,449,0,Peripheral ischaemia,February 2009
+6853,G73z011,19756,0,1885,0,Claudication,February 2009
+7694,G76z100,2992,0,23,0,Femoral artery occlusion,February 2009
+7975,16I..00,11532,0,1337,0,Claudication distance,February 2009
+9099,7A47.00,155,0,1,0,Other emergency bypass of femoral artery or popliteal artery,February 2009
+9554,G76z200,1062,0,6,0,Popliteal artery occlusion,February 2009
+9561,2G63.00,3681,0,366,0,Ischaemic toe,February 2009
+9759,G718.00,365,0,8,0,Leaking abdominal aortic aneurysm,February 2009
+10827,7A44000,5817,0,19,0,Percutaneous transluminal angioplasty of iliac artery,February 2009
+11430,G715000,66,0,1,0,"Thoracoabdominal aortic aneurysm, ruptured",February 2009
+11766,7A47.16,246,0,1,0,Other emergency bypass of femoral artery,February 2009
+13572,G713.11,1631,0,8,0,Ruptured abdominal aortic aneurysm,February 2009
+14797,G702.00,4956,0,707,1,Extremity artery atheroma,February 2009
+15302,G742z00,508,0,109,0,Peripheral arterial embolism and thrombosis NOS,February 2009
+15304,G715.00,1126,0,30,0,Ruptured aortic aneurysm NOS,February 2009
+15532,7A12300,170,0,12,0,Bypass bifurcation aorta by anastom aorta to iliac artery,February 2009
+16260,G702z00,133,0,5,0,Extremity artery atheroma NOS,February 2009
+16366,G723100,1696,0,84,0,Aneurysm of popliteal artery,February 2009
+16395,G722000,331,0,8,0,Aneurysm of common iliac artery,February 2009
+16800,G711.11,266,0,1,0,Ruptured thoracic aortic aneurysm,February 2009
+17345,G714.11,8282,0,461,1,AAA - Abdominal aortic aneurysm without mention of rupture,February 2009
+17560,G722.00,1225,0,37,0,Aneurysm of iliac artery,February 2009
+17767,G713.00,1365,0,38,0,Abdominal aortic aneurysm which has ruptured,February 2009
+18060,7A48.14,2548,0,29,0,Other bypass of femoral artery,February 2009
+18423,G76A.00,791,0,102,0,Arterial insufficiency,February 2009
+18499,662U.00,21930,0,286,0,Peripheral vascular disease monitoring,February 2009
+19996,7A14400,110,0,1,0,Replace aneurysm abdominal aorta by anast aorta to aorta NEC,February 2009
+21927,7A41.00,278,0,1,0,Other bypass of iliac artery,February 2009
+23352,7A10100,131,0,11,0,Bypass aorta by anastomosis axillary to femoral artery NEC,February 2009
+23497,G731000,903,0,34,0,Buerger's disease,February 2009
+23532,G712.00,1560,0,92,0,Thoracic aortic aneurysm without mention of rupture,February 2009
+23871,G73y100,14,0,1,0,Peripheral angiopathic disease EC NOS,February 2009
+24327,M271000,3420,0,262,0,Ischaemic ulcer diabetic foot,February 2009
+24684,7A31300,20,0,2,0,Operation on aneurysm of renal artery,February 2009
+24692,7A48.00,2472,0,18,0,Other bypass of femoral artery or popliteal artery,February 2009
+25438,G720100,116,0,19,0,Aneurysm of radial artery,February 2009
+25844,7A32000,612,0,3,0,Percutaneous transluminal angioplasty of renal artery,February 2009
+26232,7A14411,63,0,0,0,Tube graft of Abdominal aortic aneurysm,February 2009
+27389,G72yA00,80,0,3,0,Aneurysm of hepatic artery,February 2009
+27563,G711.00,161,0,2,0,Thoracic aortic aneurysm which has ruptured,February 2009
+27580,7A48000,683,0,4,0,Bypass femoral artery by fem/pop art anast c prosthesis NEC,February 2009
+28030,7A48200,598,0,5,0,Bypass femoral artery by fem/pop art anast c vein graft NEC,February 2009
+28616,7A41100,125,0,5,0,Bypass iliac artery by iliac/femoral artery anastomosis NEC,February 2009
+28840,7A4A500,501,0,10,0,Operation on aneurysm of femoral artery NEC,February 2009
+29112,7A4B100,2172,0,12,0,Percutaneous transluminal angioplasty of popliteal artery,February 2009
+29973,7A22000,539,0,0,0,Percutaneous transluminal angioplasty of carotid artery,February 2009
+30248,G720200,32,0,0,0,Aneurysm of ulnar artery,February 2009
+30484,R055011,275,0,25,0,[D]Peripheral circulatory failure,February 2009
+31053,R054300,61,0,2,0,[D]Widespread diabetic foot gangrene,February 2009
+31055,G723500,25,0,1,0,Ruptured popliteal artery aneurysm,February 2009
+31723,7A28000,203,0,2,0,Percutaneous transluminal angioplasty of subclavian artery,February 2009
+32492,7A41900,15,0,0,0,Bypass common iliac artery by aorta/com iliac art anast NEC,February 2009
+33613,G720000,84,0,12,0,Aneurysm of brachial artery,February 2009
+34152,G73y000,289,0,18,0,Diabetic peripheral angiopathy,February 2009
+34638,G731.00,151,0,6,0,Thromboangiitis obliterans,February 2009
+35529,G72y400,123,0,6,0,Aneurysm of subclavian artery,February 2009
+36443,7A41300,58,0,1,0,Bypass iliac artery by femoral/femoral art anastomosis NEC,February 2009
+37465,7A28100,57,0,0,0,Percutaneous transluminal angioplasty of brachial artery,February 2009
+37787,7A48.12,52,0,0,0,Other bypass of common femoral artery,February 2009
+37806,C10FF00,225,0,3,0,Type 2 diabetes mellitus with peripheral angiopathy,February 2009
+38732,G72y500,527,0,10,0,Aneurysm of splenic artery,February 2009
+38907,G73y.00,239,0,3,0,Other specified peripheral vascular disease,February 2009
+38921,7A41z00,36,0,0,0,Other bypass of iliac artery NOS,February 2009
+39749,7A43200,156,0,0,0,Operation on aneurysm of iliac artery NEC,February 2009
+39877,7A48400,39,0,0,0,Bypass femoral artery by fem/tib art anast c prosthesis NEC,February 2009
+40524,G723600,54,0,12,0,Post radiological femoral false aneurysm,February 2009
+40732,7A48.16,40,0,0,0,Other bypass of superficial femoral artery,February 2009
+40787,G716000,199,0,4,0,"Thoracoabdominal aortic aneurysm, without mention of rupture",February 2009
+41220,7A35300,7,0,0,0,Percutaneous transluminal angioplasty suprarenal artery NEC,February 2009
+41823,7A48600,85,0,0,0,Bypass femoral artery by fem/tib art anast c vein graft NEC,February 2009
+42444,7A14100,20,0,0,0,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC,February 2009
+42640,7A48y00,214,0,2,0,Other bypass of femoral artery or popliteal artery OS,February 2009
+43001,9N4h.00,356,0,16,0,DNA - Did not attend peripheral vascular disease clinic,February 2009
+44439,7A46.14,120,0,1,0,Other replacement of aneurysmal popliteal artery,February 2009
+45000,G723.00,31,0,1,0,Aneurysm of leg artery,February 2009
+45308,7A27C00,26,0,2,0,Operation on aneurysm of subclavian artery,February 2009
+45428,7A48C00,79,0,1,0,Bypass femoral artery by femoral/femoral art anastomosis NEC,February 2009
+45521,G714000,157,0,1,0,Juxtarenal aortic aneurysm,February 2009
+46125,7A45.14,46,0,0,0,Emergency replacement of aneurysmal popliteal artery,February 2009
+46164,7A35000,37,0,0,0,Percutaneous transluminal angioplasty of coeliac artery NEC,February 2009
+47618,7A27E00,40,0,0,0,Operation on aneurysm of brachial artery,February 2009
+48755,7A12000,10,0,0,0,Emerg bypass bifurc aorta by anast aorta to femoral artery,February 2009
+48939,7A47C00,18,0,0,0,Emerg bypass femoral artery by fem/fem art anastomosis NEC,February 2009
+51061,7A1B200,28,0,0,0,Endovascular stenting of thoracic aortic aneurysm,February 2009
+51124,7A4A400,112,0,2,0,Ligation of aneurysm of popliteal artery,February 2009
+51166,7A11311,40,0,0,0,Y graft abdominal Aortic aneurysm,February 2009
+52357,7A41y00,23,0,0,0,Other specified other bypass of iliac artery,February 2009
+52358,7A11.00,56,0,2,0,Replacement of aneurysmal bifurcation of aorta,February 2009
+52549,G72y600,10,0,2,0,Aneurysm of axillary artery,February 2009
+53675,7A48A00,35,0,0,0,Bypass femoral artery by fem/peron a anast c vein graft NEC,February 2009
+54192,7A13400,16,0,0,0,Emerg replace aneurysm abdom aorta by anast aorta/aorta NEC,February 2009
+54899,C109F11,4,0,0,0,Type II diabetes mellitus with peripheral angiopathy,February 2009
+55074,7A28200,9,0,0,0,Percutaneous transluminal angioplasty of vertebral artery,February 2009
+55394,7A45D00,2,0,0,0,Emerg replace aneurysm pop artery by pop/fem art anastomosis,February 2009
+55476,7A45000,1,0,0,0,Emerg replace aneurysm fem art by fem/pop art anast c prosth,February 2009
+56495,7A11100,8,0,0,0,Replace aneurysm bifurc aorta by anast aorta to femoral art,February 2009
+56510,7A11300,18,0,0,0,Replace aneurysm bifurc aorta by anast aorta to iliac artery,February 2009
+57135,G72y900,8,0,0,0,Aneurysm of inferior mesenteric artery,February 2009
+58092,7A46100,1,0,0,0,Replace aneurysm pop art by pop/pop art anastom c prosth NEC,February 2009
+58794,G722200,54,0,2,0,Aneurysm of internal iliac artery,February 2009
+59492,G720.00,11,0,0,0,Aneurysm of artery of arm,February 2009
+59534,14NB.00,120,0,4,0,H/O: Peripheral vascular disease procedure,February 2009
+59538,G72y800,30,0,1,0,Aneurysm of superior mesenteric artery,February 2009
+59671,G722z00,51,0,0,0,Aneurysm of iliac artery NOS,February 2009
+59756,7A40.00,22,0,0,0,Replacement of aneurysmal iliac artery,February 2009
+60370,7A28C00,18,0,1,0,Percutaneous transluminal angioplasty of axillary artery,February 2009
+60699,C109F12,5,0,0,0,Type 2 diabetes mellitus with peripheral angiopathy,February 2009
+60879,G722100,21,0,0,0,Aneurysm of external iliac artery,February 2009
+61042,7A34E00,3,0,0,0,Operation on aneurysm of inferior mesenteric artery NEC,February 2009
+61666,7A45.00,26,0,0,0,Emergency replacement of aneurysmal femoral/popliteal artery,February 2009
+62025,7A45200,3,0,0,0,Emerg replace aneurysm fem art by fem/pop anast c vein graft,February 2009
+62301,7A11y00,1,0,0,0,Replacement of aneurysmal bifurcation of aorta OS,February 2009
+63059,G723z00,12,0,3,0,Aneurysm of leg artery NOS,February 2009
+63238,7A47.13,2,0,0,0,Other emergency bypass of deep femoral artery,February 2009
+63408,7A13411,31,0,0,0,Tube graft abdominal Aortic aneurysm (emergency),February 2009
+63920,G713000,8,0,0,0,Ruptured suprarenal aortic aneurysm,February 2009
+66232,7A13300,11,0,0,0,Emerg replace aneurysm infrarenal aorta by anast aorta/aorta,February 2009
+66633,7A34K00,10,0,0,0,Operation on aneurysm visceral branch of abdominal aorta NEC,February 2009
+66761,7A11z00,7,0,0,0,Replacement of aneurysmal bifurcation of aorta NOS,February 2009
+66823,G72y700,31,0,0,0,Aneurysm of coeliac artery,February 2009
+67026,G723200,14,0,0,0,Aneurysm of anterior tibial artery,February 2009
+67982,7A48800,8,0,0,0,Bypass femoral artery by fem/peron a anast c prosthesis NEC,February 2009
+68385,7A46.11,3,0,0,0,Other replacement aneurysmal femoral artery by anastomosis,February 2009
+69346,7A46.00,45,0,1,0,Other replacement of aneurysmal femoral artery,February 2009
+69847,G723300,9,0,0,0,Aneurysm of dorsalis pedis artery,February 2009
+69922,7A11200,7,0,0,0,Emerg repl aneurysm bifurc aorta by anast aorta to iliac a,February 2009
+70446,7A1B000,128,0,0,0,Endovascular stenting infrarenal abdominal aortic aneurysm,February 2009
+71141,7A46300,3,0,0,0,Replace aneurysm pop art by pop/pop a anast c vein graft NEC,February 2009
+72062,G723400,7,0,1,0,Aneurysm of posterior tibial artery,February 2009
+72448,7A41200,11,0,0,0,Emerg bypass iliac artery by femoral/femoral art anast NEC,February 2009
+73961,Gyu7400,32,0,0,0,[X]Other specified peripheral vascular diseases,February 2009
+91084,7A34D00,4,0,0,0,Operation on aneurysm of superior mesenteric artery NEC,February 2009
+92925,7A11211,10,0,0,0,Y graft of abdominal Aortic aneurysm (emergency),February 2009
+93060,7A13100,2,0,0,0,Emerg replace aneurysm thor aorta by anastom aorta to aorta,February 2009
+93468,C10EG00,8,0,0,0,Type 1 diabetes mellitus with peripheral angiopathy,February 2009
+94408,G720z00,4,0,0,0,Aneurysm of arm artery NOS,February 2009
+94556,7A46y00,6,0,0,0,Other replacement of aneurysmal femoral/popliteal artery OS,February 2009
+94784,7A45.15,7,0,0,0,Emergency replacement aneurysmal superficial femoral artery,February 2009
+95416,7A46D00,2,0,0,0,Replace aneurysm popliteal artery by pop/fem anastomosis NEC,February 2009
+95503,7A40z00,4,0,0,0,Replacement of aneurysmal iliac artery NOS,February 2009
+96472,7A46000,3,0,0,0,Replace aneurysm fem art by fem/pop art anastom c prosth NEC,April 2009
+96654,7A11000,1,0,0,0,Emerg repl aneurysm bifurc aorta by anast aorta to fem art,April 2009
+96656,7A46z00,6,0,0,0,Other replacement of aneurysmal femoral/popliteal artery NOS,April 2009
+96699,7A40000,2,0,0,0,Emerg replace aneurysm iliac art by iliac/femoral art anast,April 2009
+96990,7A56600,51,0,0,0,Percutaneous transluminal placement peripheral stent artery,June 2009
+97606,7A47.15,3,0,0,0,Other emergency bypass of superficial femoral artery,September 2009
+97661,7A46C00,5,0,0,0,Replace aneurysm fem artery by fem/fem art anastomosis NEC,September 2009
+98174,G733.00,2718,0,152,0,Ischaemic foot,December 2009
+99727,7A40A00,2,0,0,0,Replace aneurysm iliac art by aorta/ext iliac art anast NEC,June 2010
+100025,7A34F00,2,0,0,0,Operation on aneurysm of suprarenal artery NEC,June 2010
+100036,7A41D00,1,0,0,0,Bypass iliac artery by iliac/iliac artery anastomosis NEC,July 2010
+100113,7A47.12,2,0,0,0,Other emergency bypass of common femoral artery,July 2010
+101866,G73z012,71,0,0,0,Vascular claudication,March 2011
+101910,7A41.11,3,0,0,0,Other bypass of iliac artery by anastomosis,March 2011
+103044,7A45y00,1,0,0,0,Emergency replacement aneurysmal femoral/popliteal artery OS,October 2011
+103347,7A40.11,1,0,0,0,Replacement of aneurysmal iliac artery by anastomosis,November 2011
+103731,7A46.15,5,0,0,0,Other replacement of aneurysmal superficial femoral artery,February 2012
+103988,7A45.12,3,0,0,0,Emergency replacement of aneurysmal common femoral artery,May 2012
+104639,C10FF11,51,0,0,0,Type II diabetes mellitus with peripheral angiopathy,August 2012
+105317,G734.00,3614,0,52,0,Peripheral arterial disease,December 2012
+106096,7A27D00,5,0,0,0,Operation on aneurysm of axillary artery,May 2013
+106488,7A40y00,4,0,0,0,Other specified replacement of aneurysmal iliac artery,August 2013
+109034,1M11000,219,0,24,0,Ischaemic foot pain at rest,January 2015
+109217,1M11100,22,0,2,0,Ischaemic foot pain when walking,January 2015
+109431,7A40200,1,0,0,0,Emerg replace aneurysmal iliac artery by fem/fem art anast,March 2015
+110617,7A45C00,2,0,0,0,Emerg replace aneurysm fem artery by fem/fem art anastomosis,March 2016
+111896,7A46.12,2,0,0,0,Other replacement of aneurysmal common femoral artery,June 2017
+112536,7A45z00,1,0,0,0,Emergency replacement aneurysmal femoral/popliteal art NOS,February 2018
+112861,7A41E00,1,0,0,0,Emergency bypass of iliac artery by unspecified anastomosis,September 2018
+113851,7A48.13,1,0,0,0,Other bypass of deep femoral artery,May 2019
+114056,7A41A00,2,0,0,0,Bypass iliac artery by aorta/ext iliac art anastomosis NEC,August 2019
+115213,7A46800,1,0,0,0,Replace aneurysm fem art by fem/peron art anast c prosth NEC,October 2020
+115355,7A45.11,1,0,0,0,Emerg replacement aneurysmal femoral/popl art by anastomosis,February 2021
+115697,7A46600,1,0,0,0,Replace aneurysm fem art by fem/tib a anast c vein graft NEC,July 2021
+116221,7A46200,2,0,0,0,Replace aneurysm fem art by fem/pop a anast c vein graft NEC,January 2023

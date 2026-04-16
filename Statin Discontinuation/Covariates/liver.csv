@@ -1,0 +1,320 @@
+medcode,readcode,clinicalevents,immunisationevents,referralevents,testevents,readterm,databaserelease
+15907,B16z.00,253,0,20,5,Malignant neoplasm gallbladder/extrahepatic bile ducts NOS,February 2009
+51408,S74z.00,146,0,0,0,"Injury to liver, NOS",February 2009
+103282,7806200,37,0,0,0,Endoscopic microwave ablation lesion liver using laparoscope,November 2011
+47300,7803000,38,0,3,0,Removal of lacerated fragment of liver,February 2009
+71785,J631000,34,0,0,0,Hepatitis in coxsackie virus,February 2009
+88994,7L1f.00,160,0,20,0,Compensation for liver failure,February 2009
+66469,S741300,10,0,0,0,Liver moderate laceration with open wound into cavity,February 2009
+2926,44D2.00,30936,0,10491,75547,Liver function tests abnormal,February 2009
+39351,J635500,22,0,0,0,Toxic liver disease with chronic active hepatitis,February 2009
+56581,Jyu7.00,183,0,1,0,[X]Diseases of the liver,February 2009
+8044,J552000,179,0,6,0,Subhepatic abscess,February 2009
+30729,141E.00,5588,0,453,0,History of hepatitis B,February 2009
+88026,7809600,19,0,0,0,Percutaneous chemical ablation of lesion of liver,February 2009
+55637,J600z00,16,0,0,0,Acute necrosis of liver NOS,February 2009
+18739,J615z12,615,0,4,0,Cryptogenic cirrhosis of liver,February 2009
+23432,PB6yz00,50,0,10,0,Other liver or biliary system anomalies NOS,February 2009
+19418,A705400,334,0,13,4,Hepatitis non A non B,February 2009
+50400,PB61600,11,0,0,0,Atresia of hepatic ducts,February 2009
+49042,J634.00,46,0,0,0,Hepatic infarction,February 2009
+41096,A707100,194,0,9,0,Chronic viral hepatitis B without delta-agent,February 2009
+26490,J601000,115,0,8,1,Subacute hepatic failure,February 2009
+27177,43B8.00,20,0,0,2951,Hepatitis B core antigen test,February 2009
+56070,J62y.11,17,0,2,0,Hepatic failure NOS,February 2009
+104892,A70D.00,22,0,0,0,Hepatitis C genotype 4,August 2012
+43086,J6y..00,21,0,0,0,"Liver, biliary, pancreas + gastrointestinal diseases OS",February 2009
+103466,J61y900,30070,0,173,0,Fatty change of liver,December 2011
+9029,J614100,3065,0,115,1,Chronic active hepatitis,February 2009
+60104,J61y500,40,0,1,0,Hepatic sclerosis,February 2009
+25869,J63y.00,203,0,1,1,Other specified liver disorder,February 2009
+6863,J61..00,13757,0,603,1,Cirrhosis and chronic liver disease,February 2009
+42289,J632z00,23,0,1,0,Hepatitis in infectious diseases EC NOS,February 2009
+110454,C370700,17,0,0,0,Liver disease due to cystic fibrosis,January 2016
+98805,AyuB000,12,0,0,0,[X]Other specified acute viral hepatitis,March 2010
+104346,A70C.00,536,0,0,0,Hepatitis C genotype 3,June 2012
+106489,S740400,13,0,0,0,Liver major laceration without open wound into cavity,August 2013
+38978,B15z.00,109,0,1,0,Malignant neoplasm of liver and intrahepatic bile ducts NOS,February 2009
+1467,J632000,16,0,0,0,Hepatitis in malaria,February 2009
+65050,A704000,11,0,0,0,Viral hepatitis C with coma,February 2009
+60549,PB6..00,196,0,11,0,Liver and biliary system anomalies,February 2009
+89593,B151200,19,0,0,0,Malignant neoplasm of intrahepatic biliary passages,February 2009
+8155,14C5.00,9087,0,1229,2,H/O: liver disease,February 2009
+93811,7N47C00,27,0,0,0,[SO]Hepatic vein,February 2009
+50776,R148z00,2125,0,63,0,[D]Abnormal liver function test NOS,February 2009
+7885,J613.00,16302,0,473,3,Alcoholic liver damage unspecified,February 2009
+27389,G72yA00,80,0,3,0,Aneurysm of hepatic artery,February 2009
+37521,D307000,14,0,1,0,Deficiency of coagulation factor due to liver disease,February 2009
+48879,J637.00,26,0,0,0,Hepatic veno-occlusive disease,February 2009
+27191,43j5.00,30,0,4,820,Hepatitis C nucleic acid detection,February 2009
+44120,J635600,54,0,0,0,Toxic liver disease with fibrosis and cirrhosis of liver,February 2009
+34448,ZV59700,107,0,0,0,[V]Liver donor,February 2009
+37203,J6z..00,735,0,21,0,"Liver, biliary, pancreas + gastrointestinal diseases NOS",February 2009
+10797,G858.00,8016,0,35,0,Oesophageal varices NOS,February 2009
+17041,7803100,457,0,7,0,Repair of laceration of liver,February 2009
+4406,J631100,241,0,30,27,Hepatitis in cytomegalic inclusion virus,February 2009
+40567,J615600,11,0,1,0,Capsular portal cirrhosis,February 2009
+102565,4JQD.11,661,0,41,1164,Hepatitis C PCR positive,July 2011
+3146,A70..00,14159,0,274,13,Viral hepatitis,February 2009
+25341,J620100,54,0,6,0,Liver abscess due to cholangitis,February 2009
+103889,7809700,61,0,0,0,Percutaneous microwave ablation of lesion of liver,March 2012
+93737,780G000,32,0,0,0,Transjugular intrahepatic insertion stent into portal vein,February 2009
+52365,A705200,242,0,0,0,Acute hepatitis E,February 2009
+100405,141F.00,554,0,26,0,History of viral hepatitis,August 2010
+33645,2J23.00,645,0,1,1,Hepatitis A - current infection,February 2009
+24813,A707000,100,0,2,0,Chronic viral hepatitis B with delta-agent,February 2009
+31210,B150100,185,0,6,0,Hepatoblastoma of liver,February 2009
+27388,S74..00,1030,0,13,6,Injury to liver,February 2009
+106017,A709.00,32,0,2,0,Viral hepatitis without hepatic coma,May 2013
+69460,7804.00,35,0,0,0,Incision of liver,February 2009
+21713,J612000,359,0,10,0,Alcoholic fibrosis and sclerosis of liver,February 2009
+26319,G852200,302,0,11,0,Oesophageal varices in cirrhosis of the liver,February 2009
+5037,J63yz00,406,0,41,2,Other specified liver disorder NOS,February 2009
+15489,J614z00,795,0,28,0,Chronic hepatitis NOS,February 2009
+58630,J616z00,117,0,1,0,Biliary cirrhosis NOS,February 2009
+66534,J614400,25,0,2,0,Chronic lobular hepatitis,February 2009
+23578,J614000,233,0,21,1,Chronic persistent hepatitis,February 2009
+106387,B715800,531,0,10,0,Focal nodular hyperplasia of liver,June 2013
+92972,SB22200,10,0,0,0,Hepatic artery injury,February 2009
+31997,TB00200,66,0,3,0,"Liver transplant with complication, without blame",February 2009
+41386,J635700,84,0,3,0,Acute hepatic failure due to drugs,February 2009
+68475,7808300,208,0,3,0,Percutaneous transluminal angioplasty of blood vessel liver,February 2009
+103706,J61y911,3219,0,2,0,Fatty liver,February 2012
+102263,782T000,16,0,0,0,Percutaneous transhepatic removal of calculus from bile duct,May 2011
+16126,B150000,486,0,12,0,Primary carcinoma of liver,February 2009
+8918,B15..00,457,0,4,0,Malignant neoplasm of liver and intrahepatic bile ducts,February 2009
+13266,J6...00,740,0,27,0,"Liver, biliary, pancreas + gastrointestinal diseases NEC",February 2009
+29792,BB5D400,155,0,8,0,[M]Liver cell adenoma,February 2009
+36147,B153.00,1086,0,7,0,Secondary malignant neoplasm of liver,February 2009
+55454,J615y00,22,0,0,0,Portal cirrhosis unspecified,February 2009
+42843,J61y.00,443,0,4,0,Other non-alcoholic chronic liver disease,February 2009
+4742,44G2.00,4260,0,5202,6767,Liver enzymes abnormal,February 2009
+46023,J620.00,233,0,0,0,Liver abscess - excluding amoebic liver abscess,February 2009
+1754,J614.00,8063,0,260,10,Chronic hepatitis,February 2009
+7947,J631200,254,0,2,0,Hepatitis in infectious mononucleosis,February 2009
+27438,J615700,53,0,0,0,Cardiac portal cirrhosis,February 2009
+68967,AyuB.00,55,0,0,0,[X]Viral hepatitis,February 2009
+37198,14S8.00,30,0,3,0,H/O: liver recipient,February 2009
+34358,J632.00,82,0,0,0,Hepatitis in other infectious diseases EC,February 2009
+31008,J630.00,32,0,1,0,Chronic passive liver congestion,February 2009
+33316,43jG.00,19,0,2,842,Hepatitis B nucleic acid detection,February 2009
+28350,PB62100,169,0,5,0,Fibrocystic liver disease,February 2009
+67009,S740200,29,0,1,0,Liver minor laceration without open wound into cavity,February 2009
+74896,B161z00,47,0,0,0,Malignant neoplasm of extrahepatic bile ducts NOS,February 2009
+6015,Jyu7100,817,0,11,0,[X]Other and unspecified cirrhosis of liver,February 2009
+68410,B150200,16,0,0,0,Primary angiosarcoma of liver,February 2009
+24901,J625.00,528,0,15,0,[X] Hepatic failure,February 2009
+29801,PB60000,97,0,6,0,"Liver anomaly, unspecified",February 2009
+8363,G852300,610,0,12,0,Oesophageal varices in alcoholic cirrhosis of the liver,February 2009
+44399,B150z00,97,0,0,0,Primary malignant neoplasm of liver NOS,February 2009
+65924,7822.00,69,0,1,0,Connection of hepatic duct,February 2009
+109482,43XA.00,16,0,0,85,Hepatitis B core antibody positive,April 2015
+47257,J615.11,21,0,0,0,Portal cirrhosis,February 2009
+2860,A703.00,12737,0,8980,8497,Viral (serum) hepatitis B,February 2009
+18195,PB62000,338,0,21,0,Congenital polycystic liver disease,February 2009
+36194,SP14200,25,0,0,0,Hepatic failure as a complication of care,February 2009
+57925,7822100,37,0,0,0,Anastomosis of hepatic duct to jejunum NEC,February 2009
+30586,A707200,6097,0,329,1,Chronic viral hepatitis C,February 2009
+15424,J616100,61,0,4,0,Secondary biliary cirrhosis,February 2009
+104572,9NgR.00,708,0,0,0,On hepatitis C treatment plan,July 2012
+16062,J62y.13,738,0,127,0,Hepatic failure,February 2009
+23775,J62y.12,290,0,25,0,Liver failure NOS,February 2009
+26412,7801200,1677,0,3,0,Resection of segment of liver,February 2009
+36744,S74z.11,282,0,9,2,Ruptured liver NOS,February 2009
+71008,7809400,302,0,0,0,Percutaneous radiofrequency ablation of lesion of liver,February 2009
+53480,J614300,33,0,0,0,Recurrent hepatitis,February 2009
+20912,7609400,290,0,10,0,Open injection sclerotherapy to oesophageal varices,February 2009
+66895,PB60.00,25,0,0,0,"Liver and biliary system anomalies, unspecified",February 2009
+41673,J635X00,24,0,1,0,"Toxic liver disease, unspecified",February 2009
+40963,J61y300,52,0,0,0,Portal fibrosis without cirrhosis,February 2009
+22504,PB6yw12,10,0,0,0,Abnormal liver lobulation,February 2009
+21784,PB6y900,359,0,13,0,Liver hyperplasia,February 2009
+32277,A707X00,317,0,1,0,"Chronic viral hepatitis, unspecified",February 2009
+26037,C32y511,666,0,6,0,Hepatic familial steatosis,February 2009
+2413,A70z000,10810,0,1250,496,Hepatitis C,February 2009
+3142,A701.00,15689,0,3463,3328,Viral (infectious) hepatitis A,February 2009
+26367,A707.00,294,0,6,0,Chronic viral hepatitis,February 2009
+30926,A705.00,236,0,32,20,Other specified viral hepatitis without coma,February 2009
+71453,J615z15,71,0,0,0,Hepatic fibrosis,February 2009
+22841,J615z11,189,0,2,0,Macronodular cirrhosis of liver,February 2009
+14609,65O3.00,30,13727,3,3,Anti-Hepatitis B immunoglob.,February 2009
+55806,PB6z.00,169,0,3,0,Liver or biliary system anomalies NOS,February 2009
+20676,G820.00,370,0,4,0,Budd - Chiari syndrome (hepatic vein thrombosis),February 2009
+9494,J616.00,3134,0,91,0,Biliary cirrhosis,February 2009
+19512,C310400,151,0,17,0,Glycogenosis with hepatic cirrhosis,February 2009
+105758,8LH..00,60,0,0,0,Liver transplant planned,February 2013
+104277,14i..00,478,0,14,1,H/O hepatitis C antiviral drug therapy,June 2012
+50458,PB61412,55,0,0,0,Extrahepatic atresia of bile duct,February 2009
+65889,PB61411,26,0,0,0,Intrahepatic atresia of bile duct,February 2009
+18752,PB6yw11,75,0,0,0,Liver hamartoma,February 2009
+44676,J615400,11,0,1,0,Fatty portal cirrhosis,February 2009
+32025,7800000,255,0,0,0,Orthotopic transplantation of liver,February 2009
+17578,B715000,278,0,19,1,Benign neoplasm of liver,February 2009
+93379,7802300,33,0,0,0,Thermal ablation of multiple lesions of liver,February 2009
+94817,S740300,13,0,0,0,Liver moderate laceration without open wound into cavity,February 2009
+37501,B808200,18,0,1,0,Carcinoma in situ of hepatic duct,February 2009
+2834,A705000,2195,0,241,0,Viral hepatitis C without mention of hepatic coma,February 2009
+40762,Q409000,101,0,4,3,Congenital hepatitis A infection,February 2009
+65335,A705z00,22,0,0,0,Other specified viral hepatitis without mention of coma NOS,February 2009
+60312,B16y.00,17,0,0,0,Malignant neoplasm other gallbladder/extrahepatic bile duct,February 2009
+96266,7N45500,35,0,0,0,[SO]Hepatic artery,April 2009
+30655,G851.00,2038,0,13,0,Oesophageal varices without bleeding,February 2009
+71169,7822000,17,0,0,0,Anast hepatic duct to transp jejunum+insert tubal prosth,February 2009
+26393,B152.00,1556,0,28,0,Malignant neoplasm of liver unspecified,February 2009
+22411,J622.11,3203,0,53,0,Encephalopathy - hepatic,February 2009
+5638,J616000,8933,0,374,0,Primary biliary cirrhosis,February 2009
+37727,7801400,38,0,0,0,Marsupialisation of lesion of liver,February 2009
+16725,J615.00,2309,0,58,0,Cirrhosis - non alcoholic,February 2009
+7943,J617.00,5084,0,89,0,Alcoholic hepatitis,February 2009
+1640,J63..00,5541,0,530,33,Other liver disorders,February 2009
+39945,J600011,201,0,0,0,Acute liver failure,February 2009
+1755,J614200,45,0,2,0,Chronic aggressive hepatitis,February 2009
+104341,A70A.00,494,0,0,0,Hepatitis C genotype 1,June 2012
+899,J633.00,11355,0,1708,996,Hepatitis unspecified,February 2009
+41237,J631.00,180,0,2,0,Hepatitis in viral diseases EC,February 2009
+8206,C350012,58,0,5,0,Pigmentary cirrhosis of liver,February 2009
+22766,J635000,527,0,22,3,Toxic liver disease with cholestasis,February 2009
+49423,780D200,15,0,0,0,Transjugular intrahepatic thrombolysis of portal vein,February 2009
+104730,8A7..00,412,0,0,0,Liver function monitoring,August 2012
+105664,A70B.00,38,0,0,0,Hepatitis C genotype 2,January 2013
+56066,4J3D.00,53,0,7,695,Hepatitis B viral load,February 2009
+56114,D012400,13,0,0,0,Folate-deficiency anaemia due to liver disorders,February 2009
+48223,BB54.00,59,0,1,0,[M]Scirrhous adenocarcinoma,February 2009
+36107,J635100,34,0,1,0,Toxic liver disease with hepatic necrosis,February 2009
+16915,B151.00,217,0,1,0,Malignant neoplasm of intrahepatic bile ducts,February 2009
+28798,J63y100,574,0,16,0,Nonspecific reactive hepatitis,February 2009
+6692,SP08600,182,0,9,2,Liver transplant failure and rejection,February 2009
+27319,7800z00,221,0,7,0,Transplantation of liver NOS,February 2009
+106895,S741.00,11,0,0,0,Open injury of liver,August 2013
+33715,L12A.00,885,0,32,0,"HELLP - Syndrome haemolysis, elev liver enzyme low platelets",February 2009
+69053,A702.00,14,0,0,0,Viral hepatitis B with coma,February 2009
+66182,PB6yw00,20,0,0,0,Other congenital anomaly of liver,February 2009
+10691,J610.00,9169,0,178,0,Alcoholic fatty liver,February 2009
+24333,R148000,734,0,98,1,[D]Abnormal liver scan,February 2009
+48928,J615H00,20,0,0,0,Infectious cirrhosis NOS,February 2009
+1638,J615z13,13239,0,558,12,Cirrhosis of liver NOS,February 2009
+57100,G820.11,80,0,2,0,Hepatic vein thrombosis,February 2009
+49880,7804z00,18,0,1,0,Incision of liver NOS,February 2009
+65678,B715.00,10,0,1,0,Benign neoplasm of liver and biliary ducts,February 2009
+42222,J631z00,20,0,0,0,Hepatitis in viral diseases EC NOS,February 2009
+57703,7802200,72,0,3,0,Thermal ablation of single lesion of liver,February 2009
+27663,J63X.00,281,0,3,0,"Granulomatous hepatitis, not elsewhere classified",February 2009
+98568,780E100,20,0,0,0,Percutaneous transluminal insertion stent hepatic artery NEC,February 2010
+61643,B151z00,49,0,0,0,Malignant neoplasm of intrahepatic bile ducts NOS,February 2009
+11960,760C300,324,0,11,0,Fibreoptic endoscopic injection sclerotherapy oesoph varices,February 2009
+67779,Q409.00,31,0,2,0,Congenital viral hepatitis,February 2009
+104435,A70z100,261,0,3,0,Acute viral hepatitis NOS,June 2012
+55962,A700.00,12,0,0,0,Viral hepatitis A with coma,February 2009
+46647,760F400,384,0,1,0,Rigid oesophagoscopic banding of oesophageal varices,February 2009
+69552,A704.00,10,0,1,0,Other specified viral hepatitis with coma,February 2009
+18652,J63B.00,4426,0,60,0,Autoimmune hepatitis,February 2009
+71240,780D300,130,0,0,0,Transjugular intrahepatic creation of portosystemic shunt,February 2009
+34087,A785200,96,0,0,0,Cytomegaloviral hepatitis,February 2009
+36727,J635.00,263,0,1,0,Toxic liver disease,February 2009
+46147,A17y400,15,0,0,0,Tuberculosis of liver,February 2009
+29021,A053.00,542,0,12,0,Amoebic liver abscess,February 2009
+11972,G85..12,5190,0,322,0,Varices - other,February 2009
+1641,G85..11,4951,0,140,0,Oesophageal varices,February 2009
+34642,Q48yz11,53,0,1,0,Congenital hepatic fibrosis,February 2009
+4743,J612.00,17795,0,520,3,Alcoholic cirrhosis of liver,February 2009
+89717,761D800,166,0,0,0,Fibreopt endoscop rubber band ligation of upper GIT varices,February 2009
+89000,7801500,29,0,0,0,Left hepatic trisegmentectomy,February 2009
+104243,4JQF.00,509,0,38,983,Hepatitis C antigen positive,June 2012
+21165,PB6y.00,58,0,1,0,Other liver and biliary anomalies,February 2009
+46134,7803200,24,0,0,0,Packing of laceration of liver,February 2009
+48488,J60..00,94,0,1,0,Acute and subacute liver necrosis,February 2009
+15103,B577.00,7274,0,209,3,Secondary malignant neoplasm of liver,February 2009
+101440,7802.00,11,0,0,0,Extirpation of lesion of liver,January 2011
+31897,J62..00,419,0,11,0,Liver abscess and sequelae of chronic liver disease,February 2009
+15562,J633000,202,0,7,0,Toxic hepatitis,February 2009
+15360,J63z.00,3923,0,456,0,Liver disorder NOS,February 2009
+14291,43B2.11,84,0,29,2475,Hepatitis B antibody present,February 2009
+99898,9kR..00,2150,0,0,0,Chronic hepatitis annual review - enhanced services admin,June 2010
+5219,J633z00,8795,0,1240,643,Hepatitis unspecified NOS,February 2009
+95637,782P700,28,0,0,0,Percutaneous transhepatic cholangioscopy,February 2009
+35589,4JQ3.00,48,0,1,970,Hepatitis C virus genotype,February 2009
+16455,J615z00,1049,0,50,0,Non-alcoholic cirrhosis NOS,February 2009
+41104,J635200,112,0,6,0,Toxic liver disease with acute hepatitis,February 2009
+66673,B808.00,28,0,1,0,Carcinoma in situ of liver and biliary system,February 2009
+9026,ZV42700,2034,0,37,0,[V]Liver transplanted,February 2009
+62225,G853.00,23,0,0,0,Sublingual varices,February 2009
+28929,G857.00,1252,0,6,0,Gastric varices,February 2009
+51966,780B.00,26,0,0,0,Other puncture of liver,February 2009
+6690,J600000,899,0,42,0,Acute hepatic failure,February 2009
+52537,B161100,54,0,1,0,Malignant neoplasm of hepatic duct,February 2009
+24989,G850.00,2815,0,25,0,Oesophageal varices with bleeding,February 2009
+49490,G74y900,52,0,2,0,Embolism and thrombosis of the hepatic artery,February 2009
+27175,43B4.00,202,0,37,2848,Hepatitis B surface antig +ve,February 2009
+7602,J617000,192,0,3,0,Chronic alcoholic hepatitis,February 2009
+3450,J615300,143,0,8,0,Diffuse nodular cirrhosis,February 2009
+33597,J61yz00,87,0,4,0,Other non-alcoholic chronic liver disease NOS,February 2009
+103715,J620200,22,0,0,0,Liver abscess via hepatic artery,February 2012
+58876,J631500,110,0,0,0,Hepatitis in other viral disease,February 2009
+104225,Q434100,12,0,0,0,Giant cell hepatitis causing neonatal jaundice,June 2012
+46267,S740100,75,0,0,0,Liver haematoma and contusion without open wound into cavity,February 2009
+25310,B808000,518,0,19,0,Carcinoma in situ of liver,February 2009
+41480,J600.00,70,0,0,0,Acute necrosis of liver,February 2009
+25535,B150.00,1092,0,25,1,Primary malignant neoplasm of liver,February 2009
+34623,AC25.00,10,0,0,0,Liver echinococcus multilocularis,February 2009
+23433,B161.00,193,0,0,0,Malignant neoplasm of extrahepatic bile ducts,February 2009
+47214,760F300,32,0,0,0,Rigid oesophagoscopic injection sclerotherapy oesoph varices,February 2009
+57985,AC20.00,20,0,1,0,Liver echinococcus granulosus,February 2009
+1440,A701.11,15620,0,346,24,Infective hepatitis,February 2009
+23511,J622.00,270,0,24,0,Hepatic coma,February 2009
+106642,A707300,461,0,6,0,Chronic viral hepatitis B,August 2013
+69194,7800200,13,0,0,0,Replacement of previous liver transplant,February 2009
+4454,J620z00,1397,0,38,0,Liver abscess NOS,February 2009
+3216,J611.00,5342,0,250,1,Acute alcoholic hepatitis,February 2009
+53877,J614y00,81,0,2,0,Chronic hepatitis unspecified,February 2009
+22168,J601100,163,0,8,0,Subacute hepatitis - noninfective,February 2009
+43490,Byu1100,68,0,3,0,[X]Other specified carcinomas of liver,February 2009
+43404,7609300,87,0,2,0,Local ligation of oesophageal varices,February 2009
+90460,Jyu7300,85,0,0,0,[X]Other specified diseases of liver,February 2009
+34316,7N33311,123,0,5,0,[SO]Hepatic duct NEC,February 2009
+58088,B151400,17,0,0,0,Malignant neoplasm of intrahepatic gall duct,February 2009
+48102,J62y.00,184,0,1,0,Other sequelae of chronic liver disease,February 2009
+17219,J635300,15,0,0,0,Toxic liver disease with chronic persistent hepatitis,February 2009
+26405,J63A.00,67,0,0,0,Hepatic granulomas in sarcoidosis,February 2009
+62582,G852z00,32,0,0,0,Oesophageal varices in diseases EC NOS,February 2009
+70407,S740.00,36,0,0,0,Closed injury of liver,February 2009
+58641,43jW.00,14,0,0,222,Hepatitis E nucleic acid detection,February 2009
+15855,J600100,2643,0,54,0,Acute hepatitis - noninfective,February 2009
+4403,B577.11,20679,0,501,0,Liver metastases,February 2009
+27565,PB62.00,412,0,56,20,Congenital cystic liver disease,February 2009
+46723,PB6y600,22,0,1,0,Atrophy of left lobe of liver,February 2009
+25700,ZV7C000,156,0,1,0,[V]Assessment for liver transplant,February 2009
+45939,AE23.00,18,0,1,0,Sequelae of viral hepatitis,February 2009
+17330,J613000,592,0,32,0,Alcoholic hepatic failure,February 2009
+7957,J614111,1549,0,42,0,Autoimmune chronic active hepatitis,February 2009
+10572,J61y700,2948,0,23,0,Steatosis of liver,February 2009
+27174,43B5.00,15,0,4,177,Hepatitis e antigen present,February 2009
+40520,B903000,183,0,27,0,Neoplasm of uncertain behaviour of liver,February 2009
+22553,7804y00,11,0,0,0,Other specified incision of liver,February 2009
+17222,SP14211,280,0,25,0,Liver failure as a complication of care,February 2009
+10234,J61y100,67473,0,1079,2,Non-alcoholic fatty liver,February 2009
+4097,R148.00,45247,0,4205,6,[D]Abnormal liver function test,February 2009
+31201,PB6..14,564,0,52,0,Liver anomalies,February 2009
+28568,43X3.00,607,0,74,4557,Hepatitis C antibody test positive,February 2009
+98148,J61y800,1717,0,20,0,Nonalcoholic steatohepatitis,December 2009
+104579,A70G.00,231,0,2,0,Acute hepatitis C,July 2012
+4405,7800.00,1886,0,23,0,Transplantation of liver,February 2009
+53221,PKy0200,24,0,1,0,Adams-Oliver syndrome,February 2009
+46131,7803.00,49,0,1,0,Repair of liver,February 2009
+94033,780E000,17,0,2,0,Percutan transluminal insertion stent graft hepatic artery,February 2009
+59579,7808000,97,0,0,0,Percutaneous transluminal embolisation of hepatic artery,February 2009
+26979,44DZ.00,23,0,183,23474,Liver function tests NOS,February 2009
+25383,J61y400,1388,0,12,0,Hepatic fibrosis,February 2009
+30884,4J3B.00,64,0,13,3084,Hepatitis C viral load,February 2009
+50245,Q409100,203,0,4,1,Congenital hepatitis B infection,February 2009
+25641,BB5D513,290,0,7,0,[M]Liver cell carcinoma,February 2009
+25589,C376100,195,0,8,9,Alpha-1-antitrypsin hepatitis,February 2009
+16759,760C500,3557,0,8,0,Fibreoptic endoscopic banding of oesophageal varices,February 2009
+21769,J625.11,690,0,13,0,[X] Liver failure,February 2009
+53582,S740y00,59,0,2,0,Other liver laceration without open wound into cavity,February 2009
+70649,A72x000,14,0,1,0,Mumps hepatitis,February 2009
+20137,A70z.00,2075,0,353,207,Unspecified viral hepatitis,February 2009
+44424,G852.00,58,0,0,0,Oesophageal varices in diseases EC,February 2009
+70044,PB60z00,10,0,1,0,Unspecified liver and biliary system anomaly NOS,February 2009
+102568,4JQD.00,138,0,7,519,Hepatitis C viral ribonucleic acid PCR positive,July 2011
+10539,J61z.00,3371,0,16,0,Chronic liver disease NOS,February 2009
+54103,B16..00,142,0,0,0,Malignant neoplasm gallbladder and extrahepatic bile ducts,February 2009

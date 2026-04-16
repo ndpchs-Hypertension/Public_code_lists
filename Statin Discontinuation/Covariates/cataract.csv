@@ -1,0 +1,111 @@
+medcode,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm,databasebuild
+296,403492,89027,17,0,F46..00,Cataract,February 2009
+5361,89765,1267,0,0,7266.11,Other extraction of cataract,February 2009
+4260,72515,1129,0,0,7264.11,Intracapsular extraction of cataract,February 2009
+703,71215,8285,1,0,F466.00,Bilateral cataracts,February 2009
+1622,68638,28413,0,0,22E5.00,O/E - cataract present,February 2009
+6330,34406,605,0,0,7263.12,Extracapsular extraction of cataract,February 2009
+6317,18674,1572,0,0,F46z.00,Cataract NOS,February 2009
+5518,14287,3975,0,0,1483.00,H/O: cataract,February 2009
+103508,13649,3,0,0,7267600,Cataract extraction and insertion of intraocular lens,January 2012
+6547,11606,1171,0,0,2BT0.00,O/E - Right cataract present,February 2009
+9931,11247,1102,0,0,2BT1.00,O/E - Left cataract present,February 2009
+10010,7475,413,0,0,F461.00,Senile cataract,February 2009
+7793,4927,123,0,0,F460700,Nuclear cataract,February 2009
+7257,3356,39,0,0,F460500,Cortical cataract,February 2009
+11537,2467,489,0,0,68A3.00,Cataract screen,February 2009
+299,2311,167,0,0,P330.00,"Congenital cataract, unspecified",February 2009
+20887,2305,243,0,0,12A2.00,FH: Cataract,February 2009
+11970,2253,55,0,0,14NC.00,H/O: Bilateral cataract extraction,February 2009
+28513,2242,8,0,0,14N9.00,H/O: R cataract extraction,February 2009
+28515,2194,8,0,0,14NA.00,H/O: L cataract extraction,February 2009
+11255,2072,66,0,0,P331100,Subcapsular cataract,February 2009
+4148,1728,94,0,0,P33..00,Congenital cataract and lens anomalies,February 2009
+10659,1547,107,5,0,F464000,Diabetic cataract,February 2009
+3897,1349,74,0,0,F462.00,Traumatic cataract,February 2009
+94348,1052,10,0,0,8LC0.00,Cataract operation planned,February 2009
+4459,1023,102,0,0,ZV45611,[V]State following cataract extraction,February 2009
+47566,874,16,0,0,F461000,Unspecified senile cataract,February 2009
+23631,844,259,0,0,F461500,Immature cataract NOS,February 2009
+18089,824,197,0,0,P331000,Capsular cataract,February 2009
+4358,455,43,0,0,F46y.00,Other cataract,February 2009
+38641,437,11,0,0,7266100,Discission of cataract,February 2009
+29770,426,125,0,0,F461z00,Senile cataract NOS,February 2009
+6876,416,5,0,0,F461900,Nuclear senile cataract,February 2009
+15589,309,20,0,0,F46yz00,Other cataract NOS,February 2009
+23883,290,1,0,0,7263011,Needling of lens for cataract,February 2009
+17983,191,53,0,0,ZV7A200,[V]Screening for cataract,February 2009
+4242,167,0,0,0,F460400,Posterior subcapsular polar cataract,February 2009
+44982,158,5,0,0,C10FE00,Type 2 diabetes mellitus with diabetic cataract,February 2009
+64196,155,0,0,0,2BT..00,Cataract observation,February 2009
+48228,152,1,0,0,F463.00,Cataract secondary to ocular disease,February 2009
+27898,152,1,0,0,P33y000,Blue dot cataract,February 2009
+33482,113,14,0,0,F465.00,After cataract,February 2009
+45926,100,6,0,0,P33z.00,Congenital cataract or lens anomaly NOS,February 2009
+42452,99,19,0,0,F4K2D00,Vitreous syndrome following cataract surgery,February 2009
+44794,88,1,0,0,F460000,Unspecified infantile cataract,February 2009
+22022,78,3,0,0,F461800,Cortical senile cataract,February 2009
+45190,73,2,0,0,F460600,Lamellar zonular cataract,February 2009
+50638,71,0,0,0,F462z00,Traumatic cataract NOS,February 2009
+44294,71,1,0,0,F46z000,Immature cortical cataract,February 2009
+5325,68,1,0,0,F461700,Posterior subcapsular polar senile cataract,February 2009
+24467,61,2,0,0,F465000,Unspecified secondary cataract,February 2009
+93727,57,1,0,0,C10FE11,Type II diabetes mellitus with diabetic cataract,February 2009
+48148,54,3,0,0,F461400,Incipient cataract NOS,February 2009
+41668,50,3,0,0,F460.00,"Infantile, juvenile and presenile cataracts",February 2009
+19371,49,3,0,0,F463400,Cataract in degenerative disorder,February 2009
+63491,47,2,0,0,F460100,Unspecified juvenile cataract,February 2009
+104553,44,0,0,0,F4B4B00,Keratopathy following cataract surgery,July 2012
+33793,41,3,0,0,F461A00,"Total, mature senile cataract",February 2009
+57805,39,1,0,0,F460200,Unspecified presenile cataract,February 2009
+54130,39,1,0,0,F463200,Cataract in eye inflammatory disorder,February 2009
+44487,33,1,0,0,F465z00,After cataract NOS,February 2009
+51162,33,1,0,0,F461B00,Hypermature cataract,February 2009
+59914,27,4,0,0,P331.00,Capsular and subcapsular cataract,February 2009
+63212,26,1,0,0,P333.00,Nuclear cataract - congenital,February 2009
+58078,23,1,0,0,F460z00,Nonsenile cataract NOS,February 2009
+62605,23,0,0,0,F462000,Unspecified traumatic cataract,February 2009
+26097,22,0,0,0,F461300,Punctate cataract,February 2009
+59125,21,0,0,0,F460300,Anterior subcapsular polar cataract,February 2009
+26850,20,2,0,0,F465300,After-cataract with vision obscured,February 2009
+49554,20,0,0,0,C10EF00,Type 1 diabetes mellitus with diabetic cataract,February 2009
+61325,19,0,0,0,F463300,Cataract with neovascularization,February 2009
+69278,18,0,0,0,C109E00,Non-insulin depend diabetes mellitus with diabetic cataract,February 2009
+49085,18,0,0,0,F461y00,Other senile cataract,February 2009
+88738,17,1,0,0,P331z00,Capsular or subcapsular cataract NOS,February 2009
+60425,17,0,0,0,P332000,Cortical cataract - congenital,February 2009
+58120,15,1,0,0,F464400,Drug induced cataract,February 2009
+70201,15,0,0,0,FyuE100,[X]Other specified cataract,February 2009
+48192,14,4,0,0,C109E11,Type II diabetes mellitus with diabetic cataract,February 2009
+71291,12,0,0,0,F464.00,Cataract due to other disorder,February 2009
+63429,12,1,0,0,P332100,Zonular cataract,February 2009
+94430,11,0,0,0,F464z00,Cataract due to other disorder NOS,February 2009
+70257,11,0,0,0,F461x00,Combined senile cataract,February 2009
+50932,10,2,0,0,F461200,Coronary cataract,February 2009
+66093,10,0,0,0,F464600,Radiation induced cataract,February 2009
+46169,10,0,0,0,F463z00,Cataract secondary to ocular disorder NOS,February 2009
+70700,9,0,0,0,P33y.00,Other specified congenital cataract or lens anomaly,February 2009
+62188,9,0,0,0,F463000,Unspecified cataracta complicata,February 2009
+44779,9,1,0,0,C109E12,Type 2 diabetes mellitus with diabetic cataract,February 2009
+60883,9,1,0,0,F464200,Myotonic cataract,February 2009
+44260,8,2,0,0,C108F00,Insulin dependent diabetes mellitus with diabetic cataract,February 2009
+49297,8,0,0,0,FyuE400,[X]Cataract in other diseases classified elsewhere,February 2009
+105971,8,0,0,0,F4B4C00,Bullous aphakic keratopathy following cataract surgery,April 2013
+73419,7,0,0,0,F462200,Total traumatic cataract,February 2009
+58625,7,0,0,0,F464300,Cataract associated with other syndromes,February 2009
+90279,6,0,0,0,P33yz00,Other congenital cataract or lens anomaly NOS,February 2009
+39081,6,0,0,0,P334000,Total congenital cataract,February 2009
+63640,6,0,0,0,F461B11,Morgagni cataract,February 2009
+17545,5,1,0,0,C108F11,Type I diabetes mellitus with diabetic cataract,February 2009
+94474,4,0,0,0,F460x00,Combined nonsenile cataract,February 2009
+89585,4,1,0,0,F465200,Other after cataract with vision normal,February 2009
+101939,3,0,0,0,FyuE000,[X]Other senile cataract,March 2011
+70403,3,0,0,0,F460y00,Other nonsenile cataract,February 2009
+98962,3,0,0,0,P332z00,Cortical or zonular cataract NOS,April 2010
+96385,2,0,0,0,P332.00,Cortical and zonular cataract,April 2009
+71623,2,0,0,0,P334z00,Total or subtotal congenital cataract NOS,February 2009
+92358,2,0,0,0,F461600,Anterior subcapsular polar senile cataract,February 2009
+45952,2,0,0,0,F464100,Tetanic cataract,February 2009
+99424,1,0,0,0,P33y100,Congenital membranous cataract,May 2010
+110400,1,0,0,0,C108F12,Type 1 diabetes mellitus with diabetic cataract,December 2015
+100770,1,0,0,0,C10EF12,Insulin dependent diabetes mellitus with diabetic cataract,November 2010
