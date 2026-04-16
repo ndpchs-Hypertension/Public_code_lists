@@ -1,0 +1,24 @@
+medcode	readcode	readterm
+54738	1452	H/O: Anaemia vit.B12 deficient
+7403	66E..00	B12 deficiency monitoring
+31126	66E3.00	B12 injections started
+42928	66E4.00	B12 injections - at home
+12329	66E5.00	B12 injections - at surgery
+66935	66E6.00	Reticulcytosis after B12
+36840	66EZ.00	B12 defic. monitoring NOS
+6076	7L18500	Intramuscular injection of vitamin B12
+2515	C262100	Vitamin B12 deficiency
+29486	D011.00	Other vitamin B12 deficiency anaemias
+5271	D011.11	Vitamin B12 deficiency anaemia
+32953	D011000	Vitamin B12 deficiency anaemia due to dietary causes
+72895	D011011	Imerslund - Grasbeck syndrome
+69275	D011013	Vegan's anaemia
+2482	D011100	Vit B12 defic anaemia due to malabsorption with proteinuria
+62637	D011200	Transcobalamin II deficiency
+6028	D011X00	Vitamin B12 deficiency anaemia, unspecified
+31270	D011z00	Other vitamin B12 deficiency anaemia NOS
+22715	D013000	Combined B12 and folate deficiency anaemia
+47952	Dyu0100	[X]Other dietary vitamin B12 deficiency anaemia
+35092	Dyu0200	[X]Other vitamin B12 deficiency anaemias
+53846	Dyu0600	[X]Vitamin B12 deficiency anaemia, unspecified
+24581	F11x600	Cerebral degeneration due to vitamin B12 deficiency

@@ -1,0 +1,18 @@
+medcode	readcode	readterm
+107250	66p..00	Vitamin D deficiency monitoring
+107460	66p0.00	Vitamin D deficiency annual review
+102445	85D0.00	Injection of vitamin D
+11974	C28..00	Vitamin D deficiency
+10450	C28..11	Osteomalacia
+5074	C28..12	Rickets
+31367	C280.00	Active rickets
+61243	C281.00	Late effect of rickets
+37350	C282.00	Osteomalacia unspecified
+60471	C284.00	Senile osteomalacia
+19441	C285.00	Adult osteomalacia due to malabsorption
+58696	C286.00	Adult osteomalacia due to malnutrition
+93311	C287.00	Aluminium bone disease
+105896	C28A.00	Vitamin D-dependent rickets
+31802	C28X.00	Sequelae of unspecified nutritional deficiency
+48021	C28z.00	Avitaminosis D NOS
+106409	C2B..00	Vitamin D insufficiency
